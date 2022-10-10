@@ -11,6 +11,6 @@
     <p>Hello les girlz</p>
     <p> petit test </p>
     <p>Coucou c'est un test mon reuf</p>
-    <p>coucou c'est moi maxou</p>    <p>coucou c'est moi Fares</p>
+    <p>j'éffectue un pottentiel test</p>    <p>coucou c'est moi Fares</p>
 </body>
 </html>
