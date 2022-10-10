@@ -13,6 +13,5 @@
     <p>Coucou c'est un test mon reuf</p>
     <p> pppppppppppppppppppppppppppppppp </p>
     <p>j'éffectue un pottentiel test</p>    <p>coucou c'est moi Fares</p>
-    <p>j'éffectue un pottentiel test</p>    <p>coucou c'est moi Fares</p>
 </body>
 </html>
