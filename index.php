@@ -17,6 +17,7 @@
         <input type="email" name="email" required>
         <label>Sujet</label>
         <input type="text" name="sujet" required>
+        <label>Message</label>
         <textarea name="message" required></textarea>
         <input type="submit" value="Envoyer le message">
     </form>
