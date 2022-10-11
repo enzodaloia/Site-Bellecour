@@ -20,12 +20,12 @@
 
 
 
-    <!-- <?php
-    $retour= mail("enzo.daloiadignazio@gmail.com", "essai", "Coucou les amies", "From:projetgb@projetg4bellecour.cf");
+    <?php
+    $retour= mail("enzo.daloiadignazio@gmail.com", "essai", "Coucou les amies", "From:maire.bellecour@lowhost.fr");
     if($retour){
         echo "<p> L'email à été envoyé !</p>";
     }
 
-    ?> -->
+    ?>
 </body>
 </html>
