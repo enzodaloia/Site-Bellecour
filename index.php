@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -8,11 +7,25 @@
     <title>Document</title>
 </head>
 <body>
-    <p>Coucou c'est moi Ali.</p>
-    <p>Hello les girlz</p>
-    <p> petit test </p>
-    <p>Coucou c'est un test mon reuf</p>
-    <p> pppppppppppppppppppppppppppppppp </p>
-    <p>j'éffectue un pottentiel test</p>    <p>coucou c'est moi le b</p> <p>coucou c'est moi Fares</p>
+    <h1>Contactez-nous</h1>
+    <p>Pour toute demande, remplissez le formulaire ci-dessous.</p>
+    <form method="POST">
+        <label>Email</label>
+        <input type="email" name="email" required>
+        <label>Sujet</label>
+        <input type="text" name="sujet" required>
+        <textarea name="message" required></textarea>
+        <input type="text" value="Envoyer le message">
+    </form>
+
+
+
+    <?php
+    $retour= mail("enzo.daloiadignazio@gmail.com", "essai", "Coucou les amies", "From:maire.bellecour@lowhost.fr");
+    if($retour){
+        echo "<p> L'email à été envoyé !</p>";
+    }
+
+    ?>
 </body>
 </html>
