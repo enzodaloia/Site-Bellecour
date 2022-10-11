@@ -19,17 +19,6 @@
         <textarea name="message" required></textarea>
         <input type="submit" value="Envoyer le message">
     </form>
-<<<<<<< HEAD
-
-
-
-    <?php
-    $retour= mail("enzo.daloiadignazio@gmail.com", "essai", "Coucou les amies", "From:maire.bellecour@lowhost.fr");
-    if($retour){
-        echo "<p> L'email à été envoyé !</p>";
-    }
-
-=======
     <?php
     if (isset($_POST["message"])) {
         $message= "Ce message vous à été envoyé via la page du site projetg4bellecour.cf
@@ -41,7 +30,6 @@
             echo "<p> L'email à été envoyé !</p>";
         }
     }
->>>>>>> 5a3546a2da1dc6c998971aae681aaea9e350dfe6
     ?>
 </body>
 </html>
