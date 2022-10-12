@@ -12,7 +12,7 @@
 		<div id="bannière1">
 		<h3><p>Verger Pédagogique du Lycée René Cassin</p>
 		<div id=box1accueil>
-		<p><img src="images/Logo Bellecour Officiel.png"></p>
+		<p><img src="Images/LogoBellecourOfficiel.png"></p>
 		</div>
 		</div>
 			<div>
