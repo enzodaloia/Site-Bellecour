@@ -14,13 +14,30 @@
         <div class="collapse navbar-collapse">
         <ul class="navbar-nav me-auto my-2 my-lg-0 navbar-nav-scroll" style="--bs-scroll-height: 100px;">
             <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="contactfr.php">Contact</a>
+                <a class="nav-link active" aria-current="page" href="accueilfr.php">Accueil</a>
             </li>
             <li class="nav-item">
-            <a class="nav-link" href="#">Link</a>
+                <a class="nav-link active" aria-current="page" href="Bellecourfr.php">Bellecour</a>
             </li>
-        </ul>
+            <li class="nav-item">
+                <a class="nav-link active" aria-current="page" href="contactfr.php">Contact</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#">Histoire</a>
+            </li>
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                    Link
+                </a>
+                <ul class="dropdown-menu">
+                    <li><a class="dropdown-item" href="#">Action</a></li>
+                    <li><a class="dropdown-item" href="#">Another action</a></li>
+                    <li><hr class="dropdown-divider"></li>
+                    <li><a class="dropdown-item" href="#">Something else here</a></li>
+                </ul>
+            </li>
         </div>
+        </ul>
     </div>
     </nav>
 
