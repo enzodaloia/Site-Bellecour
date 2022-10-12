@@ -8,41 +8,7 @@
     <title>Accueil</title>
     <link href="css/bootstrap.min.css" rel="stylesheet">
 </head>
-<body>
-    <nav class="navbar navbar-expand-lg bg-light">
-    <div class="container-fluid">
-        <div class="collapse navbar-collapse">
-        <ul class="navbar-nav me-auto my-2 my-lg-0 navbar-nav-scroll" style="--bs-scroll-height: 100px;">
-            <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="accueilfr.php">Accueil</a>
-            </li>
-            <li class="nav-item dropdown">
-                <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Activités</a>
-                <ul class="dropdown-menu">
-                    <li><a class="dropdown-item" href="#">Activités</a></li>
-                    <li><a class="dropdown-item" href="#">Transport</a></li>
-                </ul>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="#">Histoire</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="#">Actualités</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="contactfr.php">Contact</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="contactfr.php">Accès</a>
-            </li>
-        </div>
-        </ul>
-    </div>
-    </nav>
-
-
-
-	<header>
+<header>
 		<div id="bannière1">
 		<h3><p>Verger Pédagogique du Lycée René Cassin</p>
 		<div id=box1accueil>
@@ -81,6 +47,8 @@
 		<div id="bannière2">  
 		</div>
 	</header>
+    <body>
+	
 
 
 
