@@ -16,8 +16,12 @@
             <li class="nav-item">
                 <a class="nav-link active" aria-current="page" href="accueilfr.php">Accueil</a>
             </li>
-            <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="Bellecourfr.php">Bellecour</a>
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Bellecour</a>
+                <ul class="dropdown-menu">
+                    <li><a class="dropdown-item" href="#">Activités</a></li>
+                    <li><a class="dropdown-item" href="#"></a>Transport</li>
+                </ul>
             </li>
             <li class="nav-item">
                 <a class="nav-link active" aria-current="page" href="contactfr.php">Contact</a>
