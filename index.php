@@ -32,7 +32,7 @@
 		<div id="bannière2">  
 		</div>
 	</header>
-    <body>
+    <body id="body">
 	
 
 
