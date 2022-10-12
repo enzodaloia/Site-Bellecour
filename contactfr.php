@@ -32,7 +32,7 @@
 		<div id="bannière2">  
 	</div>
 </header>
-<body>
+<body id="body">
 <h1>Contactez-nous</h1>
     <p>Pour toute demande, remplissez le formulaire ci-dessous.</p>
     <form method="POST">
