@@ -17,3 +17,88 @@ form input, form textarea{
 form input[type=submit] {
     width: auto;
 }
+
+header div{
+	color: black;
+	margin: 0px;
+}
+
+#bannière1{
+	text-align:center;
+	padding-top:1px;
+	display: flex;
+	justify-content:center;
+	align-items: center;
+	background-color:#7fffbb;
+	height:50px;
+	width:100%;
+}
+
+header{
+	font-family: Arial;
+	min-width: 500px;
+	width:100%;
+	height:180px;
+	position:relative;
+	background-color: #83e36b ;
+}
+
+header div ul{
+	margin: 0;
+	padding: 0;
+	float: left;
+	left:35%;
+	position:relative;
+	padding-top:0px;
+	margin-left: -48px;
+}
+
+header div ul li{
+	margin: 0;
+	padding: 0;
+	float: left;
+	list-style: none;
+
+	width: 140px;
+	height: 60px;
+	background-color: rgba(0,0,0,0.8);
+	line-height: 50px;
+	text-align: center;
+	list-style-type: none;
+}
+
+header div ul li a{
+	display: block;
+	text-align:center;
+	display:inline-block;
+	background-color:#7fffbb;
+	height:60px;
+	width:140px;
+	color: black;
+	text-decoration: none;
+	
+}
+
+header ul li a{
+		display: block;
+}
+
+header div ul li a:hover{
+	background-color: grey;
+	opacity: 0.9;
+}
+
+header div ul li ul li{
+	display: none;
+}
+
+header div ul li:hover ul li{
+	display: block;
+}
+
+#bannière2{
+	display: block;
+	background-color:#83e36b;
+	height:70px;
+	width:100%;
+}
