@@ -17,7 +17,7 @@
                 <a class="nav-link active" aria-current="page" href="accueilfr.php">Accueil</a>
             </li>
             <li class="nav-item dropdown">
-                <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Bellecour</a>
+                <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Activités</a>
                 <ul class="dropdown-menu">
                     <li><a class="dropdown-item" href="#">Activités</a></li>
                     <li><a class="dropdown-item" href="#">Transport</a></li>
@@ -27,18 +27,13 @@
                 <a class="nav-link" href="#">Histoire</a>
             </li>
             <li class="nav-item">
+                <a class="nav-link" href="#">Actualités</a>
+            </li>
+            <li class="nav-item">
                 <a class="nav-link active" aria-current="page" href="contactfr.php">Contact</a>
             </li>
-            <li class="nav-item dropdown">
-                <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                    Link
-                </a>
-                <ul class="dropdown-menu">
-                    <li><a class="dropdown-item" href="#">Action</a></li>
-                    <li><a class="dropdown-item" href="#">Another action</a></li>
-                    <li><hr class="dropdown-divider"></li>
-                    <li><a class="dropdown-item" href="#">Something else here</a></li>
-                </ul>
+            <li class="nav-item">
+                <a class="nav-link active" aria-current="page" href="contactfr.php">Accès</a>
             </li>
         </div>
         </ul>
