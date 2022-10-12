@@ -19,8 +19,8 @@
             <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Bellecour</a>
                 <ul class="dropdown-menu">
-                    <li><a class="dropdown-item" href="#"></a>Activités</li>
-                    <li><a class="dropdown-item" href="#"></a>Transport</li>
+                    <li><a class="dropdown-item" href="#">Activités</a></li>
+                    <li><a class="dropdown-item" href="#">Transport</a></li>
                 </ul>
             </li>
             <li class="nav-item">
