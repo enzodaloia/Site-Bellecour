@@ -30,7 +30,7 @@
 				</ul>
 			</div>
 		<div id="bannière2">  
-		</div>
+	    </div>
 	</header>
     <body id="body">
 	
