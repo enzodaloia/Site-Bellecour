@@ -10,14 +10,13 @@
 </head>
 <header>
 		<div id="bannière1">
-		<h3><p>Verger Pédagogique du Lycée René Cassin</p>
 		<div id=box1accueil>
 		<p><img src="Images/LogoBellecourOfficiel.png"></p>
 		</div>
 		</div>
 			<div>
 				<ul>
-					<li><a href="Accueil.html">Accueil</a></li>
+					<li><a href="accueilfr.php">Accueil</a></li>
 					<li><a>projets faits</a>
 						<ul>
 							<li><a href="bancs.html">Bancs</a></li>
