@@ -12,7 +12,7 @@
 		<div id="bannière1">
 		<h3><p>Verger Pédagogique du Lycée René Cassin</p>
 		<div id=box1accueil>
-		<a href="http://lyc71-cassin.ac-dijon.fr/"><p><img src="images/LOGOCASSIN.png"></p></a>
+		<img src="Logo Bellecour Officiel.png">
 		</div>
 		</div>
 			<div>
@@ -49,9 +49,6 @@
 	</header>
     <body>
 	
-
-
-
 
 
 
