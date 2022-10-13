@@ -37,6 +37,7 @@
     <div class="container-fluid">
         <center>
         <div class="row">
+            <div class="col-md-12">
         <h1>Contactez-nous</h1>
         <p>Pour toute demande, remplissez le formulaire ci-dessous.</p>
         </div>
@@ -65,6 +66,7 @@
             }
         }
         ?>
+        </div>
         </center>
     </div>
     
