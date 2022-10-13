@@ -33,37 +33,41 @@
 	</div>
 </header>
 <body id="body">
-    <center>
-    <div class="row">
-    <h1>Contactez-nous</h1>
-    <p>Pour toute demande, remplissez le formulaire ci-dessous.</p>
-    </div>
-
     
-    <form method="POST">
-        <label>Nom</label>
-        <input type="text" name="nom" required>
-        <label>Email</label>
-        <input type="email" name="email" required>
-        <label>Sujet</label>
-        <input type="text" name="sujet" required>
-        <label>Message</label>
-        <textarea name="message" required></textarea>
-        <input type="submit" value="Envoyer le message">
-    </form>
-    <?php
-    if (isset($_POST["message"])) {
-        $message= "Ce message vous à été envoyé via la page du site projetg4bellecour.cf
-        Nom : " . $_POST["nom"] . "
-        Email : " . $_POST["email"] . "
-        Message : " . $_POST["message"];
-        $retour= mail("enzo.daloiadignazio@gmail.com", $_POST["sujet"], $message, "From:projetgb@projetg4bellecour.cf" . "\r\n" . "Reply-to:" . $_POST["email"]);
-        if($retour){
-            echo "<p> L'email à été envoyé !</p>";
+    <div class="container-fluid">
+        <center>
+        <div class="row">
+        <h1>Contactez-nous</h1>
+        <p>Pour toute demande, remplissez le formulaire ci-dessous.</p>
+        </div>
+
+        
+        <form method="POST">
+            <label>Nom</label>
+            <input type="text" name="nom" required>
+            <label>Email</label>
+            <input type="email" name="email" required>
+            <label>Sujet</label>
+            <input type="text" name="sujet" required>
+            <label>Message</label>
+            <textarea name="message" required></textarea>
+            <input type="submit" value="Envoyer le message">
+        </form>
+        <?php
+        if (isset($_POST["message"])) {
+            $message= "Ce message vous à été envoyé via la page du site projetg4bellecour.cf
+            Nom : " . $_POST["nom"] . "
+            Email : " . $_POST["email"] . "
+            Message : " . $_POST["message"];
+            $retour= mail("enzo.daloiadignazio@gmail.com", $_POST["sujet"], $message, "From:projetgb@projetg4bellecour.cf" . "\r\n" . "Reply-to:" . $_POST["email"]);
+            if($retour){
+                echo "<p> L'email à été envoyé !</p>";
+            }
         }
-    }
-    ?>
-    </center>
+        ?>
+        </center>
+    </div>
+    
     <script src="js/bootstrap.bundle.min.js"></script>
     </body>
 </html>
