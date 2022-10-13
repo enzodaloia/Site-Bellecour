@@ -9,6 +9,7 @@
     <link rel="stylesheet" href="style.css" type="text/css" > 
 
 </head>
+<div class="container-fluid">
 <header>
 		<div id="bannière1">
 		<div id=box1accueil>
@@ -35,7 +36,7 @@
 </header>
 <body id="body">
     
-    <div class="container-fluid">
+
         <center>
         <div class="row">
             <div class="col-md-12"></div>
@@ -68,8 +69,9 @@
         }
         ?>
         </center>
-    </div>
+  
     
     <script src="js/bootstrap.bundle.min.js"></script>
     </body>
+    </div>
 </html>
