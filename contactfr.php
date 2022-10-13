@@ -33,6 +33,7 @@
 	</div>
 </header>
 <body id="body">
+<center>
 <h1>Contactez-nous</h1>
     <p>Pour toute demande, remplissez le formulaire ci-dessous.</p>
     <form method="POST">
@@ -58,6 +59,7 @@
         }
     }
     ?>
+    </center>
     <script src="js/bootstrap.bundle.min.js"></script>
     </body>
 </html>
