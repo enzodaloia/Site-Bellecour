@@ -33,9 +33,11 @@
 	</div>
 </header>
 <body id="body">
-
+    <div id="box1">
     <h1>Contactez-nous</h1>
     <p>Pour toute demande, remplissez le formulaire ci-dessous.</p>
+    </div>
+
     <center>
     <form method="POST">
         <label>Nom</label>
