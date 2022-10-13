@@ -9,12 +9,12 @@
     <link href="css/bootstrap.min.css" rel="stylesheet">
 </head>
 <header>
+<div id="bannière1">
 <div class="container-fluid">
         <center>
         <div class="row">
             <div class="col-md-12">
-                <div id="bannière1">
-                <div id=box1accueil>
+                <div>
                 <!-- <p><img src="Images/LogoBellecourOfficiel.png"></p> -->
                 </div>
                 </div>
