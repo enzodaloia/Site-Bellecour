@@ -34,7 +34,7 @@
 </header>
 <body id="body">
     <center>
-    <div id="box1">
+    <div class="row">
     <h1>Contactez-nous</h1>
     <p>Pour toute demande, remplissez le formulaire ci-dessous.</p>
     </div>
