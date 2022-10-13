@@ -106,3 +106,10 @@ header div ul li:hover ul li{
 #body{
     background-color: bisque;
 }
+
+@media screen and (max-width: 1499px) {
+	.bloc {
+		width: 90%;
+	}
+	
+}
