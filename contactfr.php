@@ -9,8 +9,8 @@
     <link href="css/bootstrap.min.css" rel="stylesheet">
 </head>
 <header>
-<div id="bannière1">
 <div class="container-fluid">
+        <div id="bannière1">
         <center>
         <div class="row">
             <div class="col-md-12">
