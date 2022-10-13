@@ -33,9 +33,9 @@
                             <li><a href="accesfr.php">Accès</a></li>
                         </ul>
                     </div>
-                <div id="bannière2">  
             </div>
         </div>
+        <div id="bannière2">  
 </div>
 </header>
 <body id="body">
