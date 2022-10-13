@@ -9,41 +9,35 @@
     <link href="css/bootstrap.min.css" rel="stylesheet">
 </head>
 <header>
-<div class="container-fluid">
-        <div id="bannière1">
-        <center>
-        <div class="row">
-            <div class="col-md-12">
-                <div>
-                <!-- <p><img src="Images/LogoBellecourOfficiel.png"></p> -->
-                </div>
-                </div>
-                    <div>
-                        <ul>
-                            <li><a href="accueilfr.php">Accueil</a></li>
-                            <li><a>Activités</a>
-                                <ul>
-                                    <li><a href="activitesfr.php">Activités</a></li>
-                                    <li><a href="transportfr.php">Transport</a></li>
-                                </ul>
-                            </li>
-                            <li><a href="histoirefr.php">Histoire</a></li>
-                            <li><a href="actualitesfr.php">Actualités</a></li>
-                            <li><a href="contactfr.php">Contact</a></li>
-                            <li><a href="accesfr.php">Accès</a></li>
-                        </ul>
-                    </div>
-            </div>
-        </div>
-        <div id="bannière2">  
-</div>
+		<div id="bannière1">
+		<div id=box1accueil>
+		<!-- <p><img src="Images/LogoBellecourOfficiel.png"></p> -->
+		</div>
+		</div>
+			<div>
+				<ul>
+					<li><a href="accueilfr.php">Accueil</a></li>
+					<li><a>Activités</a>
+						<ul>
+							<li><a href="activitesfr.php">Activités</a></li>
+							<li><a href="transportfr.php">Transport</a></li>
+						</ul>
+					</li>
+					<li><a href="histoirefr.php">Histoire</a></li>
+					<li><a href="actualitesfr.php">Actualités</a></li>
+                    <li><a href="contactfr.php">Contact</a></li>
+                    <li><a href="accesfr.php">Accès</a></li>
+				</ul>
+			</div>
+		<div id="bannière2">  
+	</div>
 </header>
 <body id="body">
     
     <div class="container-fluid">
         <center>
         <div class="row">
-            <div class="col-md-12">
+            <div class="col-md-12"></div>
         <h1>Contactez-nous</h1>
         <p>Pour toute demande, remplissez le formulaire ci-dessous.</p>
         </div>
@@ -72,7 +66,6 @@
             }
         }
         ?>
-        </div>
         </center>
     </div>
     
