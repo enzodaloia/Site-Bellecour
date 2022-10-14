@@ -1,3 +1,6 @@
+
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -5,13 +8,15 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Contact</title>
-    <link href="css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="style.css" type="text/css" > 
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+   
 
 </head>
-<div class="container-fluid">
+
 <header>
 		<div id="bannière1">
+			<img src="Images/statue.jpg">
 		<div id=box1accueil>
 		<!-- <p><img src="Images/LogoBellecourOfficiel.png"></p> -->
 		</div>
@@ -32,20 +37,15 @@
 				</ul>
 			</div>
 		<div id="bannière2">  
-	</div>
+	    </div>
 </header>
 <body id="body">
-    
-
-        <center>
-        <div class="row">
-            <div class="col-md-12"></div>
+    <center>
+    <div id="form">
+        <form method="POST">
         <h1>Contactez-nous</h1>
         <p>Pour toute demande, remplissez le formulaire ci-dessous.</p>
-        </div>
-
         
-        <form method="POST">
             <label>Nom</label>
             <input type="text" name="nom" required>
             <label>Email</label>
@@ -55,6 +55,7 @@
             <label>Message</label>
             <textarea name="message" required></textarea>
             <input type="submit" value="Envoyer le message">
+        
         </form>
         <?php
         if (isset($_POST["message"])) {
@@ -68,10 +69,12 @@
             }
         }
         ?>
-        </center>
-  
+    </div>
+    </center>
+        
+
     
     <script src="js/bootstrap.bundle.min.js"></script>
     </body>
-    </div>
+
 </html>

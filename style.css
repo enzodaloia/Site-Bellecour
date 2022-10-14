@@ -2,6 +2,10 @@ body {
     font-family: 'Arial', 'sans-serif';
 }
 
+#form{
+	padding-top: 100px;
+}
+
 form input, form textarea{
     display: block;
     margin-top: 20px;
@@ -30,8 +34,8 @@ header div{
 	justify-content:center;
 	align-items: center;
 	background-color: grey;
-	height:150px;
-	width:150%;
+	height:100px;
+	width:100%;
 }
 
 header{
