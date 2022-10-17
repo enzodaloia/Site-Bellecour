@@ -8,6 +8,8 @@
 <title>Histoire</title>
 <link href="css/bootstrap.min.css" rel="stylesheet">
 </head>
+
+<!--* En-tete avec baniere -->
 <header>
    <div class="Banniere1">
      <img id="bannière1" src="Images/statue.jpg">
@@ -59,11 +61,10 @@
 </div>
 
 
-<!--* Image photo Bellecour -->
+<!--* Image photo statue -->
 <div id="statue">
 <p>
-  <center><img src="Images/statu.jpg" class="img-fluid"></center>
-    <center><img class="img-responsive" src="Images/statu.jpg"></center>
+    <img src="Images/statu.jpg" class="img-fluid">
 </p>
 </div>
 
@@ -82,14 +83,6 @@
 </article>
 </div>
 
-
-<!--* Image photo Bellecour -->
-<div id="statue" style="text-align:center">
-<p>
-    <img src="Images/statu.jpg" class="img-fluid">
-    <img class="img-responsive" src="Images/statu.jpg">
-</p>
-</div>
 
 
 <div id="Localisation" class="container-fluid">
