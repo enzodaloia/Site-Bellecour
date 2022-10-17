@@ -82,7 +82,7 @@
 </article>
 </div>
 
-<div class="position-absolute top-50 start-50 translate-middle">
+<div id="divcolor">
 <img id="color" src="Images/color.jpg" class="img-fluid">
 </div>
 

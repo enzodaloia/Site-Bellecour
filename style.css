@@ -139,6 +139,18 @@ header div ul li:hover ul li{
 	margin-left:10px;
 }
 	
+#divcolor {
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	height: 250px;
+	width: 250px;
+	max-height: auto;
+	max-width: auto;
+	min-height: auto;
+	min-width: auto;
+}
+
 #color {
 	width: 200px;
 	height: 200px;
@@ -174,5 +186,6 @@ header div ul li:hover ul li{
 	left:1480px;
 }
 #imgen{width: 35px;}
+
 
 
