@@ -64,9 +64,9 @@
 
 
 <!--* Image photo statue -->
-
-  <img src="Images/color.jpg"> 
-
+<div id="statu">
+<img src="Image/ttt.jpg" class="img-fluid" alt="...">
+</div> 
 
 
 <div id="texte">
