@@ -33,8 +33,7 @@
     <body id="body">
 
 	<div id="test">
-		<p>FR/EN</p>
-		<a></a>
+		<p><a href="accueilfr.php">FR</a> / <a href="accueilen.php">EN</a></p>
 	</div>
 
 
