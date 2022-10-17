@@ -72,8 +72,6 @@
 
 <div>
     <article>
-<br>
-<br>
     <p id="texte">Cette place se trouve aujourd'hui dans le deuxième arrondissement de la ville sur la presqu'île, entre la Saône et le Rhône.<br>
      De la place Bellecour partent trois artères majeures de la Presqu'île de Lyon, côté nord pour le quartier des Terreaux et côté sud pour le quartier de Perrache, dont deux piétonnières :</p>
     <ul>
