@@ -113,7 +113,7 @@
 Au xvie siècle, ce qui n'est encore qu'un pâturage porte le nom de pré de Belle court4. En 1715, devenue place publique, <br>
 elle est baptisée place Royale, puis place Louis-le-Grand en hommage à Louis XIV.</p>
 <br> En 1790, sous la Révolution, les odonymes monarchistes disparaissent et la place devient place de la Fédération, pour perpétuer le souvenir de la Fête de la Fédération, <br>
-dont l'anniversaire marque depuis lors la fête nationale française.
+dont l'anniversaire marque depuis lors la fête nationale française.<br>
 Dès 1793, le lieu des manifestations politiques de la ville prend le nouveau nom de place de l’Égalité (en 1794, la place des Jacobins s'appelle place de la Fraternité). <br>
 L'odonyme continue à évoluer avec les régimes politiques : 
 en 1800 l'esplanade est la place Bonaparte et devient logiquement un peu plus tard place Napoléon <br>
