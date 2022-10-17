@@ -10,12 +10,6 @@
 </head>
 <header>
 		<div id="bannière1">
-<<<<<<< Updated upstream
-=======
-		<div id="box1accueil">
-		<!-- <p><img src="Images/LogoBellecourOfficiel.png"></p> -->
-		</div>
->>>>>>> Stashed changes
 		</div>
 			<div class="bloc">
 				<ul>
