@@ -58,13 +58,15 @@
         En son centre se trouve une statue équestre de Louis XIV. <br>
         Une autre statue, représentant Le Petit Prince et Antoine de Saint-Exupéry, est située à l'extrémité sud-ouest de la place. <br>
         <br> On y trouve aussi deux pavillons y abritent des services de l'office du tourisme, un petit parc pour enfants, une fontaine et deux brasseries.
-</article>a
+</article>
 </p>
 </div>
 
 
 <!--* Image photo statue -->
-
+<div id="statu">
+  <img src="Images/color.jpg" class="img-fluid"> 
+</div> 
 
 
 <div id="texte">
@@ -103,6 +105,8 @@
 </div>
 
 <!--* odonymie -->
+<br>
+<br>
 <h1>Odonymie</h1>
 <article>
 <p> Le toponyme dont dérive le mot « Bellecour » apparaît dès le xiie siècle. Les terres agricoles que l'archevêque y possède sont appelées bella curtis (« beau jardin »). <br>
@@ -119,6 +123,9 @@ Elle est renommée place du Maréchal-Pétain après une visite du chef du régi
 </article>
 </article>
 
+
+<br>
+<br> 
 
 <h1> Histoire </h1>
 <article>
