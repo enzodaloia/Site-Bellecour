@@ -165,6 +165,5 @@ header div ul li:hover ul li{
 	position: absolute;
 	top:300px ;
 	left:300px;
-	width: 20px;
-	height: 20px;
 }
+#imgfr{width: 20px;}
