@@ -74,7 +74,7 @@
         
 
     <div id="footer">
-			<p>Bellecour | projet Pédagogique</p>
+		<p>Bellecour | projet Pédagogique</p>
 	</div>
     <script src="js/bootstrap.bundle.min.js"></script>
     </body>
