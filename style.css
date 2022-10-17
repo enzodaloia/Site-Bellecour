@@ -121,13 +121,18 @@ header div ul li:hover ul li{
 	width:100%;
 }
 
+#bannière2 p {
+	font-weight: bold;
+	text-align: right;
+}
+
 #body{
     background-color: bisque;
 }
 
 #titre { 
 	margin-top:100px;
-	margin-right:150px;
+	margin-right:50px;
 	margin-left:100px;
 }
 
@@ -138,3 +143,14 @@ img {
     width:50%;
 }
 
+#texte{
+	margin-top: 100px;
+	margin-left: 50;
+	margin-right: 50px
+}
+#Localisation {
+	margin-top: 500px;
+	margin-left: 50px;
+	margin-right: 50px;
+
+}
