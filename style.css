@@ -2,8 +2,8 @@ body {
     font-family: 'Arial', 'sans-serif';
 }
 
-#box1{
-	text-align: center;
+#form{
+	padding-top: 100px;
 }
 
 form input, form textarea{
@@ -34,7 +34,7 @@ header div{
 	justify-content:center;
 	align-items: center;
 	background-color: grey;
-	height:150px;
+	height:100px;
 	width:100%;
 }
 
