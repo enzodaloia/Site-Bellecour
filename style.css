@@ -130,6 +130,9 @@ header div ul li:hover ul li{
     background-color: bisque;
 }
 
+#article {
+	padding-left: 10px;
+}
 
 #titre { 
 	margin-top:100px;
