@@ -38,7 +38,7 @@
 <div class="container">
 
 	<div class="row row-cols-1 row-cols-md-3 g-5">
-	<div class="col">
+  <div class="col">
           <div class="card">
             <img src="" class="card-img-top" alt="...">
             <div class="card-body">
@@ -51,7 +51,7 @@
             <div class="card">
               <img src="" class="card-img-top" alt="...">
               <div class="card-body">
-                <h class="card-title">Activités</h4>
+                <h4 class="card-title">Activités</h4>
                 <p class="card-text">Texte à mettre plus tard</p>
               </div>
             </div>
