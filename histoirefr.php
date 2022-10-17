@@ -83,7 +83,7 @@
 </div>
 
 <div id="divcolor">
-<img id="color" src="Images/color.jpg" class="img-fluid">
+<img id="color" src="Images/couleur.jpg">
 </div>
 
 
