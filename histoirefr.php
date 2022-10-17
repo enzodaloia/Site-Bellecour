@@ -60,8 +60,9 @@
 <!--* Image photo Bellecour -->
 <div id="statue" class="container-fluid">
 <div class="position-absolute top-50 start-100 translate-middle">
-<img src="Images/img.jpg" class="img-fluid">
-
+<p>
+    <img src="Images/statu.jpg" class="img-fluid">
+</p>
 </div>
 </div>
 
