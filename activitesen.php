@@ -16,7 +16,7 @@
 					<li><a href="accueilen.php">Home</a></li>
 					<li><a>Activities</a>
 						<ul>
-							<li><a href="activiteen.php">Activities</a></li>
+							<li><a href="activitesen.php">Activities</a></li>
 							<li><a href="transporten.php">Transport</a></li>
 						</ul>
 					</li>
