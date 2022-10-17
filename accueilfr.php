@@ -30,6 +30,9 @@
                     <li><a href="accesfr.php">Accès</a></li>
 				</ul>
 			</div>
+			<div id="fren">
+				<p>FR/EN</p>
+			</div>
 		<div id="bannière2">  
 	    </div>
 	</header>
