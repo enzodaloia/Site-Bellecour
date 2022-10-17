@@ -41,14 +41,14 @@
     <center>
     <div id="form">
         <form method="POST">
-        <h1>Contactez-nous</h1>
-        <p>Pour toute demande, remplissez le formulaire ci-dessous.</p>
+        <h1>Contact us</h1>
+        <p>For any request, fill out the form below.</p>
         
-            <label>Nom</label>
+            <label>Last name</label>
             <input type="text" name="nom" required>
-            <label>Email</label>
+            <label>E-mail</label>
             <input type="email" name="email" required>
-            <label>Sujet</label>
+            <label>Subject</label>
             <input type="text" name="sujet" required>
             <label>Message</label>
             <textarea name="message" required></textarea>
@@ -72,7 +72,7 @@
         
 
     <div id="footer">
-		<p>Bellecour | projet Pédagogique</p>
+		<p>Bellecour | educational project</p>
 	</div>
 
 
