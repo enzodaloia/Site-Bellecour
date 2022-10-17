@@ -44,8 +44,8 @@
 
 	<div class="row row-cols-1 row-cols-md-3 g-5">
   <div class="col">
-    <div class="card">
-      <img src="" class="card-img-bot" alt="...">
+    <div class="card h-100">
+      <img src="..." class="card-img-bot" alt="...">
       <div class="card-body">
         <h4 class="card-title">Visite Bus</h4>
         <p class="card-texte">Bellecour : visite en bus à arrêts multiples</p>
@@ -71,7 +71,7 @@
       <div class="card-body">
         <h4 class="card-title">Vélo</h4>
         <p class="card-texte">Bellecour : 3h en vélo électrique avec pause dégustation</p>
-        <p class="card-texte">3 heurs · Petit Groupe</p>
+        <p class="card-texte">3 heures · Petit Groupe</p>
         <p class="card-texte">À partir de 50€ par personne</p> 
       </div>
     </div>
@@ -82,7 +82,7 @@
       <div class="card-body">
         <h4 class="card-title">Visite Segway</h4>
         <p class="card-texte">Bellecour : visite du quartier en Segway avec un guild local</p>
-        <p class="card-texte">2 heurs · Petit Groupe</p>
+        <p class="card-texte">2 heures · Petit Groupe</p>
         <p class="card-texte">À partir de 52€ par personne</p>
       </div>
     </div>
@@ -93,7 +93,7 @@
       <div class="card-body">
         <h4 class="card-title">Courses d'orientation</h4>
         <p class="card-texte">Bellecour : Courses d'orientation suite à la disparition de Arnaud</p>
-        <p class="card-texte">2 heurs · Petit Groupe</p>
+        <p class="card-texte">2 heures · Petit Groupe</p>
         <p cmass="card-texte">Gratuit</p>
       </div>
     </div>
@@ -104,7 +104,7 @@
       <div class="card-body">
         <h4 class="card-title">Histoire</h4>
         <p class="card-texte">Bellecour : Explication de l'histoire du quartier de Bellecour et autres</p>
-        <p class="card-texte">2 heurs · Petit Groupe</p>
+        <p class="card-texte">2 heures · Petit Groupe</p>
         <p class="card-texte">À partir de 5€ par personne</p>
       </div>
     </div>
