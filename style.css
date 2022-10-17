@@ -137,8 +137,9 @@ header div ul li:hover ul li{
 }
 	
 #statu {
-	width: 200px;
-	height: 200px;
+	width: 300px;
+	height: 300px;
+	padding-top: 500;
 }
 
 
