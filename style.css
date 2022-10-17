@@ -136,9 +136,9 @@ header div ul li:hover ul li{
 	margin-right:10px;
 	margin-left:10px;
 }
-
-
+	
 #statu {
+	align-items: center;
 	width: 500px;
 	height: 500px;
 }
