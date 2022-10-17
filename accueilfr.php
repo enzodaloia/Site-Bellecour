@@ -9,6 +9,7 @@
     <link href="css/bootstrap.min.css" rel="stylesheet">
 </head>
 <header>
+	<div class="container">
 		<div id="bannière1">
 		</div>
 			<div>
@@ -29,7 +30,8 @@
 			
 		<div id="bannière2">
 	    </div>
-	</header>
+	</div>
+</header>
     <body id="body">
 
 	<div id="test">
