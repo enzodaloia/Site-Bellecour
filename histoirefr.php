@@ -65,13 +65,15 @@
 
 <!--* Image photo statue -->
 <div id="statu">
+<div class="position-absolute top-50 start-50 translate-middle">
 <img src="Images/color.jpg" class="img-fluid">
 </div> 
-
+</div>
 
 <div id="texte">
     <article>
-
+<br>
+<br>
     <p>Cette place se trouve aujourd'hui dans le deuxième arrondissement de la ville sur la presqu'île, entre la Saône et le Rhône.<br>
      De la place Bellecour partent trois artères majeures de la Presqu'île de Lyon, côté nord pour le quartier des Terreaux et côté sud pour le quartier de Perrache, dont deux piétonnières :</p>
     <ul>
