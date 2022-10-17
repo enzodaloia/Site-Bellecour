@@ -10,10 +10,6 @@
 </head>
 <header>
 		<div id="bannière1">
-			<img src="img/statue.jpg">
-		<div id=box1accueil>
-		<!-- <p><img src="Images/LogoBellecourOfficiel.png"></p> -->
-		</div>
 		</div>
 			<div>
 				<ul>
@@ -30,7 +26,11 @@
                     <li><a href="accesfr.php">Accès</a></li>
 				</ul>
 			</div>
-		<div id="bannière2">  
+			
+		<div id="bannière2">
+			<div id="fren">
+				<p>FR/EN</p>
+			</div>
 	    </div>
 	</header>
     <body id="body">
