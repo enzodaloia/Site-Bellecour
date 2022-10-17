@@ -70,11 +70,11 @@
 </div> 
 </div>
 
-<div id="texte">
+<div>
     <article>
 <br>
 <br>
-    <p>Cette place se trouve aujourd'hui dans le deuxième arrondissement de la ville sur la presqu'île, entre la Saône et le Rhône.<br>
+    <p id="texte">Cette place se trouve aujourd'hui dans le deuxième arrondissement de la ville sur la presqu'île, entre la Saône et le Rhône.<br>
      De la place Bellecour partent trois artères majeures de la Presqu'île de Lyon, côté nord pour le quartier des Terreaux et côté sud pour le quartier de Perrache, dont deux piétonnières :</p>
     <ul>
         <li>la Rue de la République menant à la Place de la Comédie (Lyon), entre l'Hôtel de Ville et l'Opéra puis à la place Louis-Pradel par la rue du Puits-Gaillot côté nord
