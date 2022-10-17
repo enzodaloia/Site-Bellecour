@@ -170,3 +170,10 @@ header div ul li:hover ul li{
 	left:1480px;
 }
 #imgen{width: 35px;}
+
+@media screen and (max-width: 2800px) {
+	.container {
+	  margin: 1em 2em;
+	}
+  }
+  
