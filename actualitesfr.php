@@ -33,7 +33,11 @@
 	    </div>
 	</header>
     <body id="body">
-	
+	<div id="test">
+		<p>/</p>
+	</div>
+	<div id="france"><a href="accueilfr.php"><p><img id="imgfr" src="Images/france.jpg"></p></a></div>
+	<div id="angleterre"><a href="accueilen.php"><p><img id="imgen" src="Images/angleterre.jpg"></p></a></div>
 
 
 

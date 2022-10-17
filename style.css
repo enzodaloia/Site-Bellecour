@@ -130,27 +130,49 @@ header div ul li:hover ul li{
     background-color: bisque;
 }
 
+
 #titre { 
 	margin-top:100px;
 	margin-right:50px;
 	margin-left:100px;
 }
 
-img {
-    margin-top:100px;
-    margin-left: 500px;
-    height: 900px;
-    width:50%;
-}
+
 
 #texte{
-	margin-top: 100px;
+	margin-top: 200px;
 	margin-left: 50;
 	margin-right: 50px
 }
 #Localisation {
-	margin-top: 500px;
+	margin-top: 270px;
 	margin-left: 50px;
 	margin-right: 50px;
 
+}
+
+#test{
+	position: absolute;
+	top:170px ;
+	left:1440px;
+}
+
+#france{
+	position: absolute;
+	top:168px ;
+	left:1380px;
+}
+#imgfr{width: 30px;}
+
+#angleterre{
+	position: absolute;
+	top:168px ;
+	left:1480px;
+}
+#imgen{width: 35px;}
+
+@media screen and (max-width: 1499px) {
+	.bloc {
+		width: 90%;
+	}
 }
