@@ -64,9 +64,9 @@
 
 
 <!--* Image photo statue -->
-<div id="statu">
+
   <img src="Images/color.jpg"> 
-</div> 
+
 
 
 <div id="texte">
@@ -164,7 +164,7 @@ Elle est renommée place du Maréchal-Pétain après une visite du chef du régi
  Les deux pavillons situés sur la place ont été construits en 1852 par Tony Desjardins. <br>
  Celui qui est à l'ouest, à côté des jardins d'enfants, était, avant de devenir les bureaux de l'office de tourisme « Le Rectangle », <br>
  une salle d'exposition nommée Maison de Lyon. C'était initialement un café, La gargote du Père Lathuille, avant de devenir un café-restaurant dansant nommé La Maison Dorée.<br>
- Le bâtiment situé au sud-est de la place, dans lequel a été installé l'office du tourisme en 2008,<br>
+ Le bâtiment situé au sud-est de la place, dans lequel a été installé l'office du tourisme en 2008,
   était un pavillon militaire, plus tard transformé en poste de police, puis en Syndicat d'Initiative en 1924.<br>
  En 1934, l'hôpital de la Charité est détruit, à l'exception du clocher de l'église. La place de la Charité est alors agrandie et devient l'actuelle place Antonin-Poncet.<br>
 <br>
