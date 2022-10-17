@@ -39,10 +39,13 @@
 	<div id="france"><a href="activitesfr.php"><p><img id="imgfr" src="Images/france.jpg"></p></a></div>
 	<div id="angleterre"><a href="activitesen.php"><p><img id="imgen" src="Images/angleterre.jpg"></p></a></div>
 	
+  <div class="row"> 
 	<h4>Activités</h4>
-<div class="container">
+<div class="container-fluid">
 
-	<div class="row row-cols-1 row-cols-md-3 g-5">
+
+
+	<div class="row row-cols-1 row-cols-md-3 g-4">
   <div class="col">
     <div class="card h-100">
       <img src="..." class="card-img-bot" alt="...">
@@ -55,7 +58,7 @@
     </div>
   </div>
   <div class="col">
-    <div class="card">
+    <div class="card h-100">
       <img src="" class="card-img-bot" alt="...">
       <div class="card-body">
         <h4 class="card-title">Visite vélo</h4>
@@ -66,7 +69,7 @@
     </div>
   </div>
   <div class="col">
-    <div class="card">
+    <div class="card h-100">
       <img src="" class="card-img-bot" alt="...">
       <div class="card-body">
         <h4 class="card-title">Vélo</h4>
@@ -77,7 +80,7 @@
     </div>
   </div>
   <div class="col">
-    <div class="card">
+    <div class="card h-100">
       <img src="" class="card-img-bot" alt="...">
       <div class="card-body">
         <h4 class="card-title">Visite Segway</h4>
@@ -88,7 +91,7 @@
     </div>
   </div>
   <div class="col">
-    <div class="card">
+    <div class="card h-100">
       <img src="" class="card-img-bot" alt="...">
       <div class="card-body">
         <h4 class="card-title">Courses d'orientation</h4>
@@ -99,7 +102,7 @@
     </div>
   </div>
   <div class="col">
-    <div class="card">
+    <div class="card h-100">
       <img src="" class="card-img-bot" alt="...">
       <div class="card-body">
         <h4 class="card-title">Histoire</h4>
@@ -112,7 +115,7 @@
   <div>
 
 </div>
-
+</div>
     <script src="js/bootstrap.bundle.min.js"></script>
     </body>
 </html>
