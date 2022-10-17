@@ -130,24 +130,17 @@ header div ul li:hover ul li{
     background-color: bisque;
 }
 
-<<<<<<< Updated upstream
-#titre { 
-	margin-top:100px;
-	margin-right:50px;
-	margin-left:100px;
-}
-
 
 
 #texte{
 	margin-top: 200px;
-	margin-left: 50;
-	margin-right: 50px
+	margin-left: 10;
+	margin-right: 10px
 }
 #Localisation {
 	margin-top: 270px;
-	margin-left: 50px;
-	margin-right: 50px;
+	margin-left: 10px;
+	margin-right: 10px;
 
 }
 
@@ -170,10 +163,9 @@ header div ul li:hover ul li{
 	left:1480px;
 }
 #imgen{width: 35px;}
-=======
+
 @media screen and (max-width: 1499px) {
 	.bloc {
 		width: 90%;
 	}
 }
->>>>>>> Stashed changes
