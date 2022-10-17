@@ -45,6 +45,7 @@ header div{
 #bannière1{
 	text-align:center;
 	padding-top:0px;
+	display: flex;
 	justify-content:center;
 	align-items: center;
 	background-color: grey;
@@ -135,11 +136,7 @@ header div ul li:hover ul li{
 	margin-left:10px;
 }
 	
-#statu {
-	align-items: center;
-	width: 300px;
-	height: 300px;
-}
+
 
 #texte{
 	margin-left: 20;
