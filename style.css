@@ -45,7 +45,6 @@ header div{
 #bannière1{
 	text-align:center;
 	padding-top:0px;
-	display: flex;
 	justify-content:center;
 	align-items: center;
 	background-color: grey;
