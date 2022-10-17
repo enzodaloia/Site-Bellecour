@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" href="style.css" type="text/css" >
-<title>Accueil</title>
+<title>Histoire</title>
 <link href="css/bootstrap.min.css" rel="stylesheet">
 </head>
 <header>
@@ -39,6 +39,11 @@
 
 
 <body id="body">
+<div id="test">
+		<p>/</p>
+	</div>
+	<div id="france"><a href="accueilfr.php"><p><img id="imgfr" src="Images/france.jpg"></p></a></div>
+	<div id="angleterre"><a href="accueilen.php"><p><img id="imgen" src="Images/angleterre.jpg"></p></a></div>
 
 <!--* texte + titre-->
 <div id="titre" class="container-fluid">
