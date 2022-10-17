@@ -52,6 +52,51 @@
       </div>
     </div>
   </div>
+  <div class="col">
+    <div class="card">
+      <img src="" class="card-img-bot" alt="...">
+      <div class="card-body">
+        <h4 class="card-title">Activités</h4>
+        <p class="card-texte">Texte à mettre plus tard</p>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card">
+      <img src="" class="card-img-bot" alt="...">
+      <div class="card-body">
+        <h4 class="card-title">Activités</h4>
+        <p class="card-texte">Texte à mettre plus tard</p>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card">
+      <img src="" class="card-img-bot" alt="...">
+      <div class="card-body">
+        <h4 class="card-title">Activités</h4>
+        <p class="card-texte">Texte à mettre plus tard</p>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card">
+      <img src="" class="card-img-bot" alt="...">
+      <div class="card-body">
+        <h4 class="card-title">Activités</h4>
+        <p class="card-texte">Texte à mettre plus tard</p>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card">
+      <img src="" class="card-img-bot" alt="...">
+      <div class="card-body">
+        <h4 class="card-title">Activités</h4>
+        <p class="card-texte">Texte à mettre plus tard</p>
+      </div>
+    </div>
+  </div>
   <div>
 
 </div>
