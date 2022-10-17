@@ -47,10 +47,10 @@
 
 <!--* texte + titre-->
 <div id="titre" class="container-fluid">
-<center><h1> La Place Bellecour </h1></center>
+<h1> La Place Bellecour </h1>
 
 
-    <article>
+<article>
     <p> La place Bellecour est la plus grande place de la ville de Lyon (62 000 m2), la cinquième plus grande place de France1 et la plus grande place piétonnière d'Europe. Elle présente une forme trapézoïdale avec une taille de 300 mètres sur 220 d'un côté et 190 mètres2 de l'autre. <br>
     <br>En son centre se trouve une statue équestre de Louis XIV. <br>
  Une autre statue, représentant Le Petit Prince et Antoine de Saint-Exupéry, est située à l'extrémité sud-ouest de la place. On y trouve aussi deux pavillons y abritent des services de l'office du tourisme, un petit parc pour enfants, une fontaine et deux brasseries.
@@ -60,10 +60,10 @@
 
 
 <!--* Image photo Bellecour -->
-<div id="statue" style="text-align:center">
+<div id="statue">
 <p>
-    <img src="Images/statu.jpg" class="img-fluid">
-    <img class="img-responsive" src="Images/statu.jpg">
+  <center><img src="Images/statu.jpg" class="img-fluid"></center>
+    <center><img class="img-responsive" src="Images/statu.jpg"></center>
 </p>
 </div>
 
@@ -81,6 +81,16 @@
     </ul>
 </article>
 </div>
+
+
+<!--* Image photo Bellecour -->
+<div id="statue" style="text-align:center">
+<p>
+    <img src="Images/statu.jpg" class="img-fluid">
+    <img class="img-responsive" src="Images/statu.jpg">
+</p>
+</div>
+
 
 <div id="Localisation" class="container-fluid">
  <h1> Localisation et accès </h1>
