@@ -10,9 +10,6 @@
 </head>
 <header>
 		<div id="bannière1">
-		<div id=box1accueil>
-		<!-- <p><img src="Images/LogoBellecourOfficiel.png"></p> -->
-		</div>
 		</div>
 			<div>
 				<ul>
@@ -29,11 +26,17 @@
                     <li><a href="accesfr.php">Accès</a></li>
 				</ul>
 			</div>
-		<div id="bannière2">  
+			
+		<div id="bannière2">
 	    </div>
 	</header>
     <body id="body">
-	
+
+	<div id="test">
+		<p>/</p>
+	</div>
+	<div id="france"><a href="accueilfr.php"><p><img id="imgfr" src="Images/france.jpg"></p></a></div>
+	<div id="angleterre"><a href="accueilen.php"><p><img id="imgen" src="Images/angleterre.jpg"></p></a></div>
 
 
 
