@@ -52,7 +52,7 @@
             <input type="text" name="sujet" required>
             <label>Message</label>
             <textarea name="message" required></textarea>
-            <input type="submit" value="Envoyer le message">
+            <input type="submit" value="Submit">
         
         </form>
         <?php
