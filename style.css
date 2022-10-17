@@ -121,4 +121,18 @@ img {
     margin-left: 500px;
     height: 900px;
     width:50%;
-}	
+}
+
+#footer{
+	
+	text-align: center;
+	display:block;
+	background-color: #7fffbb ;
+	height:50px;
+}
+
+#footer p {
+	font-weight: bold;
+	position: relative;
+	top: 20px;
+}
