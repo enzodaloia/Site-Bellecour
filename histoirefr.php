@@ -12,6 +12,7 @@
    <div class="Banniere1">
      <img id="bannière1" src="Images/statue.jpg">
     </div>
+
 <div id=box1accueil>
 <!-- <p><img src="Images/LogoBellecourOfficiel.png"></p> -->
 </div>
@@ -57,7 +58,7 @@
 <div id="statue" style="text-align:center">
 <p>
     <img src="Images/statu.jpg" class="img-fluid">
-    <img class=img-responsive src=Images/statu.jpg/>
+    <img class="img-responsive" src="Images/statu.jpg">
 </p>
 </div>
 
