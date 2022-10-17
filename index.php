@@ -10,8 +10,14 @@
 </head>
 <header>
 		<div id="bannière1">
+<<<<<<< Updated upstream
+=======
+		<div id="box1accueil">
+		<!-- <p><img src="Images/LogoBellecourOfficiel.png"></p> -->
 		</div>
-			<div>
+>>>>>>> Stashed changes
+		</div>
+			<div class="bloc">
 				<ul>
 					<li><a href="accueilfr.php">Accueil</a></li>
 					<li><a>Activités</a>
