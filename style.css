@@ -29,12 +29,12 @@ header div{
 
 #bannière1{
 	text-align:center;
-	padding-top:1px;
+	padding-top:0px;
 	display: flex;
 	justify-content:center;
 	align-items: center;
 	background-color: grey;
-	height:100px;
+	height:150px;
 	width:100%;
 }
 
@@ -109,3 +109,16 @@ header div ul li:hover ul li{
 #body{
     background-color: bisque;
 }
+
+#titre { 
+	margin-top:100px;
+	margin-right:150px;
+	margin-left:100px;
+}
+
+img {
+    margin-top:100px;
+    margin-left: 500px;
+    height: 900px;
+    width:50%;
+}	
