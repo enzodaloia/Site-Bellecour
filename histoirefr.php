@@ -48,10 +48,9 @@
 
 <section>
     <article>
-<p> La place Bellecour est la plus grande place de la ville de Lyon (62 000 m2), la cinquième plus grande place de France1 et la plus grande place piétonnière d'Europe. Elle présente une forme trapézoïdale avec une taille de 300 mètres sur 220 d'un côté et 190 mètres2 de l'autre.
-
-    En son centre se trouve une statue équestre de Louis XIV.
-    <br> Une autre statue, représentant Le Petit Prince et Antoine de Saint-Exupéry, est située à l'extrémité sud-ouest de la place. On y trouve aussi deux pavillons y abritent des services de l'office du tourisme, un petit parc pour enfants, une fontaine et deux brasseries. </br>
+    <p> La place Bellecour est la plus grande place de la ville de Lyon (62 000 m2), la cinquième plus grande place de France1 et la plus grande place piétonnière d'Europe. Elle présente une forme trapézoïdale avec une taille de 300 mètres sur 220 d'un côté et 190 mètres2 de l'autre. <br>
+    <br>En son centre se trouve une statue équestre de Louis XIV. <br>
+ Une autre statue, représentant Le Petit Prince et Antoine de Saint-Exupéry, est située à l'extrémité sud-ouest de la place. On y trouve aussi deux pavillons y abritent des services de l'office du tourisme, un petit parc pour enfants, une fontaine et deux brasseries.
     
 </p>
 </div>
