@@ -48,7 +48,7 @@
 	<script src="js/bootstrap.bundle.min.js"></script>
     </body>
 
-	<div id="footer" position="bottom">
+	<div id="footer">
 		<p>Bellecour | projet Pédagogique</p>
 	</div>
 
