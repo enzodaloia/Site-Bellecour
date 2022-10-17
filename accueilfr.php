@@ -33,9 +33,10 @@
     <body id="body">
 
 	<div id="test">
-		<p><a href="accueilfr.php">FR</a> / <a href="accueilen.php">EN</a></p>
+		<p>/</p>
 	</div>
-	<div id="france"><p><img src="Images/france.jpg"></p></div>
+	<div id="france"><p><img id="imgfr" src="Images/france.jpg"></p></div>
+	<div id="angleterre"><p><img id="imgen" src="Images/angleterre.jpg"></p></div>
 
 
 
