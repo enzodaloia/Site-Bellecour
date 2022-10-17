@@ -65,14 +65,16 @@
 
 <!--* Image photo statue -->
 <div id="statu">
-  <img src="Images/color.jpg" class="img-fluid"> 
+<div class="position-absolute top-50 start-50 translate-middle">
+<img id="color" src="Images/color.jpg" class="img-fluid">
 </div> 
+</div>
 
-
-<div id="texte">
+<div>
     <article>
-
-    <p>Cette place se trouve aujourd'hui dans le deuxième arrondissement de la ville sur la presqu'île, entre la Saône et le Rhône.<br>
+<br>
+<br>
+    <p id="texte">Cette place se trouve aujourd'hui dans le deuxième arrondissement de la ville sur la presqu'île, entre la Saône et le Rhône.<br>
      De la place Bellecour partent trois artères majeures de la Presqu'île de Lyon, côté nord pour le quartier des Terreaux et côté sud pour le quartier de Perrache, dont deux piétonnières :</p>
     <ul>
         <li>la Rue de la République menant à la Place de la Comédie (Lyon), entre l'Hôtel de Ville et l'Opéra puis à la place Louis-Pradel par la rue du Puits-Gaillot côté nord
@@ -90,7 +92,7 @@
 <div id="Localisation" class="container-fluid">
  <h1> Localisation et accès </h1>
 
- <div>
+ <div id="article" class="container-fluid">
      <article>
     <p>Cette place se trouve aujourd'hui dans le deuxième arrondissement de la ville sur la presqu'île, entre la Saône et le Rhône. <br>
     De la place Bellecour partent trois artères majeures de la Presqu'île de Lyon, côté nord pour le quartier des Terreaux et côté sud pour le quartier de Perrache, dont deux piétonnières :</p>
@@ -164,7 +166,8 @@ Elle est renommée place du Maréchal-Pétain après une visite du chef du régi
  Les deux pavillons situés sur la place ont été construits en 1852 par Tony Desjardins. <br>
  Celui qui est à l'ouest, à côté des jardins d'enfants, était, avant de devenir les bureaux de l'office de tourisme « Le Rectangle », <br>
  une salle d'exposition nommée Maison de Lyon. C'était initialement un café, La gargote du Père Lathuille, avant de devenir un café-restaurant dansant nommé La Maison Dorée.<br>
- Le bâtiment situé au sud-est de la place, dans lequel a été installé l'office du tourisme en 2008, était un pavillon militaire, plus tard transformé en poste de police, puis en Syndicat d'Initiative en 1924.<br>
+ Le bâtiment situé au sud-est de la place, dans lequel a été installé l'office du tourisme en 2008,<br>
+  était un pavillon militaire, plus tard transformé en poste de police, puis en Syndicat d'Initiative en 1924.<br>
  En 1934, l'hôpital de la Charité est détruit, à l'exception du clocher de l'église. La place de la Charité est alors agrandie et devient l'actuelle place Antonin-Poncet.<br>
 <br>
 Depuis 2011, d'importants travaux d'embellissement ont lieu sur la partie sud de la place. Au programme : 

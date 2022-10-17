@@ -29,7 +29,7 @@
 			
 		<div id="bannière2">
 	    </div>
-	</header>
+</header>
     <body id="body">
 
 	<div id="test">
@@ -40,13 +40,11 @@
 
 
 
+	<script src="js/bootstrap.bundle.min.js"></script>
 
-
-
-
-
-
-
-    <script src="js/bootstrap.bundle.min.js"></script>
-    </body>
+	<div id="footer">
+		<p>Bellecour | projet Pédagogique</p>
+	</div>
+	
+	</body>
 </html>
