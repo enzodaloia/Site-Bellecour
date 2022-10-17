@@ -60,6 +60,7 @@
 <div id="statue" style="text-align:center">
 <p>
     <img src="Images/statu.jpg" class="img-fluid">
+    <img class=img-responsive src=Images/statu.jpg/>
 </p>
 </div>
 
