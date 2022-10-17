@@ -10,12 +10,6 @@ body {
 	height:50px;
 }
 
-#footer p {
-	font-weight: bold;
-	position: relative;
-	top: 20px;
-}
-
 #form{
 	padding-top: 100px;
 	padding-bottom: 100px;
@@ -121,6 +115,11 @@ header div ul li:hover ul li{
 	width:100%;
 }
 
+#bannière2 p {
+	font-weight: bold;
+	text-align: right;
+}
+
 #body{
     background-color: bisque;
 }
@@ -138,3 +137,8 @@ img {
     width:50%;
 }
 
+#test{
+	position: absolute;
+	top:170px ;
+	left:1460px;
+}

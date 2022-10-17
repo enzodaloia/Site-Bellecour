@@ -28,13 +28,14 @@
 			</div>
 			
 		<div id="bannière2">
-			<div id="fren">
-				<p>FR/EN</p>
-			</div>
 	    </div>
 	</header>
     <body id="body">
-	
+
+	<div id="test">
+		<p>FR/EN</p>
+		<a></a>
+	</div>
 
 
 
