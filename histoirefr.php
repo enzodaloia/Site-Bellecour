@@ -65,9 +65,7 @@
 
 <!--* Image photo statue -->
 <div id="statu">
-<p>
-    <img src="Images/statu.jpg" class="img-fluid">
-</p>
+   <!--* <img src="Images/statu.jpg" class="img-fluid"> -->
 </div>
 
 
