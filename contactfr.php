@@ -16,10 +16,6 @@
 
 <header>
 		<div id="bannière1">
-			<img src="Images/statue.jpg">
-		<div id=box1accueil>
-		<!-- <p><img src="Images/LogoBellecourOfficiel.png"></p> -->
-		</div>
 		</div>
 			<div>
 				<ul>
