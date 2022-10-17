@@ -39,6 +39,9 @@
 	<div id="angleterre"><a href="accueilen.php"><p><img id="imgen" src="Images/angleterre.jpg"></p></a></div>
 
 <br>
+<div>
+	<p>caca</p>
+</div>
 	<div id="footer">
 		<p>Bellecour | projet Pédagogique</p>
 	</div>
