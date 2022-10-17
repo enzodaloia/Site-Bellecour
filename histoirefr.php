@@ -57,11 +57,9 @@
 
 
 <!--* Image photo Bellecour -->
-<div id="statue" class="container-fluid">
-
+<div id="statue" style="text-align:center" class="container-fluid">
 <p>
-
-  <center>  <img src="Images/statu.jpg" class="img-fluid"> </center>
+    <img src="Images/statu.jpg" class="img-fluid">
 </p>
 </div>
 
