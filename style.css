@@ -136,6 +136,10 @@ header div ul li:hover ul li{
 	margin-left:10px;
 }
 	
+#statu {
+	width: 200px;
+	height: 200px;
+}
 
 
 #texte{
