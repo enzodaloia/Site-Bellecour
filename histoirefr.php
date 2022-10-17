@@ -60,17 +60,14 @@
         <br> On y trouve aussi deux pavillons y abritent des services de l'office du tourisme, un petit parc pour enfants, une fontaine et deux brasseries.
 </article>
 </p>
-</div>
+
 
 
 <!--* Image photo statue -->
-<div id="statu">
-<div class="position-absolute top-50 start-50 translate-middle">
-<img id="color" src="Images/color.jpg" class="img-fluid">
-</div> 
-</div>
 
-<div>
+
+
+
     <article>
     <p id="texte">Cette place se trouve aujourd'hui dans le deuxième arrondissement de la ville sur la presqu'île, entre la Saône et le Rhône.<br>
      De la place Bellecour partent trois artères majeures de la Presqu'île de Lyon, côté nord pour le quartier des Terreaux et côté sud pour le quartier de Perrache, dont deux piétonnières :</p>
@@ -84,6 +81,11 @@
     </ul>
 </article>
 </div>
+
+<div>
+<img id="color" src="Images/color.jpg" class="img-fluid" class="position-absolute top-50 start-50 translate-middle">
+</div>
+
 
 
 
