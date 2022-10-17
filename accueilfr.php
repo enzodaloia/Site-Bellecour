@@ -39,12 +39,9 @@
 	<div id="angleterre"><a href="accueilen.php"><p><img id="imgen" src="Images/angleterre.jpg"></p></a></div>
 
 
-
-	<script src="js/bootstrap.bundle.min.js"></script>
-
 	<div id="footer">
 		<p>Bellecour | projet Pédagogique</p>
 	</div>
-	
+	<script src="js/bootstrap.bundle.min.js"></script>
 	</body>
 </html>
