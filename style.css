@@ -130,8 +130,6 @@ header div ul li:hover ul li{
     background-color: bisque;
 }
 
-<<<<<<< HEAD
-=======
 
 #titre { 
 	margin-top:100px;
@@ -139,7 +137,6 @@ header div ul li:hover ul li{
 	margin-left:100px;
 }
 
->>>>>>> 6637493b70506c1376a1a98a31be29f6b9db3935
 
 
 #texte{
@@ -173,8 +170,3 @@ header div ul li:hover ul li{
 	left:1480px;
 }
 #imgen{width: 35px;}
-
-@media screen and (max-width: 1499px) {
-	.bloc {
-		width: 90%;
-	}
