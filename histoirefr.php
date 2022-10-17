@@ -101,8 +101,10 @@
 <article>
 <p> Le toponyme dont dérive le mot « Bellecour » apparaît dès le xiie siècle. Les terres agricoles que l'archevêque y possède sont appelées bella curtis (« beau jardin »). <br>
 Au xvie siècle, ce qui n'est encore qu'un pâturage porte le nom de pré de Belle court4. En 1715, devenue place publique, elle est baptisée place Royale, puis place Louis-le-Grand en hommage à Louis XIV.</p>
-<br> En 1790, sous la Révolution, les odonymes monarchistes disparaissent et la place devient place de la Fédération, pour perpétuer le souvenir de la Fête de la Fédération, dont l'anniversaire marque depuis lors la fête nationale française.<br>
-Dès 1793, le lieu des manifestations politiques de la ville prend le nouveau nom de place de l’Égalité (en 1794, la place des Jacobins s'appelle place de la Fraternité). L'odonyme continue à évoluer avec les régimes politiques : 
+<br> En 1790, sous la Révolution, les odonymes monarchistes disparaissent et la place devient place de la Fédération, pour perpétuer le souvenir de la Fête de la Fédération, <br>
+dont l'anniversaire marque depuis lors la fête nationale française.
+Dès 1793, le lieu des manifestations politiques de la ville prend le nouveau nom de place de l’Égalité (en 1794, la place des Jacobins s'appelle place de la Fraternité). <br>
+L'odonyme continue à évoluer avec les régimes politiques : 
     en 1800 l'esplanade est la place Bonaparte et devient logiquement un peu plus tard place Napoléon (avant que, sous le Second Empire, ce ne soit la place Carnot à laquelle ce nom est attribué).</br>
 <br> En 1814, sous la Restauration, la place redevient place Louis-le-Grand. Ce n'est que sous la Troisième République que la place prend son nom actuel de place Bellecour. <br>
 Elle est renommée place du Maréchal-Pétain après une visite du chef du régime de Vichy à Lyon les 18 et 19 novembre 19405. Elle reprend le nom de place Bellecour à la Libération.</br>
