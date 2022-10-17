@@ -39,24 +39,16 @@
 
 	<div class="row row-cols-1 row-cols-md-3 g-5">
   <div class="col">
-          <div class="card">
-            <img src="" class="card-img-top" alt="...">
-            <div class="card-body">
-              <h4 class="card-title">Activités</h4>
-              <p class="card-text">Texte à mettre plus tard</p>
-            </div>
-          </div>
-        </div>
-        <div class="col">
-            <div class="card">
-              <img src="" class="card-img-top" alt="...">
-              <div class="card-body">
-                <h4 class="card-title">Activités</h4>
-                <p class="card-text">Texte à mettre plus tard</p>
-              </div>
-            </div>
-          </div>
+    <div class="card">
+      <img src="" class="card-img-bot" alt="...">
+      <div class="card-body">
+        <h4 class="card-title">Activités</h4>
+        <p class="card-texte">Texte à mettre plus tard</p>
       </div>
+    </div>
+  </div>
+  <div>
+
 </div>
 
     <script src="js/bootstrap.bundle.min.js"></script>
