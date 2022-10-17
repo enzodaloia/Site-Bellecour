@@ -54,17 +54,17 @@
     
 </p>
 </div>
-</div>
+
 
 <!--* Image photo Bellecour -->
 <div id="statue" class="container-fluid">
-    <center>
+
 <p>
-    <img src="Images/statu.jpg" class="img-fluid">
+
+  <center>  <img src="Images/statu.jpg" class="img-fluid"> </center>
 </p>
-</center>
 </div>
-</div>
+
 
 <div id="texte">
     <article>
