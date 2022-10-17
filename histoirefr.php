@@ -106,18 +106,18 @@
 
 <h1> Histoire </h1>
 <article>
-    <pre>
+    <p>
     À l’époque gallo-romaine, le quartier de Bellecour est une île ou une presqu'île formée de terres alluviales. 
     Le quartier connait alors une activité romaine, militaire et marchande : 
     on y a retrouvé des canabae, baraques qui servaient d’entrepôt aux négociants et aux nautes gallo-romains6,
-
+<br>
     la ville se situant alors sur la colline de Fourvière, avant qu'elle en descende en rive de la Saône au IIIe.
     À la fin du XIIe, l'archevêque de Lyon possède sur la presqu'île la bella curtis, composée de terrains où pousse notamment une vigne. 
     Abandonné, l'endroit redevient marécageux.
     En 1562, le baron des Adrets attaquant Lyon, installe ses hommes d'arme sur ce qui est alors « le pré de Belle-court »4.
     En 1604, Henri IV pousse le Conseil de la ville à acquérir le pré afin d'y aménager une place publique. 
     Mais les héritiers de l'archevêque se disputent lors d'un interminable procès.
-
+<br>
     L'Aumône générale achète le 2 décembre 1614 des terrains situés entre la place Bellecour et le Rhône afin d'y construire un hôpital. 
     L'hôpital de la Charité de Lyon est construit de 1617 à 1622. L'église de l'hôpital s'ouvre sur la place Bellecour. 
     La place de la Charité est aménagée entre l'angle sud-est de la place Bellecour et les quais du Rhône, le long du flanc nord de l'hôpital.
@@ -132,26 +132,26 @@
     En 1829, Madame Girard installe une buvette de renommée sur la place.
     La place est indirectement concernée par les travaux de transformation de la presqu'île menés par le préfet Vaïsse pendant le Second empire.
     Quelques immeubles sont démolis au nord de la place pour permettre l'ouverture de nouvelles voies à partir de la place Bellecour : 
-
-      - élargissement de la rue Bellecordière, incorporée à la nouvelle rue Impériale (rue de la République) vers la place de la Comédie  
-      - création de la rue de l'Impératrice (rue Édouard-Herriot) vers la place des Terreaux ; 
-      - élargissement de la place Le Viste à la jonction des deux précédentes rues 
-      - création de la rue Gasparin à l'emplacement d'une partie de l'ancienne préfecture (ancien couvent des Jacobins).
-
+<br>
+      <li> élargissement de la rue Bellecordière, incorporée à la nouvelle rue Impériale (rue de la République) vers la place de la Comédie  </li>
+      <li> création de la rue de l'Impératrice (rue Édouard-Herriot) vers la place des Terreaux </li>
+      <li> élargissement de la place Le Viste à la jonction des deux précédentes rues </li>
+      <li>création de la rue Gasparin à l'emplacement d'une partie de l'ancienne préfecture (ancien couvent des Jacobins</li>
+<br>
  Les deux pavillons situés sur la place ont été construits en 1852 par Tony Desjardins. 
  Celui qui est à l'ouest, à côté des jardins d'enfants, était, avant de devenir les bureaux de l'office de tourisme « Le Rectangle », 
  une salle d'exposition nommée Maison de Lyon. C'était initialement un café, La gargote du Père Lathuille, avant de devenir un café-restaurant dansant nommé La Maison Dorée.
  Le bâtiment situé au sud-est de la place, dans lequel a été installé l'office du tourisme en 2008, était un pavillon militaire, plus tard transformé en poste de police, puis en Syndicat d'Initiative en 19247.
  En 1934, l'hôpital de la Charité est détruit, à l'exception du clocher de l'église. La place de la Charité est alors agrandie et devient l'actuelle place Antonin-Poncet.
-
+<br>
 Depuis 2011, d'importants travaux d'embellissement ont lieu sur la partie sud de la place. Au programme : 
-      - déplacements des deux bassins d'eau
-      - rénovation des cinq kiosques sur le côté est et construction d'un nouveau kiosque sur le côté ouest
-      - rénovation de l'aire de jeux pour enfants, nouvel éclairage (lampadaires à LEDs)
-      - plantation de haies et d'arbres (remplacement des marronniers par des tilleuls et des merisiers)
-    
+      <li> déplacements des deux bassins d'eau </li>
+      <li> rénovation des cinq kiosques sur le côté est et construction d'un nouveau kiosque sur le côté ouest</li>
+      <li> rénovation de l'aire de jeux pour enfants, nouvel éclairage (lampadaires à LEDs)</li>
+      <li> plantation de haies et d'arbres (remplacement des marronniers par des tilleuls et des merisiers)</li>
+<br>
 Il est à noter que le tilleul est la première essence plantée sur la place au xviie siècle.
-</pre>
+</p>
 </article>
 
 
