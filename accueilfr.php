@@ -9,7 +9,6 @@
     <link href="css/bootstrap.min.css" rel="stylesheet">
 </head>
 <header>
-	<div class="container">
 		<div id="bannière1">
 		</div>
 			<div>
@@ -30,7 +29,6 @@
 			
 		<div id="bannière2">
 	    </div>
-	</div>
 </header>
     <body id="body">
 
@@ -44,8 +42,4 @@
 
 	<script src="js/bootstrap.bundle.min.js"></script>
     </body>
-	
-	<div id="footer">
-		<p>Bellecour | projet Pédagogique</p>
-	</div>
 </html>
