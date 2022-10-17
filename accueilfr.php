@@ -35,7 +35,7 @@
 	<div id="test">
 		<p><a href="accueilfr.php">FR</a> / <a href="accueilen.php">EN</a></p>
 	</div>
-	<div id="france"><p>coucou<img src="Images/france.jpg"></p></div>
+	<div id="france"><p><img src="Images/france.jpg"></p></div>
 
 
 
