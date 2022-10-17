@@ -66,7 +66,7 @@
 <!--* Image photo statue -->
 <div id="statu">
 <div class="position-absolute top-50 start-50 translate-middle">
-<img src="Images/color.jpg" class="img-fluid">
+<img id="color" src="Images/color.jpg" class="img-fluid">
 </div> 
 </div>
 
