@@ -35,20 +35,20 @@
 	<div id="test">
 		<p>/</p>
 	</div>
-	<div id="france"><a href="accueilfr.php"><p><img id="imgfr" src="Images/france.jpg"></p></a></div>
-	<div id="angleterre"><a href="accueilen.php"><p><img id="imgen" src="Images/angleterre.jpg"></p></a></div>
+	<div id="france"><a href="contactfr.php"><p><img id="imgfr" src="Images/france.jpg"></p></a></div>
+	<div id="angleterre"><a href="contacten.php"><p><img id="imgen" src="Images/angleterre.jpg"></p></a></div>
 
     <center>
     <div id="form">
         <form method="POST">
-        <h1>Contactez-nous</h1>
-        <p>Pour toute demande, remplissez le formulaire ci-dessous.</p>
+        <h1>Contact us</h1>
+        <p>For any request, fill out the form below.</p>
         
-            <label>Nom</label>
+            <label>Last name</label>
             <input type="text" name="nom" required>
-            <label>Email</label>
+            <label>E-mail</label>
             <input type="email" name="email" required>
-            <label>Sujet</label>
+            <label>Subject</label>
             <input type="text" name="sujet" required>
             <label>Message</label>
             <textarea name="message" required></textarea>
@@ -72,7 +72,7 @@
         
 
     <div id="footer">
-		<p>Bellecour | projet Pédagogique</p>
+		<p>Bellecour | educational project</p>
 	</div>
 
 
