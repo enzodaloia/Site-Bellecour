@@ -58,17 +58,15 @@
         En son centre se trouve une statue équestre de Louis XIV. <br>
         Une autre statue, représentant Le Petit Prince et Antoine de Saint-Exupéry, est située à l'extrémité sud-ouest de la place. <br>
         <br> On y trouve aussi deux pavillons y abritent des services de l'office du tourisme, un petit parc pour enfants, une fontaine et deux brasseries.
-</article>a
+</article>
 </p>
 </div>
 
 
 <!--* Image photo statue -->
 <div id="statu">
-<p>
-    <img src="Images/statu.jpg" class="img-fluid">
-</p>
-</div>
+  <img src="Images/color.jpg" class="img-fluid"> 
+</div> 
 
 
 <div id="texte">
@@ -107,13 +105,15 @@
 </div>
 
 <!--* odonymie -->
+<br>
+<br>
 <h1>Odonymie</h1>
 <article>
 <p> Le toponyme dont dérive le mot « Bellecour » apparaît dès le xiie siècle. Les terres agricoles que l'archevêque y possède sont appelées bella curtis (« beau jardin »). <br>
 Au xvie siècle, ce qui n'est encore qu'un pâturage porte le nom de pré de Belle court4. En 1715, devenue place publique, <br>
 elle est baptisée place Royale, puis place Louis-le-Grand en hommage à Louis XIV.</p>
 <br> En 1790, sous la Révolution, les odonymes monarchistes disparaissent et la place devient place de la Fédération, pour perpétuer le souvenir de la Fête de la Fédération, <br>
-dont l'anniversaire marque depuis lors la fête nationale française.
+dont l'anniversaire marque depuis lors la fête nationale française.<br>
 Dès 1793, le lieu des manifestations politiques de la ville prend le nouveau nom de place de l’Égalité (en 1794, la place des Jacobins s'appelle place de la Fraternité). <br>
 L'odonyme continue à évoluer avec les régimes politiques : 
 en 1800 l'esplanade est la place Bonaparte et devient logiquement un peu plus tard place Napoléon <br>
@@ -123,6 +123,9 @@ Elle est renommée place du Maréchal-Pétain après une visite du chef du régi
 </article>
 </article>
 
+
+<br>
+<br> 
 
 <h1> Histoire </h1>
 <article>

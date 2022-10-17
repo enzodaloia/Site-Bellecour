@@ -45,7 +45,6 @@ header div{
 #bannière1{
 	text-align:center;
 	padding-top:0px;
-	display: flex;
 	justify-content:center;
 	align-items: center;
 	background-color: grey;
@@ -57,7 +56,7 @@ header{
 	font-family: Arial;
 	min-width: 500px;
 	width:100%;
-	height:180px;
+	height:150px;
 	position:relative;
 	background-color: bisque ;
 }
@@ -133,25 +132,21 @@ header div ul li:hover ul li{
 
 #titre { 
 	margin-top:100px;
-	margin-right:10px;
 	margin-left:10px;
 }
 	
 #statu {
 	align-items: center;
-	width: 500px;
-	height: 500px;
+	width: 300px;
+	height: 300px;
 }
 
 #texte{
-	margin-top: 200px;
-	margin-left: 10;
-	margin-right: 10px
+	margin-left: 20;
 }
 #Localisation {
 	margin-top: 270px;
 	margin-left: 10px;
-	margin-right: 10px;
 
 }
 
