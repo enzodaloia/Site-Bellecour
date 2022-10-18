@@ -31,20 +31,21 @@
 			</div>
 		<div id="bannière2">  
 	    </div>
-	</header>
-  
+      </header>
     <body id="body">
-	<div id="test">
-		<p>/</p>
-	</div>
-	<div id="france"><a href="activitesfr.php"><p><img id="imgfr" src="Images/france.jpg"></p></a></div>
-	<div id="angleterre"><a href="activitesen.php"><p><img id="imgen" src="Images/angleterre.jpg"></p></a></div>
-	
-  <div class="row"> 
-	<h4>Activités</h4>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia rerum praesentium consequatur aliquam odio possimus voluptas, eius ut quibusdam. Voluptatem,</p>
+    <h1>Activités</h1>
+    <p></p>
 <div class="container-fluid">
 
-
+  <div id="test">
+    <p>/</p>
+  </div>
+  <div id="france"><a href="activitesfr.php"><p><img id="imgfr" src="img/france.jpg"></p></a></div>
+  <div id="angleterre"><a href="activitesen.php"><p><img id="imgen" src="img/angleterre.jpg"></p></a></div>
+  
+  <div class="row"> 
+<div class="container-fluid">
 
 	<div class="row row-cols-1 row-cols-md-3 g-4">
   <div class="col">
