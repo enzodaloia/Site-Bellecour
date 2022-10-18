@@ -138,21 +138,6 @@ header div ul li:hover ul li{
 	margin-top:100px;
 	margin-left:10px;
 }
-	
-#divcolor {
-	text-align: center;
-	margin-left: 300;
-	margin-right: 300;
-}
-
-#color {
-	height: 250px;
-	width: 250px;
-	max-height: auto;
-	max-width: auto;
-	min-height: auto;
-	min-width: auto;
-}
 
 
 #texte{
@@ -183,6 +168,22 @@ header div ul li:hover ul li{
 	left:1480px;
 }
 #imgen{width: 35px;}
+
+<style>
+.centrer {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+#color {
+	height: 250px;
+	width: 250px;
+	max-height: auto;
+	max-width: auto;
+	min-height: auto;
+	min-width: auto;
+}
 
 
 

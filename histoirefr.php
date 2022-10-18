@@ -83,7 +83,7 @@
 </div>
 
 <div id="divcolor">
-<img id="color" src="Images/couleur.jpg">
+<img src="iimage.jpg" alt="image" class="centrer">
 </div>
 
 
