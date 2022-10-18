@@ -32,6 +32,7 @@
 		<div id="bannière2">  
 	    </div>
 	</header>
+  
     <body id="body">
 	<div id="test">
 		<p>/</p>
