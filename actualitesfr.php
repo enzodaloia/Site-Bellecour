@@ -56,7 +56,7 @@
   </div>    
   <div id="card2" class="card" style="width: 18rem;">
     <div>
-      <img id="actu2"src="Images/louisv.png" class="card-img-top">
+      <img id="actu2" src="Images/louisv.png" class="card-img-top">
     </div>
     <div class="card-body">
       <h5 class="card-title">Lyon. La statue de Louis XIV sur la place Bellecour bientôt en travaux : ce qui va changer</h5>
@@ -65,7 +65,7 @@
     </div>
   </div>
   <div id="card3" class="card" style="width: 18rem;">
-    <img id="actu3"src="Images/gira.jpg" class="card-img-top">
+    <img id="actu3" src="Images/gira.jpg" class="card-img-top">
     <div class="card-body">
       <h5 class="card-title">C'est quoi cette grande girafe qui vient d'être installée dans les rues de Lyon ?</h5>
       <p class="card-text">Depuis le 1er octobre, une girafe de plus de sept mètres de haut trône en pleine rue, dans le 7e arrondissement de Lyon. On vous explique.</p>
@@ -74,19 +74,17 @@
   </div>
 
   <div id="card4" class="card" style="width: 18rem;">
-    <img id="actu4"src="Images/chap.jpg" class="card-img-top">
+    <img id="actu4" src="Images/chap.jpg" class="card-img-top">
     <div class="card-body">
       <h5 class="card-title">Lyon. C'est quoi ces chapiteaux installés sur la place Bellecour ?</h5>
       <p class="card-text">La place Bellecour de Lyon est en plein "chantier" ce mardi 27 septembre. De grands chapiteaux ont commencé à se dresser au centre de la ville.</p>
       <a href="https://actu.fr/auvergne-rhone-alpes/lyon_69123/lyon-c-est-quoi-ces-chapiteaux-installes-sur-la-place-bellecour_54097150.html" class="btn btn-secondary">Voir plus...</a>
     </div>
-          
-
 
   <!--* card=5-8 -->
   </div>
   <div id="card5" class="card" style="width: 18rem;">
-    <img id="actu5"src="Images/place.jpg" class="card-img-top">
+    <img id="actu5" src="Images/place.jpg" class="card-img-top">
     <div class="card-body">
       <h5 class="card-title">Lyon. Cet immeuble que tout le monde connaît place Bellecour va changer : ce qui est prévu</h5>
       <p class="card-text">Un immeuble de la place Bellecour va bientôt être métamorphosé pour se moderniser et accueillir un nouveau commerce, des logements et des bureaux.</p>
@@ -94,7 +92,7 @@
     </div>
   </div>
   <div id="card6" class="card" style="width: 18rem;">
-    <img id="actu6"src="Images/metrob.jpg" class="card-img-top">
+    <img id="actu6" src="Images/metrob.jpg" class="card-img-top">
     <div class="card-body">
       <h5 class="card-title">Lyon. Pourquoi le métro B ne circulera pas pendant ces deux jours entiers en octobre</h5>
       <p class="card-text">La circulation de la ligne de métro B sera interrompue pendant deux jours consécutifs entiers à Lyon en fin du mois d'octobre 2022, indiquent les TCL.</p>
@@ -102,7 +100,7 @@
     </div>
   </div>
   <div id="card7" class="card" style="width: 18rem;">
-    <img id="actu7"src="Images/bubble.jpg" class="card-img-top">
+    <img id="actu7" src="Images/bubble.jpg" class="card-img-top">
     <div class="card-body">
       <h5 class="card-title">Lyon. Bubble tea, manga et noodles : un immense restaurant asiatique débarque à l'Hôtel-Dieu</h5>
       <p class="card-text">Un nouveau restaurant asiatique, qui se veut être une "alternative aux fast-food", va ouvrir au Grand Hôtel-Dieu de Lyon. Voici tout ce qu'il faut savoir.</p>
@@ -110,7 +108,7 @@
     </div>
   </div>
   <div id="card8" class="card" style="width: 18rem;">
-    <img id="actu8"src="Images/elect.jpg" class="card-img-top">
+    <img id="actu8" src="Images/elect.jpg" class="card-img-top">
     <div class="card-body">
       <h5 class="card-title">Lyon. Comment le quartier de la Part-Dieu et ses tours sont désormais plongés dans le noir</h5>
       <p class="card-text">Le quartier d'affaires de la Part-Dieu et ses tours symboliques sont aussi confrontés à la flambée des prix de l'énergie. Conséquence concrète : le quartier éteint les lumières.</p>
