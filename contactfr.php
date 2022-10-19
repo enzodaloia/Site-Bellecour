@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fr">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -29,7 +29,7 @@
 				</ul>
 			</div>
 		<div id="bannière2">  
-	    </div>
+	</div>
 </header>
 <body id="body">
     <div id="test">
@@ -57,22 +57,12 @@
         
         </form>
         <?php
-        if(isset($_POST['envoyer'])) {
-            
-
-
-
-
-
         if (isset($_POST["message"])) {
             //on vérifie que le champ mail est correctement rempli
-            if(empty($_POST['mail'])) {
-                echo "Le champ mail est vide";
-            }else {
+            if(!empty($_POST['mail'])) {
+            }
                 //on vérifie que l'adresse est correcte
                 if(!preg_match("#^[a-z0-9_-]+((\.[a-z0-9_-]+){1,})?@[a-z0-9_-]+((\.[a-z0-9_-]+){1,})?\.[a-z]{2,}$#i",$_POST['mail'])){
-                    echo "L'adresse mail entrée est incorrecte";
-                }else {
                     $message= "Ce message vous à été envoyé via la page du site projetg4bellecour.cf
                     Nom : " . $_POST["nom"] . "
                     Prénom : " . $_POST["prenom"] . "
@@ -81,10 +71,12 @@
                     $retour= mail("enzo.daloiadignazio@gmail.com", $_POST["sujet"], $message, "From:projetgb@projetg4bellecour.cf" . "\r\n" . "Reply-to:" . $_POST["email"]);
                     if($retour){
                         echo "<p> L'email à été envoyé !</p>";
-                }            
-            }
+                    }
+                }else{
+                    echo "<p> L'email est invalide !</p>";
+                }
         }
-        ?>
+    ?>
     </div>
     </center>
         
@@ -94,5 +86,4 @@
 	</div>
     <script src="js/bootstrap.bundle.min.js"></script>
     </body>
-
 </html>
