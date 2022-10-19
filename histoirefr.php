@@ -85,8 +85,8 @@
 
 <div id="divcolor">
   <br />position: absolute;
-  <br />z-index: 5;
-<img src="statu.jpg" alt="image" class="centrer">
+  <br />z-index: 10;
+<img src="Images/statu.jpg" alt="image" class="centrer">
 </div>
 
 
