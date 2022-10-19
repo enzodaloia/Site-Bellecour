@@ -7,6 +7,13 @@
 <link rel="stylesheet" href="style.css" type="text/css" >
 <title>Histoire</title>
 <link href="css/bootstrap.min.css" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="screen.css" media="screen">
+<link rel="stylesheet" href="impression.css" type="text/css" media="print">
+<head>
+<link rel="stylesheet" type="text/css" href="screen.css" media="screen">
+<link rel="stylesheet" href="impression.css" type="text/css" media="print">
+</head>
+
 </head>
 
 <!--* En-tete avec baniere -->
@@ -82,6 +89,7 @@
 </div>
 
 <div id="divcolor">
+
 <img src="Images/statu.jpg" alt="image" class="centrer">
 </div>
 
