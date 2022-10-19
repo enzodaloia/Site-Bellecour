@@ -36,17 +36,16 @@
 
     <body id="body">
     <h1>Activités</h1>
-    <p>Pour tout achat sur notre site, merci de nous contacter au : 04 84 25 01 28,
-      Ou alors dirigez-vous sur notre page de <a href="http://projetg4bellecour.cf/contactfr.php">contact</a>
-    </p>
-    <p> </p>
+    <h4>Pour tout achat sur notre site, merci de nous contacter au : </h4>
+    <h4>04 84 25 01 28</h4>
+    <h4>Ou alors dirigez-vous sur notre page de <a href="http://projetg4bellecour.cf/contactfr.php">contact</a></h4>
 <div class="container-fluid">
 
   <div id="test">
     <p>/</p>
   </div>
-  <div id="france"><a href="activitesfr.php"><p><img id="imgfr" src="Images/france.jpg"></p></a></div>
-  <div id="angleterre"><a href="activitesen.php"><p><img id="imgen" src="Images/angleterre.jpg"></p></a></div>
+  <div id="france"><a href="activitesfr.php"><p><img id="imgfr" src="img/france.jpg"></p></a></div>
+  <div id="angleterre"><a href="activitesen.php"><p><img id="imgen" src="img/angleterre.jpg"></p></a></div>
   
   <div class="row"> 
 <div class="container-fluid">
