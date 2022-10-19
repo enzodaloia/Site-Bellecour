@@ -23,6 +23,7 @@ body {
 
 form{
 	background-color: white;
+	padding: 30px;
 }
 
 form input, form textarea{
