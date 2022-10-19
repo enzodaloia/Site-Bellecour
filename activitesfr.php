@@ -14,19 +14,18 @@
 		<!-- <p><img src="Images/LogoBellecourOfficiel.png"></p> -->
 		</div>
 		</div>
-			<div>
+    <div>
 				<ul>
 					<li><a href="accueilfr.php">Accueil</a></li>
-					<li><a>Activités</a>
-						<ul>
-							<li><a href="activitesfr.php">Activités</a></li>
-							<li><a href="transportfr.php">Transport</a></li>
-						</ul>
+					<li><a href="activitesfr.php">Activités</a>
 					</li>
 					<li><a href="histoirefr.php">Histoire</a></li>
 					<li><a href="actualitesfr.php">Actualités</a></li>
                     <li><a href="contactfr.php">Contact</a></li>
                     <li><a href="accesfr.php">Accès</a></li>
+                    <ul>
+						<li><a href="transportfr.php">Transport</a></li>
+					</ul>
 				</ul>
 			</div>
 		<div id="bannière2">  
@@ -36,10 +35,9 @@
 
     <body id="body">
     <h1>Activités</h1>
-    <p>Pour tout achat sur notre site, merci de nous contacter au : 04 84 25 01 28,
-      Ou alors dirigez-vous sur notre page de <a href="http://projetg4bellecour.cf/contactfr.php">contact</a>
-    </p>
-    <p> </p>
+    <p>Pour tout achat sur notre site, merci de nous contacter au : </p>
+    <p>04 84 25 01 28</p>
+    <p>Ou alors dirigez-vous sur notre page de <a href="http://projetg4bellecour.cf/contactfr.php">contact</a></p>
 <div class="container-fluid">
 
   <div id="test">

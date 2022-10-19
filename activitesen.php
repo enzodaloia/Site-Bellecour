@@ -30,13 +30,12 @@
 		<div id="bannière2">
 	    </div>
 		</header>
+		<div id="FormActivité">
     <body id="body">
-    <p>.</p>
-    <p>.</p>
-    <h1>Activités</h1>
-    <p>For any purchase on our site, please contact us at : 04 84 25 01 28,
-	Or go to our <a href="http://projetg4bellecour.cf/contacten.php">contact</a> page 
-    </p>
+    <h1>Activities</h1>
+    <p>For any purchase on our site, please contact us at : </p>
+	<p>04 84 25 01 28</p>
+	<p>Or go to our <a href="http://projetg4bellecour.cf/contacten.php">contact</a> page </p>
 <div class="container-fluid">
 
   <div id="test">
