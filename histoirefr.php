@@ -12,7 +12,7 @@
 <!--* En-tete avec baniere -->
 <header>
    <div class="Banniere1">
-     <img id="ban1" src="Images/banniere.jpg" class="img-top">
+     <img id="ban1" src="Images/banniere1.jpg" class="img-top">
     </div>
 
 <div id=box1accueil>
