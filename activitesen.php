@@ -18,11 +18,12 @@
 					</li>
 					<li><a href="histoireen.php">Story</a></li>
 					<li><a href="actualitesen.php">News</a></li>
-          <li><a href="contacten.php">Contact</a></li>
-          <li><a href="accesen.php">Access</a></li>
-            <ul>
-                <li><a href="transporten.php">Transport</a></li>
-            </ul>
+                    <li><a href="contacten.php">Contact</a></li>
+                    <li><a href="accesen.php">Access</a>
+					<ul>
+							<li><a href="transporten.php">Transport</a></li>
+					</ul>
+					</li>
 				</ul>
 			</div>
 			
