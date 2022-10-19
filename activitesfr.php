@@ -36,9 +36,9 @@
 
     <body id="body">
     <h1>Activités</h1>
-    <h4>Pour tout achat sur notre site, merci de nous contacter au : </h4>
-    <h4>04 84 25 01 28</h4>
-    <h4>Ou alors dirigez-vous sur notre page de <a href="http://projetg4bellecour.cf/contactfr.php">contact</a></h4>
+    <p>Pour tout achat sur notre site, merci de nous contacter au : </p>
+    <p>04 84 25 01 28</p>
+    <p>Ou alors dirigez-vous sur notre page de <a href="http://projetg4bellecour.cf/contactfr.php">contact</a></p>
 <div class="container-fluid">
 
   <div id="test">
