@@ -40,21 +40,40 @@
 
     <center>
     <div id="form">
-        <form method="POST">
-        <h1>Contact us</h1>
-        <p>For any request, fill out the form below.</p>
-        
-            <label>Last name</label>
-            <input type="text" name="nom" required>
-            <label>E-mail</label>
-            <input type="email" name="email" required>
-            <label>Subject</label>
-            <input type="text" name="sujet" required>
+    <form>
+      <h1>Contactez-nous</h1>
+      <div class="separation"></div>
+      <div class="corps-formulaire">
+        <div class="gauche">
+          <div class="groupe">
+            <label>Votre Prénom</label>
+            <input type="text" autocomplete="off" />
+            <i class="fas fa-user"></i>
+          </div>
+          <div class="groupe">
+            <label>Votre adresse e-mail</label>
+            <input type="text" autocomplete="off" />
+            <i class="fas fa-envelope"></i>
+          </div>
+          <div class="groupe">
+            <label>Votre téléphone</label>
+            <input type="text" autocomplete="off" />
+            <i class="fas fa-mobile"></i>
+          </div>
+        </div>
+
+        <div class="droite">
+          <div class="groupe">
             <label>Message</label>
-            <textarea name="message" required></textarea>
-            <input type="submit" value="Submit">
-        
-        </form>
+            <textarea placeholder="Saisissez ici..."></textarea>
+          </div>
+        </div>
+      </div>
+
+      <div class="pied-formulaire" align="center">
+        <button>Envoyer le message</button>
+      </div>
+    </form>
         <?php
         if (isset($_POST["message"])) {
             $message= "Ce message vous à été envoyé via la page du site projetg4bellecour.cf
