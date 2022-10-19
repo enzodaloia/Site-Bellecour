@@ -12,7 +12,7 @@
 <!--* En-tete avec baniere -->
 <header>
    <div class="Banniere1">
-     <img id="bannière1" src="Images/banniere.jpg" class="img-top">
+     <img id="ban1" src="Images/banniere.jpg" class="img-top">
     </div>
 
 <div id=box1accueil>
@@ -85,7 +85,7 @@
 <div id="divcolor">
   <br />position: absolute;
   <br />z-index: 5;
-<img src="iimage.jpg" alt="image" class="centrer">
+<img src="statu.jpg" alt="image" class="centrer">
 </div>
 
 
