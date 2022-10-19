@@ -14,19 +14,18 @@
 		<!-- <p><img src="Images/LogoBellecourOfficiel.png"></p> -->
 		</div>
 		</div>
-			<div>
+    <div>
 				<ul>
 					<li><a href="accueilfr.php">Accueil</a></li>
-					<li><a>Activités</a>
-						<ul>
-							<li><a href="activitesfr.php">Activités</a></li>
-							<li><a href="transportfr.php">Transport</a></li>
-						</ul>
+					<li><a href="activitesfr.php">Activités</a>
 					</li>
 					<li><a href="histoirefr.php">Histoire</a></li>
 					<li><a href="actualitesfr.php">Actualités</a></li>
                     <li><a href="contactfr.php">Contact</a></li>
                     <li><a href="accesfr.php">Accès</a></li>
+                    <ul>
+						<li><a href="transportfr.php">Transport</a></li>
+					</ul>
 				</ul>
 			</div>
 		<div id="bannière2">  
