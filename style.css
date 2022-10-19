@@ -317,4 +317,14 @@ header div ul li:hover ul li{
 
 }
 
+#FormActivité{
+	padding-top: 150px;
+	padding-bottom: 100px;
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-bottom: 100px;
+	border-radius: 10px;
+}
+
+
 

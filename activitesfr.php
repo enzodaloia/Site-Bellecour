@@ -32,7 +32,7 @@
 		<div id="bannière2">  
 	    </div>
 	</header>
-  <div id="form">
+  <div id="FormActivité">
 
     <body id="body">
     <h1>Activités</h1>
@@ -45,8 +45,8 @@
   <div id="test">
     <p>/</p>
   </div>
-  <div id="france"><a href="activitesfr.php"><p><img id="imgfr" src="img/france.jpg"></p></a></div>
-  <div id="angleterre"><a href="activitesen.php"><p><img id="imgen" src="img/angleterre.jpg"></p></a></div>
+  <div id="france"><a href="activitesfr.php"><p><img id="imgfr" src="Images/france.jpg"></p></a></div>
+  <div id="angleterre"><a href="activitesen.php"><p><img id="imgen" src="Images/angleterre.jpg"></p></a></div>
   
   <div class="row"> 
 <div class="container-fluid">
