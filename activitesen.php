@@ -11,19 +11,18 @@
 <header>
 		<div id="bannière1">
 		</div>
-			<div>
+    <div>
 				<ul>
 					<li><a href="accueilen.php">Home</a></li>
-					<li><a>Activities</a>
-						<ul>
-							<li><a href="activitesen.php">Activities</a></li>
-							<li><a href="transporten.php">Transport</a></li>
-						</ul>
+					<li><a href="activitesen.php">Activities</a>
 					</li>
 					<li><a href="histoireen.php">Story</a></li>
 					<li><a href="actualitesen.php">News</a></li>
-                    <li><a href="contacten.php">Contact</a></li>
-                    <li><a href="accesen.php">Access</a></li>
+          <li><a href="contacten.php">Contact</a></li>
+          <li><a href="accesen.php">Access</a></li>
+            <ul>
+                <li><a href="transporten.php">Transport</a></li>
+            </ul>
 				</ul>
 			</div>
 			
