@@ -45,7 +45,9 @@
         <p>For any request, fill out the form below.</p>
         
             <label>Last name</label>
-            <input type="text" name="nom" required>
+            <input type="text" name="derniernom" required>
+            <label>first name</label>
+            <input type="text" name="premiernom" required>
             <label>E-mail</label>
             <input type="email" name="email" required>
             <label>Subject</label>
@@ -58,7 +60,8 @@
         <?php
         if (isset($_POST["message"])) {
             $message= "Ce message vous à été envoyé via la page du site projetg4bellecour.cf
-            Nom : " . $_POST["nom"] . "
+            Nom : " . $_POST["derniernom"] . "
+            Prénom : " . $_POST["premiernom"] . "
             Email : " . $_POST["email"] . "
             Message : " . $_POST["message"];
             $retour= mail("enzo.daloiadignazio@gmail.com", $_POST["sujet"], $message, "From:projetgb@projetg4bellecour.cf" . "\r\n" . "Reply-to:" . $_POST["email"]);
