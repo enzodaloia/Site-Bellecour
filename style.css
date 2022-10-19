@@ -160,7 +160,7 @@ header div ul li:hover ul li{
 }
 	
 #divcolor {
-	z-index: 5;
+	z-index: 8;
 	object-position: 50% 50%;
 	text-align: center;
 	margin-left: auto;
