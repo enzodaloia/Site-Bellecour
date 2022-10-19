@@ -85,7 +85,7 @@
 <div id="divcolor">
   <br />position: absolute;
   <br />z-index: 5;
-<img src="iimage.jpg" alt="image" class="centrer">
+<img src="Image.jpg" alt="image" class="centrer">
 </div>
 
 
