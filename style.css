@@ -17,8 +17,11 @@ body {
 }
 
 #form{
-	padding-top: 100px;
+	padding-top: 150px;
 	padding-bottom: 100px;
+}
+
+form{
 	background-color: white;
 }
 
