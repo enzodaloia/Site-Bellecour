@@ -39,6 +39,7 @@
 	<div id="angleterre"><a href="contacten.php"><p><img id="imgen" src="Images/angleterre.jpg"></p></a></div>
 
     <center>
+    <div id="form">
         <form method="POST">
         <h1>Contact us</h1>
         <p>For any request, fill out the form below.</p>
@@ -66,6 +67,7 @@
             }
         }
         ?>
+    </div>
     </center>
         
 

@@ -16,11 +16,18 @@ body {
 	top: 20px;
 }
 
-form{
+#form{
 	padding-top: 150px;
-	padding-bottom: 100px;
+	padding-left: 400px;
+	padding-right: 400px;
+	padding-bottom: 150px;
+	border-radius: 10px;
+}
+
+form{
 	background-color: white;
 	padding: 30px;
+	border-radius: 20px;
 }
 
 form input, form textarea{
