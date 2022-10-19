@@ -82,8 +82,8 @@
 </article>
 </div>
 
-<div class="position-absolute top-50 start-50 translate-middle">
-<img id="color" src="Images/color.jpg" class="img-fluid">
+<div id="divcolor">
+<img src="iimage.jpg" alt="image" class="centrer">
 </div>
 
 
