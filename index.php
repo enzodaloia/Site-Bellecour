@@ -40,7 +40,8 @@
 
 
 
-
+	<div>
+	</div>
 	<div id="footer">
 		<p>Bellecour | projet Pédagogique</p>
 	</div>
