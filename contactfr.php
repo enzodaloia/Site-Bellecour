@@ -1,6 +1,3 @@
-
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -10,7 +7,6 @@
     <title>Contact</title>
     <link rel="stylesheet" href="style.css" type="text/css" > 
     <link href="css/bootstrap.min.css" rel="stylesheet">
-   
 
 </head>
 
@@ -61,15 +57,31 @@
         
         </form>
         <?php
+        if(isset($_POST['envoyer'])) {
+            
+
+
+
+
+
         if (isset($_POST["message"])) {
-            $message= "Ce message vous à été envoyé via la page du site projetg4bellecour.cf
-            Nom : " . $_POST["nom"] . "
-            Prénom : " . $_POST["prenom"] . "
-            Email : " . $_POST["email"] . "
-            Message : " . $_POST["message"];
-            $retour= mail("enzo.daloiadignazio@gmail.com", $_POST["sujet"], $message, "From:projetgb@projetg4bellecour.cf" . "\r\n" . "Reply-to:" . $_POST["email"]);
-            if($retour){
-                echo "<p> L'email à été envoyé !</p>";
+            //on vérifie que le champ mail est correctement rempli
+            if(empty($_POST['mail'])) {
+                echo "Le champ mail est vide";
+            }else {
+                //on vérifie que l'adresse est correcte
+                if(!preg_match("#^[a-z0-9_-]+((\.[a-z0-9_-]+){1,})?@[a-z0-9_-]+((\.[a-z0-9_-]+){1,})?\.[a-z]{2,}$#i",$_POST['mail'])){
+                    echo "L'adresse mail entrée est incorrecte";
+                }else {
+                    $message= "Ce message vous à été envoyé via la page du site projetg4bellecour.cf
+                    Nom : " . $_POST["nom"] . "
+                    Prénom : " . $_POST["prenom"] . "
+                    Email : " . $_POST["email"] . "
+                    Message : " . $_POST["message"];
+                    $retour= mail("enzo.daloiadignazio@gmail.com", $_POST["sujet"], $message, "From:projetgb@projetg4bellecour.cf" . "\r\n" . "Reply-to:" . $_POST["email"]);
+                    if($retour){
+                        echo "<p> L'email à été envoyé !</p>";
+                }            
             }
         }
         ?>
