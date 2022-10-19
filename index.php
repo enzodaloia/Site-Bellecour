@@ -38,13 +38,12 @@
 	<div id="france"><a href="accueilfr.php"><p><img id="imgfr" src="Images/france.jpg"></p></a></div>
 	<div id="angleterre"><a href="accueilen.php"><p><img id="imgen" src="Images/angleterre.jpg"></p></a></div>
 
-	
+<br>	
 	<div>
 	</div>
 	<div id="footer">
 		<p>Bellecour | projet Pédagogique</p>
 	</div>
-
 
 
     <script src="js/bootstrap.bundle.min.js"></script>
