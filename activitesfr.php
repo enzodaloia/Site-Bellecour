@@ -32,9 +32,8 @@
 		<div id="bannière2">  
 	    </div>
       </header>
+      <div id="form">
     <body id="body">
-    <p>.</p>
-    <p>.</p>
     <h1>Activités</h1>
     <p>Pour tout achat sur notre site, merci de nous contacter au : 04 84 25 01 28,
       Ou alors dirigez-vous sur notre page de <a href="http://projetg4bellecour.cf/contactfr.php">Contact</a>
