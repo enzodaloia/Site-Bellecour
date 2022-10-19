@@ -38,38 +38,18 @@
 	<div id="france"><a href="contactfr.php"><p><img id="imgfr" src="Images/france.jpg"></p></a></div>
 	<div id="angleterre"><a href="contacten.php"><p><img id="imgen" src="Images/angleterre.jpg"></p></a></div>
 
-    <center>
-    <div id="form">
-        <form method="POST">
+    <form>
         <h1>Contact us</h1>
-        <p>For any request, fill out the form below.</p>
-        
-            <label>Last name</label>
-            <input type="text" name="nom" required>
-            <label>E-mail</label>
-            <input type="email" name="email" required>
-            <label>Subject</label>
-            <input type="text" name="sujet" required>
-            <label>Message</label>
-            <textarea name="message" required></textarea>
-            <input type="submit" value="Submit">
-        
-        </form>
-        <?php
-        if (isset($_POST["message"])) {
-            $message= "Ce message vous à été envoyé via la page du site projetg4bellecour.cf
-            Nom : " . $_POST["nom"] . "
-            Email : " . $_POST["email"] . "
-            Message : " . $_POST["message"];
-            $retour= mail("enzo.daloiadignazio@gmail.com", $_POST["sujet"], $message, "From:projetgb@projetg4bellecour.cf" . "\r\n" . "Reply-to:" . $_POST["email"]);
-            if($retour){
-                echo "<p> L'email à été envoyé !</p>";
-            }
-        }
-        ?>
-    </div>
-    </center>
-        
+        <div class="separation"></div>
+        <div class="corps-formulaire">
+            <div class="gauche">
+
+            </div>
+            <div class="droite">
+                
+            </div>
+        </div>
+    </form>
 
     <div id="footer">
 		<p>Bellecour | educational project</p>
