@@ -32,7 +32,7 @@
 		<div id="bannière2">  
 	    </div>
 	</header>
-  <div id="form">
+  <div id="FormActivité">
 
     <body id="body">
     <h1>Activités</h1>
