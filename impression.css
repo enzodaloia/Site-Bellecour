@@ -1,6 +1,6 @@
 body { /* Modifications : la couleur de fond de page - la police - l'unitÃ© utilisÃ©e pour la taille de la police  */
 	background-color:rgb(255, 255, 255);
-	font-family:Serif;
+	font-family:Arial;
 	font-size:15pt;
 }
 
@@ -28,7 +28,7 @@ h2, h3, #contenu h3, #contenu a, a { /* Modification de la couleur des titres et
 h2 { /* Modifications : marges - police - couleur du soulignÃ© */
 	padding-bottom:2pt;
 	padding-left:0;
-	font:bold 20pt Serif;
+	font:bold 20pt Arial;
 	border-bottom:1pt solid #000;
 }
 
