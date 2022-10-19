@@ -81,6 +81,9 @@
       <a href="https://actu.fr/auvergne-rhone-alpes/lyon_69123/lyon-c-est-quoi-ces-chapiteaux-installes-sur-la-place-bellecour_54097150.html" class="btn btn-secondary">Voir plus...</a>
     </div>
           
+    <div id="titre">
+       <center><h1>Actualités</h1></center>
+</div>
 
 
   <!--* card=5-8 -->
