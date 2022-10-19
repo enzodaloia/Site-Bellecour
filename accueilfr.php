@@ -28,9 +28,15 @@
 			</div>
 			
 		<div id="bannière2">
-	    </div>
+    </div>
 </header>
     <body id="body">
+		
+		<br><br><br>
+		<h1>Présentation du quartier</h1>
+		<p position="center-left">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur, porro ullam? Quo ab odit fuga consequuntur. Praesentium molestias mollitia quo quos perferendis odio eum repudiandae impedit, amet necessitatibus corrupti nulla!
+		</p>
+		<p> <img src="ImageAccueil1.jpg" alt="" width="500" height="500" ></p>
 
 	<div id="test">
 		<p>/</p>

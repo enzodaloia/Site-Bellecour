@@ -30,7 +30,13 @@
 		<div id="bannière2">
 	    </div>
 	</header>
-    <body id="body">
+    
+<body id="body">
+	<br><br><br>
+	<h1>Présentation du quartier</h1>
+	<p position="center-left">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur, porro ullam? Quo ab odit fuga consequuntur. Praesentium molestias mollitia quo quos perferendis odio eum repudiandae impedit, amet necessitatibus corrupti nulla!
+	</p>
+	<p> <img src="ImageAccueil1.jpg" alt="" width="500" height="500" ></p>
 
 	<div id="test">
 		<p>/</p>
@@ -38,13 +44,14 @@
 	<div id="france"><a href="accueilfr.php"><p><img id="imgfr" src="Images/france.jpg"></p></a></div>
 	<div id="angleterre"><a href="accueilen.php"><p><img id="imgen" src="Images/angleterre.jpg"></p></a></div>
 
-
-
-
+<br>	
+	<div>
+		<br>
+		<br>
+	</div>
 	<div id="footer">
 		<p>Bellecour | projet Pédagogique</p>
 	</div>
-
 
 
     <script src="js/bootstrap.bundle.min.js"></script>

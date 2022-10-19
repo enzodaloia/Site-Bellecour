@@ -29,24 +29,96 @@
 			
 		<div id="bannière2">
 	    </div>
-	</header>
+		</header>
     <body id="body">
+    <p>.</p>
+    <p>.</p>
+    <h1>Activités</h1>
+    <p>For any purchase on our site, please contact us at : 04 84 25 01 28,
+	Or go to our <a href="http://projetg4bellecour.cf/contactfr.php">contact</a> page 
+    </p>
+<div class="container-fluid">
 
-	<div id="test">
-		<p>/</p>
-	</div>
-	<div id="france"><a href="activitesfr.php"><p><img id="imgfr" src="Images/france.jpg"></p></a></div>
-	<div id="angleterre"><a href="activitesen.php"><p><img id="imgen" src="Images/angleterre.jpg"></p></a></div>
+  <div id="test">
+    <p>/</p>
+  </div>
+  <div id="france"><a href="activitesfr.php"><p><img id="imgfr" src="Images/france.jpg"></p></a></div>
+  <div id="angleterre"><a href="activitesen.php"><p><img id="imgen" src="Images/angleterre.jpg"></p></a></div>
+  
+  <div class="row"> 
+<div class="container-fluid">
 
+	<div class="row row-cols-1 row-cols-md-3 g-4">
+  <div class="col">
+    <div class="card h-100">
+      <img src="..." class="card-img-bot" alt="...">
+      <div class="card-body">
+        <h4 class="card-title">Bus visit</h4>
+        <p class="card-texte">Bellecour : multiple stop bus tour</p>
+        <p class="card-texte">1 day · Audioguide in option</p>
+        <p class="card-texte">From 22€ per person</p>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card h-100">
+      <img src="" class="card-img-bot" alt="...">
+      <div class="card-body">
+        <h4 class="card-title">Bike visit</h4>
+        <p class="card-texte">Bellecour : 2 hour electric bike tour with local guide</p>
+        <p class="card-texte">2 hours · Small group</p>
+        <p class="card-texte">From 30€ per person</p>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card h-100">
+      <img src="" class="card-img-bot" alt="...">
+      <div class="card-body">
+        <h4 class="card-title">Bike</h4>
+        <p class="card-texte">Bellecour : 3 hours electric bike with tasting break</p>
+        <p class="card-texte">3 hours · Small group</p>
+        <p class="card-texte">From 50€ per person</p> 
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card h-100">
+      <img src="" class="card-img-bot" alt="...">
+      <div class="card-body">
+        <h4 class="card-title">Segway Visit</h4>
+        <p class="card-texte">Bellecour : Segway tour of the neighborhood with a local guild</p>
+        <p class="card-texte">2 hours · Small group</p>
+        <p class="card-texte">From 52€ per person</p>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card h-100">
+      <img src="" class="card-img-bot" alt="...">
+      <div class="card-body">
+        <h4 class="card-title">Orienteering</h4>
+        <p class="card-texte">Bellecour : Orienteering on the tracks of Arnaud </p>
+        <p class="card-texte">2 hours · Small Group</p>
+        <p cmass="card-texte">Free</p>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card h-100">
+      <img src="" class="card-img-bot" alt="...">
+      <div class="card-body">
+        <h4 class="card-title">History</h4>
+        <p class="card-texte">Bellecour : Explanation of the history of the Bellecour district and others</p>
+        <p class="card-texte">2 hours · Small group</p>
+        <p class="card-texte">For 5€ per person</p>
+      </div>
+    </div>
+  </div>
+  <div>
 
-
-
-
-
-
-
-
-
+</div>
+</div>
     <script src="js/bootstrap.bundle.min.js"></script>
     </body>
 </html>
