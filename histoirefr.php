@@ -11,11 +11,9 @@
 
 <!--* En-tete avec baniere -->
 <header>
-
-   <div class="Banniere1">
-     <img id="bannière1" src="Images/banniere.jpg" class="img-top">
-    </div>
-
+<div id="bannière1">
+    <img id="bannière1" src="Images/banniere1.jpg" class="img-top">
+   </div>
 <div id=box1accueil>
 <!-- <p><img src="Images/LogoBellecourOfficiel.png"></p> -->
 </div>
