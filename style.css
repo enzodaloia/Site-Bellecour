@@ -16,9 +16,12 @@ body {
 	top: 20px;
 }
 
-form{
+#form{
 	padding-top: 150px;
 	padding-bottom: 100px;
+}
+
+form{
 	background-color: white;
 	padding: 30px;
 }
@@ -51,6 +54,8 @@ header div{
 	justify-content:center;
 	align-items: center;
 	background-color: grey;
+	height:150px;
+	width:100%;
 }
 
 header{
@@ -189,5 +194,116 @@ header div ul li:hover ul li{
 }
 #imgen{width: 35px;}
 
+
+#card1 {
+	box-shadow: 0 0 5px black;
+	position: absolute;
+	left: 100px;
+	top: 300px;
+}
+
+#actu1 {
+	width: 288px;
+	height: auto;
+
+}
+
+ 
+#card2 {
+	box-shadow: 0 0 5px black;
+	position: absolute;
+	left: 450px;
+	top: 300px;
+}
+
+#actu2 {
+	width: 288px;
+	height: auto;
+
+}
+
+
+#card3 {
+	box-shadow: 0 0 5px black;
+	position: absolute;
+	left: 1150px;
+	top: 300px;
+}
+
+#actu3 {
+	width: 288px;
+	height: auto;
+
+}
+
+
+#card4 {
+	box-shadow: 0 0 5px black;
+	position: absolute;
+	left: 800px;
+	top: 300px;
+}
+
+#actu4 {
+	width: 288px;
+	height: auto;
+
+}
+
+
+#card5 {
+	box-shadow: 0 0 5px black;
+	position: absolute;
+	left: 100px;
+	top: 750px;
+}
+
+#actu5 {
+	width: 288px;
+	height: auto;
+
+}
+
+#divers {
+	text-align: center;
+}
+#card6 {
+	box-shadow: 0 0 5px black;
+	position: absolute;
+	left: 450px;
+	top: 750px;
+}
+
+#actu6 {
+	width: 288px;
+	height: auto;
+
+}
+
+#card7 {
+	box-shadow: 0 0 5px black;
+	position: absolute;
+	left: 800px;
+	top: 750px;
+}
+
+#actu7 {
+	width: 288px;
+	height: auto;
+
+}
+
+#card8 {
+	box-shadow: 0 0 5px black;
+	position: absolute;
+	left: 1150px;
+	top: 750px;
+}
+
+#actu8 {
+	width: 288px;
+	height: auto;
+
+}
 
 
