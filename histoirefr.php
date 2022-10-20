@@ -54,7 +54,7 @@
 	<div id="angleterre"><a href="histoireen.php"><p><img id="imgen" src="Images/angleterre.jpg"></p></a></div>
 
 <!--* texte + titre-->
-<div id="titre" class="container-fluid">
+<div class="container-fluid">
 <h1> La Place Bellecour </h1>
 
 
@@ -80,10 +80,10 @@
 <div id="Localisation" class="container-fluid">
     <article>
     <center><strong><h1> Localisation et accès </h1></strong></center>
-    <p id="texte">Cette place est aujourd'hui située dans le deuxième arrondissement de la ville sur la presqu'île, entre Saône et Rhône.<br>
+    <p>
+     Cette place est aujourd'hui située dans le deuxième arrondissement de la ville sur la presqu'île, entre Saône et Rhône.<br>
      De la place Bellecour partent les trois axes routiers principaux de la Presqu'île de Lyon, le quartier des Terreaux au nord et le quartier Perrache au sud dont deux rues piétonnes :<br>
-
-</p>
+    </p>
     <ul>
         <li>la rue de la République, qui débouche sur la place de la Comédie entre la Mairie et l'Opéra
         <li>puis sur la place Louis-Pradel par la rue du Puits-Gaillot côté nord
@@ -91,16 +91,17 @@
         </li>
     </li>
     </li>
-    <p>
+    <center><p>
     Côté nord, la rue du Président Édouard Herriot, où passent les voitures et où se concentrent les marques de luxe, débouche sur la place des Terreaux.<br>
     <br>
     La place est également située sur l'axe est-ouest reliant la rive droite du Rhône et la rive droite de la Saône. <br>
     Le quartier du Vieux Lyon et la cathédrale Saint-Jean sont à l'ouest, de l'autre côté du pont Bonaparte sur la Saône, accessible par la rue du Colonel-Chambonnet.<br>
      Le quartier de la Guillotière est à l'est, de l'autre côté du pont de la Guillotière, accessible par la rue de la Barre.<br>
     <br> Deux places plus petites sont reliées à la Place Bellecour :<br>
-    <br>
+</p></center>
+<br>
    <center><strong><h1>Odonymie:</h1></strong></center>
-    <p>Les noms de lieux avec le mot "Bellecour" sont apparus pour la première fois au XIIe siècle. Les terres agricoles appartenant à l'archevêque s'appellent Bella Curtis ("Le beau jardin"). Au XVIe siècle,<br>
+    <center><p>Les noms de lieux avec le mot "Bellecour" sont apparus pour la première fois au XIIe siècle. Les terres agricoles appartenant à l'archevêque s'appellent Bella Curtis ("Le beau jardin"). Au XVIe siècle,<br>
      ce qui n'était encore qu'un ranch s'appelait Pré de Belle Court. En 1715, elle devient place publique et prend le nom de Place Royale, puis Place Louis Legrand, en hommage à Louis XIV.<br>
     <br>
     En 1790, lors de la Révolution, le nom de la monarchie disparaît et la place devient la place de la Fédération pour perpétuer le souvenir de la Fête de la Fédération,<br>
@@ -108,8 +109,9 @@
     (en 1794, la place des Jacobins s'appelle place de la Fraternité). L'odonamem continue d'évoluer avec le système politique : en 1800, l'esplanade est la place Bonaparte,<br>
     et logiquement plus tard elle devient la place Napoléon.<br>
     <br>
+</p></center>
     <center><strong><h1>Histoire</h1></strong></center>
-    <p>
+    <center><p>
     A l'époque gallo-romaine, Bellecour était une île ou presqu'île formée par des terres alluviales. <br>
     Le quartier connaît à l'époque une activité romaine, militaire et commerciale : on y retrouve Cannabe,<br>
     caserne 6 servant d'entrepôts aux marchands et marins gallo-romains, la ville est alors située sur la colline de Fourvière et descend sur la Saône au troisième.<br>
@@ -140,13 +142,10 @@ La place de la Charité a ensuite été agrandie pour devenir l'actuelle place A
 
 
 
-</p>
+</p></center>
     </ul>
 </article>
 </div>
-
-<img src="Images/statu.jpg"
-
 
 
 
