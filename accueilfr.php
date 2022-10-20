@@ -47,7 +47,7 @@
 	<div id="angleterre"><a href="accueilen.php"><p><img id="imgen" src="Images/angleterre.jpg"></p></a></div>
 
 	<div id="FormTransport">
-<center><h1>Localisation de la maire Bellecour</h1>
+<center><h1>Localisation de la mairie Bellecour</h1>
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2324.1232401906177!2d4.82530626920767!3d45.
 753311636146165!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47f4ebb2c85e55d7%3A0x3cf56b3e1040e2fe!2sMa
 irie%20du%202e%20arrondissement%20de%20Lyon!5e0!3m2!1sfr!2sfr!4v1666188749619!5m2!1sfr!2sfr" width="1400" height="250" 
