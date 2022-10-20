@@ -11,8 +11,9 @@
 <link rel="stylesheet" href="impression.css" type="text/css" media="print">
 </head>
 <header>
-<div id="bannière1">
-    <img id="bannière1" src="Images/banniere1.jpg" class="img-top">
+
+<img src="Images/banniere1.jpg" class="img-fluid" alt="...">
+
    </div>
 		<div id="bannière1">
 		<div id=box1accueil>
@@ -34,7 +35,7 @@
 					</li>
 				</ul>
 			</div>
-		<div id="bannière2">  
+		<div id="bannière2" class="container">  
 	    </div>
 	</header>
     <body id="body">
@@ -49,7 +50,7 @@
 </div>
 
 <!--* Carte actu-->
-<div id="card1" class="card" style="width: 18rem;">
+<div id="card1" class="card" style="width: 18rem;" class="container-fluid">
     <div>
       <img id="actu1"src="Images/actu1.jpg" class="card-img-top">
     </div>
@@ -59,7 +60,7 @@
       <a href="https://actu.fr/auvergne-rhone-alpes/lyon_69123/pourquoi-vous-risquez-de-croiser-monica-bellucci-a-lyon-cette-semaine_54576000.html" class="btn btn-Secondary">Voir plus...</a>
     </div>
   </div>    
-  <div id="card2" class="card" style="width: 18rem;">
+  <div id="card2" class="card" style="width: 18rem;" class="container-fluid">
     <div>
       <img id="actu2" src="Images/louisv.png" class="card-img-top">
     </div>
@@ -69,7 +70,7 @@
       <a href="https://actu.fr/auvergne-rhone-alpes/lyon_69123/lyon-la-statue-de-louis-xiv-sur-la-place-bellecour-bientot-en-travaux-ce-qui-va-changer_54454292.html" class="btn btn-Secondary">Voir plus...</a>
     </div>
   </div>
-  <div id="card3" class="card" style="width: 18rem;">
+  <div id="card3" class="card" style="width: 18rem;" class="container-fluid">
     <img id="actu3" src="Images/gira.jpg" class="card-img-top">
     <div class="card-body">
       <h5 class="card-title">C'est quoi cette grande girafe qui vient d'être installée dans les rues de Lyon ?</h5>
@@ -78,7 +79,7 @@
     </div>
   </div>
 
-  <div id="card4" class="card" style="width: 18rem;">
+  <div id="card4" class="card" style="width: 18rem;" class="container-fluid">
     <img id="actu4" src="Images/chap.jpg" class="card-img-top">
     <div class="card-body">
       <h5 class="card-title">Lyon. C'est quoi ces chapiteaux installés sur la place Bellecour ?</h5>
@@ -88,7 +89,7 @@
 
   <!--* card=5-8 -->
   </div>
-  <div id="card5" class="card" style="width: 18rem;">
+  <div id="card5" class="card" style="width: 18rem;" class="container-fluid">
     <img id="actu5" src="Images/place.jpg" class="card-img-top">
     <div class="card-body">
       <h5 class="card-title">Lyon. Cet immeuble que tout le monde connaît place Bellecour va changer : ce qui est prévu</h5>
@@ -96,7 +97,7 @@
       <a href="https://actu.fr/auvergne-rhone-alpes/lyon_69123/lyon-cet-immeuble-que-tout-le-monde-connait-place-bellecour-va-changer-ce-qui-est-prevu_52843778.html" class="btn btn-Secondary">Voir plus...</a>
     </div>
   </div>
-  <div id="card6" class="card" style="width: 18rem;">
+  <div id="card6" class="card" style="width: 18rem;" class="container-fluid">
     <img id="actu6" src="Images/metrob.jpg" class="card-img-top">
     <div class="card-body">
       <h5 class="card-title">Lyon. Pourquoi le métro B ne circulera pas pendant ces deux jours entiers en octobre</h5>
@@ -104,7 +105,7 @@
       <a href="https://actu.fr/auvergne-rhone-alpes/lyon_69123/lyon-pourquoi-le-metro-b-ne-circulera-pas-pendant-ces-deux-jours-entiers-en-octobre_54554052.html" class="btn btn-Secondary">Voir plus...</a>
     </div>
   </div>
-  <div id="card7" class="card" style="width: 18rem;">
+  <div id="card7" class="card" style="width: 18rem;" class="container-fluid">
     <img id="actu7" src="Images/bubble.jpg" class="card-img-top">
     <div class="card-body">
       <h5 class="card-title">Lyon. Bubble tea, manga et noodles : un immense restaurant asiatique débarque à l'Hôtel-Dieu</h5>
@@ -112,7 +113,7 @@
       <a href="https://actu.fr/auvergne-rhone-alpes/lyon_69123/lyon-bubble-tea-manga-et-noodles-un-immense-restaurant-asiatique-debarque-a-l-hotel-dieu_54289554.html" class="btn btn-Secondary">Voir plus...</a>
     </div>
   </div>
-  <div id="card8" class="card" style="width: 18rem;">
+  <div id="card8" class="card" style="width: 18rem;" class="container-fluid">
     <img id="actu8" src="Images/elect.jpg" class="card-img-top">
     <div class="card-body">
       <h5 class="card-title">Lyon. Comment le quartier de la Part-Dieu et ses tours sont désormais plongés dans le noir</h5>
