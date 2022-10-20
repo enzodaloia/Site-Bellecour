@@ -9,7 +9,7 @@ body { /* Modifications : la couleur de fond de page - la police - l'unitÃ© ut
 	border:none;
 }
 
-#bannière1, #box1accueil, #bannière2 { /* Les Ã©lÃ©ments qui ne seront pas affichÃ©s  */
+#bannière1, #box1accueil, #bannière2, #ecrit { /* Les Ã©lÃ©ments qui ne seront pas affichÃ©s  */
 	display:none;
 }
 
