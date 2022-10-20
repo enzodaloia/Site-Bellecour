@@ -108,6 +108,7 @@
     (en 1794, la place des Jacobins s'appelle place de la Fraternité). L'odonamem continue d'évoluer avec le système politique : en 1800, l'esplanade est la place Bonaparte,<br>
     et logiquement plus tard elle devient la place Napoléon.<br>
     <br>
+    </p
     <center><strong><h1>Histoire</h1></strong></center>
     <p>
     A l'époque gallo-romaine, Bellecour était une île ou presqu'île formée par des terres alluviales. <br>
