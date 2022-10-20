@@ -53,18 +53,18 @@
 <img id="..." src="Images/Transport bus.jpg" width="500" height="500">
 <div id="FormTransport">
 <p>Pour tout autre information sur les autres direction des transports en commun, cliquer sur le bouton ci-dessous.</p>
-<button type="button" class="btn btn-secondary"><a href="https://www.tcl.fr/sites/default/files/2022-09/Plan_Lyon-Villeurbanne_ao%C3%BBt22_0.pdf" style="font-family: 'Trebuchet MS'; color: #FFFFFF ;">Lien vers le PDF</a></button>
+<button type="button" class="btn btn-secondary"><a href="https://www.tcl.fr/sites/default/files/2022-09/Plan_Lyon-Villeurbanne_ao%C3%BBt22_0.pdf" target="_blank" style="font-family: 'Trebuchet MS'; color: #FFFFFF ;">Lien vers le PDF</a></button>
 
 <div id="FormTransport">
 <h1>Vélo'V</h1>
 <p>Localisation de tous les postes de vélo</p>
 <img id="..." src="Images/Vélo'V.jpg" width="500" height="700">
 <p>Pour tout achat de carte ou autres, veuillez cliquer sur le bouton juste ci-dessous</p>
-<button type="button" class="btn btn-secondary"><a href="https://velov.grandlyon.com/fr/home" style="font-family: 'Trebuchet MS'; color: #FFFFFF ;">Lien vers le PDF</a></button>
+<button type="button" class="btn btn-secondary"><a href="https://velov.grandlyon.com/fr/home" target="_blank" style="font-family: 'Trebuchet MS'; color: #FFFFFF ;">Lien vers le PDF</a></button>
 
 <div id="FormTransport">
 <h1>Trotinette Libre-Service</h1>
-<p>Les trottinettes libre-service sont disposées un peux partout dans Lyon, il vous suffit juste d'avoir le logiciel <a href="https://ridedott.com/fr">Dott</a> pour les localiser</p>
+<p>Les trottinettes libre-service sont disposées un peux partout dans Lyon, il vous suffit juste d'avoir le logiciel <a href="https://ridedott.com/fr" target="_blank">>Dott</a> pour les localiser</p>
 </div>
 
 </center>
