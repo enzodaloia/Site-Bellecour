@@ -54,7 +54,7 @@
 	<div id="angleterre"><a href="histoireen.php"><p><img id="imgen" src="Images/angleterre.jpg"></p></a></div>
 
 <!--* texte + titre-->
-<div class="container-fluid">
+<div id="titre" class="container-fluid">
 <h1> La Place Bellecour </h1>
 
 
@@ -80,7 +80,7 @@
 <div id="Localisation" class="container-fluid">
     <article>
     <center><strong><h1> Localisation et accès </h1></strong></center>
-    <p>
+    <center><p>
      Cette place est aujourd'hui située dans le deuxième arrondissement de la ville sur la presqu'île, entre Saône et Rhône.<br>
      De la place Bellecour partent les trois axes routiers principaux de la Presqu'île de Lyon, le quartier des Terreaux au nord et le quartier Perrache au sud dont deux rues piétonnes :<br>
     </p>
@@ -91,7 +91,7 @@
         </li>
     </li>
     </li>
-    <center><p>
+    <<p>
     Côté nord, la rue du Président Édouard Herriot, où passent les voitures et où se concentrent les marques de luxe, débouche sur la place des Terreaux.<br>
     <br>
     La place est également située sur l'axe est-ouest reliant la rive droite du Rhône et la rive droite de la Saône. <br>
@@ -99,6 +99,9 @@
      Le quartier de la Guillotière est à l'est, de l'autre côté du pont de la Guillotière, accessible par la rue de la Barre.<br>
     <br> Deux places plus petites sont reliées à la Place Bellecour :<br>
 </p></center>
+<br>
+<img src="Images/bc.png" class="card-img-top">
+<br>
 <br>
    <center><strong><h1>Odonymie:</h1></strong></center>
     <center><p>Les noms de lieux avec le mot "Bellecour" sont apparus pour la première fois au XIIe siècle. Les terres agricoles appartenant à l'archevêque s'appellent Bella Curtis ("Le beau jardin"). Au XVIe siècle,<br>
@@ -139,7 +142,7 @@ En 1934, l'Hôpital de la Charité est détruit, à l'exception du clocher de l'
 La place de la Charité a ensuite été agrandie pour devenir l'actuelle place Antonin-Ponce.<br>
 <br>
 
-
+<img src="Images/bc.png" class="card-img-top">
 
 
 </p></center>
