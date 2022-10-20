@@ -35,10 +35,10 @@
 					<li><a href="actualitesfr.php">News</a></li>
                     <li><a href="contactfr.php">Contact</a></li>
                     <li><a href="accesfr.php">Access</a>
-                         <ul>
+                        <ul>
                             <li><a href="transportfr.php">Transport</a></li>
                         </ul>
-                </li>        
+                    </li>        
 				</ul>
 			</div>
 <div id="bannière2">    
