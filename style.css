@@ -154,12 +154,12 @@ header div ul li:hover ul li{
 	margin-right: 10px;
 }
 
-#titre { 
+.titre { 
 	margin-top:100px;
 	margin-left:10px;
 }
 
-#texte{
+.texte{
 	margin-left: 20px;
 }
 #Localisation {
