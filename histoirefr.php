@@ -34,11 +34,10 @@
 					<li><a href="histoirefr.php">Histoire</a></li>
 					<li><a href="actualitesfr.php">Actualités</a></li>
                     <li><a href="contactfr.php">Contact</a></li>
-                    <li><a href="accesfr.php">Accès</a>
-                    <ul>
-						<li><a href="transportfr.php">Transport</a></li>
-					</ul>
-					</li>
+                    <li><a href="accesfr.php">Accès</a></li>
+                        <ul>
+                            <li><a href="transportfr.php">Transport</a></li>
+                        </ul>
 				</ul>
 			</div>
 <div id="bannière2">    
@@ -86,11 +85,6 @@
     </li>
     </ul>
 </article>
-</div>
-
-<div id="divcolor">
-
-<img src="Images/statu.jpg" alt="image" class="centrer">
 </div>
 
 

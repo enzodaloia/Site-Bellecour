@@ -205,7 +205,39 @@ header div ul li:hover ul li{
 
 }
 
- 
+#card1en {
+	box-shadow: 0 0 5px black;
+	position: absolute;
+	left: 100px;
+	top: 300px;
+}
+
+#actu1en {
+	width: 288px;
+	height: auto;
+
+}
+
+#divcolor {
+	z-index: 8;
+	object-position: 50% 50%;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	z-index: 5;
+}
+
+#color {
+	z-index: 5;
+	object-position: 50% 50%;
+	height: 250px;
+	width: 250px;
+	max-height: auto;
+	max-width: auto;
+	min-height: auto;
+	min-width: auto;
+}
+
 #card2 {
 	box-shadow: 0 0 5px black;
 	position: absolute;
@@ -214,6 +246,19 @@ header div ul li:hover ul li{
 }
 
 #actu2 {
+	width: 288px;
+	height: auto;
+
+}
+
+#card2en {
+	box-shadow: 0 0 5px black;
+	position: absolute;
+	left: 450px;
+	top: 300px;
+}
+
+#actu2en {
 	width: 288px;
 	height: auto;
 
@@ -233,6 +278,19 @@ header div ul li:hover ul li{
 
 }
 
+#card3en {
+	box-shadow: 0 0 5px black;
+	position: absolute;
+	left: 1150px;
+	top: 300px;
+}
+
+#actu3en {
+	width: 288px;
+	height: auto;
+
+}
+
 
 #card4 {
 	box-shadow: 0 0 5px black;
@@ -242,6 +300,19 @@ header div ul li:hover ul li{
 }
 
 #actu4 {
+	width: 288px;
+	height: auto;
+
+}
+
+#card4en {
+	box-shadow: 0 0 5px black;
+	position: absolute;
+	left: 800px;
+	top: 300px;
+}
+
+#actu4en {
 	width: 288px;
 	height: auto;
 
@@ -261,6 +332,19 @@ header div ul li:hover ul li{
 
 }
 
+#card5en {
+	box-shadow: 0 0 5px black;
+	position: absolute;
+	left: 100px;
+	top: 950px;
+}
+
+#actu5en {
+	width: 288px;
+	height: auto;
+
+}
+
 #card6 {
 	box-shadow: 0 0 5px black;
 	position: absolute;
@@ -274,6 +358,21 @@ header div ul li:hover ul li{
 
 }
 
+#card6en {
+	box-shadow: 0 0 5px black;
+	position: absolute;
+	left: 450px;
+	top: 950px;
+}
+
+#actu6en {
+	width: 288px;
+	height: auto;
+
+}
+
+
+
 #card7 {
 	box-shadow: 0 0 5px black;
 	position: absolute;
@@ -286,6 +385,20 @@ header div ul li:hover ul li{
 	height: auto;
 
 }
+
+#card7en {
+	box-shadow: 0 0 5px black;
+	position: absolute;
+	left: 800px;
+	top: 950px;
+}
+
+#actu7en {
+	width: 288px;
+	height: auto;
+
+}
+
 #card8 {
 	box-shadow: 0 0 5px black;
 	position: absolute;
@@ -294,6 +407,19 @@ header div ul li:hover ul li{
 }
 
 #actu8 {
+	width: 288px;
+	height: auto;
+
+}
+
+#card8en {
+	box-shadow: 0 0 5px black;
+	position: absolute;
+	left: 1150px;
+	top: 950px;
+}
+
+#actu8en  {
 	width: 288px;
 	height: auto;
 
