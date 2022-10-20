@@ -7,6 +7,8 @@
     <link rel="stylesheet" href="style.css" type="text/css" >
     <title>News</title>
     <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="screen.css" media="screen">
+<link rel="stylesheet" href="impression.css" type="text/css" media="print">
 </head>
 <header>
 		<div id="bannière1">
@@ -14,7 +16,7 @@
 		<!-- <p><img src="Images/LogoBellecourOfficiel.png"></p> -->
 		</div>
 		</div>
-    <div>
+    <div id="ecrit">
 				<ul>
 					<li><a href="accueilfr.php">Home</a></li>
 					<li><a href="activitesfr.php">Activities</a>
