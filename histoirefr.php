@@ -80,7 +80,7 @@
 <div id="Localisation" class="container-fluid">
     <article>
     <center><strong><h1> Localisation et accès </h1></strong></center>
-    <center><p>
+    <p>
      Cette place est aujourd'hui située dans le deuxième arrondissement de la ville sur la presqu'île, entre Saône et Rhône.<br>
      De la place Bellecour partent les trois axes routiers principaux de la Presqu'île de Lyon, le quartier des Terreaux au nord et le quartier Perrache au sud dont deux rues piétonnes :<br>
     </p>
@@ -90,7 +90,7 @@
         <li>la rue Victor-Hugo, menant à Perrache côté sud</a>.
         </li>
     </li>
-    </li></center>
+    </li>
     <center><p>
     Côté nord, la rue du Président Édouard Herriot, où passent les voitures et où se concentrent les marques de luxe, débouche sur la place des Terreaux.<br>
     <br>
@@ -146,9 +146,6 @@ La place de la Charité a ensuite été agrandie pour devenir l'actuelle place A
     </ul>
 </article>
 </div>
-
-<img src="Images/statu.jpg"
-
 
 
 
