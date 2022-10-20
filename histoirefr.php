@@ -100,6 +100,9 @@
     <br> Deux places plus petites sont reliées à la Place Bellecour :<br>
 </p></center>
 <br>
+<img src="Images/bc.png" class="card-img-top">
+<br>
+<br>
    <center><strong><h1>Odonymie:</h1></strong></center>
     <center><p>Les noms de lieux avec le mot "Bellecour" sont apparus pour la première fois au XIIe siècle. Les terres agricoles appartenant à l'archevêque s'appellent Bella Curtis ("Le beau jardin"). Au XVIe siècle,<br>
      ce qui n'était encore qu'un ranch s'appelait Pré de Belle Court. En 1715, elle devient place publique et prend le nom de Place Royale, puis Place Louis Legrand, en hommage à Louis XIV.<br>
