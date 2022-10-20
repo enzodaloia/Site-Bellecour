@@ -26,7 +26,7 @@
 </div>
 
 
-            <div>
+            <div id="ecrit">
 				<ul>
 					<li><a href="accueilfr.php">Accueil</a></li>
 					<li><a href="activitesfr.php">Activités</a>

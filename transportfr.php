@@ -7,11 +7,14 @@
     <link rel="stylesheet" href="style.css" type="text/css" >
     <title>Transport</title>
     <link href="css/bootstrap.min.css" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="screen.css" media="screen">
+<link rel="stylesheet" href="impression.css" type="text/css" media="print">
 </head>
 <header>
 		<div id="bannière1">
 		</div>
-		<div>
+		<div id="ecrit">
+
 				<ul>
 					<li><a href="accueilfr.php">Accueil</a></li>
 					<li><a href="activitesfr.php">Activités</a>
