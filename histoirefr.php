@@ -54,7 +54,7 @@
 	<div id="angleterre"><a href="histoireen.php"><p><img id="imgen" src="Images/angleterre.jpg"></p></a></div>
 
 <!--* texte + titre-->
-<div class="container-fluid">
+<div id="titre" class="container-fluid">
 <h1> La Place Bellecour </h1>
 
 
@@ -139,7 +139,7 @@ En 1934, l'Hôpital de la Charité est détruit, à l'exception du clocher de l'
 La place de la Charité a ensuite été agrandie pour devenir l'actuelle place Antonin-Ponce.<br>
 <br>
 
-
+<img src="Images/bc.png" class="card-img-top">
 
 
 </p></center>
