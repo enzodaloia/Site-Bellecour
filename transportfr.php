@@ -49,7 +49,7 @@
 <h4>Tout les transport en commun dans Bellecour</h4>
 <div id="FormTransport">
 <h1>TCL</h1>
-<p>Transport, Trame et bus</p>
+<p>Transport, Tramway et bus</p>
 <img id="..." src="Images/Transport bus.jpg" width="500" height="500">
 <div id="FormTransport">
 <p>Pour tout autre information sur les autres direction des transports en commun, cliquer sur le bouton ci-dessous.</p>
