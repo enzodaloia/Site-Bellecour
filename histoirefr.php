@@ -80,7 +80,7 @@
 <div id="Localisation" class="container-fluid">
     <article>
     <center><strong><h1> Localisation et accès </h1></strong></center>
-    <p>
+    <center><p>
      Cette place est aujourd'hui située dans le deuxième arrondissement de la ville sur la presqu'île, entre Saône et Rhône.<br>
      De la place Bellecour partent les trois axes routiers principaux de la Presqu'île de Lyon, le quartier des Terreaux au nord et le quartier Perrache au sud dont deux rues piétonnes :<br>
     </p>
@@ -91,7 +91,7 @@
         </li>
     </li>
     </li>
-    <center><p>
+    <<p>
     Côté nord, la rue du Président Édouard Herriot, où passent les voitures et où se concentrent les marques de luxe, débouche sur la place des Terreaux.<br>
     <br>
     La place est également située sur l'axe est-ouest reliant la rive droite du Rhône et la rive droite de la Saône. <br>
