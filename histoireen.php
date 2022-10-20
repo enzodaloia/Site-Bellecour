@@ -34,10 +34,11 @@
 					<li><a href="histoirefr.php">Story</a></li>
 					<li><a href="actualitesfr.php">News</a></li>
                     <li><a href="contactfr.php">Contact</a></li>
-                    <li><a href="accesfr.php">Access</a></li>
-                        <ul>
+                    <li><a href="accesfr.php">Access</a>
+                         <ul>
                             <li><a href="transportfr.php">Transport</a></li>
                         </ul>
+                </li>        
 				</ul>
 			</div>
 <div id="bannière2">    
@@ -58,8 +59,8 @@
 
 
 <article>
-    <p> Place Bellecour is a large square in the centre of Lyon, France, to the north of the Ainay district. Measuring 312 m by 200 m (62,000 m² or 15 acres),[1] it is one of the largest open squares (without any patches of greenery or trees) in Europe, and the third biggest square in France,.<br>
-         <br>In the middle is an equestrian statue of King Louis XIV by François-Frédéric Lemot (1825).[1] Another statue, representing the Petit Prince and Antoine de Saint-Exupéry, is at the west end of the square.<br>
+    <p> Place Bellecour is a large square in the centre of Lyon, France, to the north of the Ainay district. Measuring 312 m by 200 m (62,000 m² or 15 acres), it is one of the largest open squares (without any patches of greenery or trees) in Europe, and the third biggest square in France,.<br>
+         <br>In the middle is an equestrian statue of King Louis XIV by François-Frédéric Lemot (1825). Another statue, representing the Petit Prince and Antoine de Saint-Exupéry, is at the west end of the square.<br>
         <br>
         <br>The square also has two pavilions, housing the tourist information office of Lyon and an art gallery.<br>
 		The square is part of a UNESCO World Heritage Site.
@@ -88,7 +89,7 @@
 </div>
 
 
-
+<img src="Images/statu.jpg" class="fit-picture">
 
 <div id="Localisation" class="container-fluid">
  <h1> Location and access </h1>
