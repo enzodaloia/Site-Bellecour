@@ -70,7 +70,7 @@
     </article>
 </p>
 
-
+</div>
 
 <!--* Image photo statue -->
 
@@ -99,6 +99,13 @@
     <br> Two smaller squares are connected to the Place Bellecour:<br>
     <br>
 </p></center>
+</article>
+</div>
+<div id="">
+<img src="Images/where.jgp" class="card-img-top">
+</div>
+<br>
+<br>
     <center><strong><h1>Odonymy</h1></strong></center>
     <center><p>
     In Gallo-Roman times, Bellecour was an island or peninsula formed by alluvial land.<br>
