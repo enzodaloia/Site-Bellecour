@@ -514,3 +514,8 @@ button:hover{
 	left: 650px;
 	top: 2500px;
 }
+
+a:link 
+{ 
+ text-decoration:none; 
+} 
