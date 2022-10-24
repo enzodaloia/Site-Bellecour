@@ -552,13 +552,19 @@ button:hover{
 	position: absolute;
 	left: 650px;
 
+
+
 	top: 2500px;
 }
 
 a:link 
 { 
- text-decoration:none; 
+text-decoration:none; 
 } 
+
+{
+	top: 250px;
+}
 
 
 #titre1{
