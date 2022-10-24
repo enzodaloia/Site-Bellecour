@@ -75,7 +75,7 @@
 
 <!--* Image photo statue -->
 <div id="stastuvj">
-    <img id="imgvj" src="Images/img.jpg" class="img-fluid">
+    <img id="imgvj" src="Images/couleur.jpg" class="img-fluid">
 </div>
 
 

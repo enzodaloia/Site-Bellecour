@@ -55,18 +55,6 @@ header div{
 	margin: 0px;
 }
 
-#bannière1{
-	text-align:center;
-	padding-top:0px;
-	display: flex;
-	justify-content:center;
-	align-items: center;
-	background-color: grey;
-	height: 152px;
-	width:100%;
-
-}
-
 #ban1 {
 	text-align:center;
 	display: flex;
@@ -520,21 +508,19 @@ button:hover{
 }
 
 #localisationvj{
-	width: ;
-
-}
-
-#divstatu{
 	text-align: center;
+
 }
+
+
 
 #statumv{
-	width:650px;
+	width:450px;
 	
 }
 
 #where{
-	width:630px;
+	width:450px;
 	position: absolute;
 	left: 400px;
 }
@@ -545,7 +531,7 @@ top: 2300px;
 }
 
 #bcvj{
-	width: 650px;
+	width: 450px;
 }
 
 #statuvj{
@@ -553,6 +539,3 @@ top: 2300px;
 
 }
 
-#imgvj{
-	width: 650px;
-}
