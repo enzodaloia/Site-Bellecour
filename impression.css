@@ -7,6 +7,7 @@ body { /* Modifications : la couleur de fond de page - la police - l'unitÃ© ut
 #page { /* Modifications : suppression de la bordure - marges */
 	margin:0;
 	border:none;
+	@page { margin: 10% }
 }
 
 #bannière1, #box1accueil, #bannière2, #ecrit { /* Les Ã©lÃ©ments qui ne seront pas affichÃ©s  */
@@ -77,3 +78,4 @@ img { /* Modifications : couleur de la bordure - unitÃ©s et marges */
 img.droite {
   float:right;
 }
+@page { margin: 10% }
