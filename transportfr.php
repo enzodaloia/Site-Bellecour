@@ -63,7 +63,7 @@
 <p>Localisation de tous les postes de vélo</p>
 <img id="..." src="img/Vélo'V.jpg" width="500" height="700">
 <p>Pour tout achat de carte ou autres, veuillez cliquer sur le bouton juste ci-dessous</p>
-<button type="button" class="btn btn-secondary"><a href="https://velov.grandlyon.com/fr/home" style="font-family: 'Trebuchet MS'; color: #FFFFFF ;">Lien vers le PDF</a></button>
+<button type="button" class="btn btn-secondary"><a href="https://velov.grandlyon.com/fr/home" style="font-family: 'Trebuchet MS'; color: #FFFFFF ;">Lien vers le site de velov</a></button>
 
 <h1>Trottinette Libre-Service</h1>
 <p>Les trottinettes libre-service sont disposées un peu partout dans Lyon, il vous suffit juste d'avoir le logiciel <a href="https://ridedott.com/fr" target="_blank">Dott</a> où <a href="https://www.tier.app/fr/" target="_blank">Tier</a> pour les localiser</p>
