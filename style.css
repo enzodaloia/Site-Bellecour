@@ -80,19 +80,18 @@ header{
 	font-family: Arial;
 	min-width: 500px;
 	width:100%;
-	height:150px;
+	height:180px;
 	position:relative;
-	background-color: bisque ;
+	background-color: #deb887 ;
 }
 
 header div ul{
 	margin: 0;
 	padding: 0;
 	float: left;
-	left:25%;
 	position:relative;
 	padding-top:0px;
-	margin-left: -36px;
+	margin-left: -35px;
 }
 
 header div ul li{
@@ -100,7 +99,6 @@ header div ul li{
 	padding: 0;
 	float: left;
 	list-style: none;
-
 	width: 140px;
 	height: 60px;
 	background-color: rgba(0,0,0,0.8);
@@ -118,8 +116,7 @@ header div ul li a{
 	width:140px;
 	color: black;
 	text-decoration: none;
-	margin-left: auto;
-	margin-right: auto;
+	
 }
 
 header ul li a{
@@ -139,11 +136,14 @@ header div ul li:hover ul li{
 	display: block;
 }
 
+
 #bannière2{
 	display: block;
 	background-color:white;
 	height: 60px;
 	width:100%;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 #bannière2 p {
@@ -192,7 +192,6 @@ header div ul li:hover ul li{
 	left:1480px;
 }
 #imgen{width: 35px;}
-
 
 #card1 {
 	box-shadow: 0 0 5px black;
@@ -512,6 +511,7 @@ button:hover{
 	box-shadow: 0 0 5px black;
 	position: absolute;
 	left: 650px;
+<<<<<<< HEAD
 	top: 2500px;
 }
 
@@ -519,3 +519,50 @@ a:link
 { 
  text-decoration:none; 
 } 
+=======
+	top: 250px;
+}
+
+#titre1{
+	position: absolute;
+	top: 300px;
+}
+
+#localisationvj{
+	width: ;
+
+}
+
+#divstatu{
+	text-align: center;
+}
+
+#statumv{
+	width:650px;
+	
+}
+
+#where{
+	width:630px;
+	position: absolute;
+	left: 400px;
+}
+
+#ruevj{
+position: absolute;
+top: 2300px;
+}
+
+#bcvj{
+	width: 650px;
+}
+
+#statuvj{
+	text-align: center;
+
+}
+
+#imgvj{
+	width: 650px;
+}
+>>>>>>> 98cc8449dcb49e3b71ff8949b949645a2f4818be

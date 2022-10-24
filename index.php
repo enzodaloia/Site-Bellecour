@@ -13,6 +13,9 @@
 						<!-- Navbar -->
 
 <header>
+<div id="bannière1">
+    <img id="bannière1" src="Images/banniere1.jpg" class="img-top">
+   </div>
 	<div id="bannière1">
 		</div>
 			<div>
