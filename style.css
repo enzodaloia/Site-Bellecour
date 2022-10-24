@@ -552,24 +552,20 @@ button:hover{
 	position: absolute;
 	left: 650px;
 
-<<<<<<< HEAD
 
-=======
->>>>>>> 59a4ef95e3380b36b4c78b67d55fb925476d1769
+
 	top: 2500px;
 }
 
 a:link 
 { 
- text-decoration:none; 
+text-decoration:none; 
 } 
 
-<<<<<<< HEAD
-
+{
 	top: 250px;
 }
-=======
->>>>>>> 59a4ef95e3380b36b4c78b67d55fb925476d1769
+
 
 #titre1{
 	position: absolute;
