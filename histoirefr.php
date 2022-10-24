@@ -10,8 +10,7 @@
 <link rel="stylesheet" type="text/css" href="screen.css" media="screen">
 <link rel="stylesheet" href="impression.css" type="text/css" media="print">
 <head>
-<link rel="stylesheet" type="text/css" href="screen.css" media="screen">
-<link rel="stylesheet" href="impression.css" type="text/css" media="print">
+
 </head>
 
 </head>
@@ -26,7 +25,7 @@
 </div>
 
 
-            <div id="ecrit">
+            <div id="ecrit" class="container-fluid">
 				<ul>
 					<li><a href="accueilfr.php">Accueil</a></li>
 					<li><a href="activitesfr.php">Activités</a>
@@ -155,6 +154,29 @@ La place de la Charité a ensuite été agrandie pour devenir l'actuelle place A
 </article>
 </div>
 
+
+<div id="footer"> 
+
+	<div id="image_gauche">
+		<p>
+			<a href="https://mairie2.lyon.fr" target="_blank"><img src="logovilledelyon.png" height="40px"></a>
+		</p>
+	</div>
+
+	<div id="textemilieu">
+		<a>© (Copyright)</a>
+	</div>
+
+	<div id="image_droite">
+		<a href="https://fr-fr.facebook.com/InstitutG4/" target="_blank"><img src="logofacebook.png" height="30" width="30">
+
+		<a href="https://www.instagram.com/institut_g4/" target="_blank"><img src="logoinstagram.webp" height="30" width="30"></a>
+		
+		<a href="https://www.linkedin.com/school/institut-g4/" target="_blank">
+		<img src="logolinkedin.png" height="30" width="30"></a>
+	</div>
+
+</div>          <!--*  FOOTER   -->
 
 
 <script src="js/bootstrap.bundle.min.js"></script>
