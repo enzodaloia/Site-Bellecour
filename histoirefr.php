@@ -99,8 +99,13 @@
      Le quartier de la Guillotière est à l'est, de l'autre côté du pont de la Guillotière, accessible par la rue de la Barre.<br>
     <br> Deux places plus petites sont reliées à la Place Bellecour :<br>
 </p></center>
+</div>
 <br>
-<img src="Images/bc.png" class="card-img-top">
+
+<div id="">
+<img src="Images/where.jgp" class="card-img-top">
+</div>
+
 <br>
 <br>
    <center><strong><h1>Odonymie:</h1></strong></center>

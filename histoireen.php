@@ -101,10 +101,11 @@
 </p></center>
 </article>
 </div>
-<div id="photoloc">
-    <img id="where" src="Images/where.jpg" class="img-fluid">
-
+<div id="">
+<img src="Images/where.jgp" class="card-img-top">
 </div>
+<br>
+<br>
     <center><strong><h1>Odonymy</h1></strong></center>
     <center><p>
     In Gallo-Roman times, Bellecour was an island or peninsula formed by alluvial land.<br>
