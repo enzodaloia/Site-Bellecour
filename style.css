@@ -528,13 +528,13 @@ button:hover{
 	text-align: center;
 }
 
-#statu{
-	width: 50%;
+#statumv{
+	width:650px;
 	
 }
 
 #where{
-	width:650px;
+	width:630px;
 	position: absolute;
 	left: 400px;
 }
@@ -542,4 +542,17 @@ button:hover{
 #ruevj{
 position: absolute;
 top: 2300px;
+}
+
+#bcvj{
+	width: 650px;
+}
+
+#statuvj{
+	text-align: center;
+
+}
+
+#imgvj{
+	width: 650px;
 }
