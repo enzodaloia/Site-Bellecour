@@ -38,8 +38,6 @@
 		<div id="FormActivité">
     <body id="body">
     <h1>Activities</h1>
-    <p>For any other information, please contact us at : </p>
-	<p>04 84 25 01 28</p>
 	<p>Or go to our <a href="http://projetg4bellecour.cf/contacten.php">contact</a> page </p>
 <div class="container-fluid">
 
@@ -110,7 +108,7 @@
   </div>
   <div class="col">
     <div class="card h-100">
-      <img src="dessins histoire.jpg" class="card-img-bot" alt="...">
+      <img src="Images/dessins histoire.jpg" class="card-img-bot" alt="...">
       <div class="card-body">
         <h4 class="card-title">History</h4>
         <p class="card-texte">Bellecour : Explanation of the history of the Bellecour district and others</p>
@@ -119,7 +117,11 @@
       </div>
     </div>
   </div>
-  <div>
+  <center>
+  <p>For any other information, please contact us at : 04 84 25 01 28</p>
+  <p>or </p>
+  <button type="button" class="btn btn-secondary"><a href="http://projetg4bellecour.cf/contactfr.php" style="font-family: 'Trebuchet MS'; color: #FFFFFF ;"target="_blank">Redirection to our contact page</a></button>
+</center>
 
 </div>
 </div>
