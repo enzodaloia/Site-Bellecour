@@ -54,7 +54,7 @@
 	<div id="angleterre"><a href="histoireen.php"><p><img id="imgen" src="Images/angleterre.jpg"></p></a></div>
 
 <!--* texte + titre-->
-<div id="titre" class="container-fluid">
+<div id="titre1" class="container-fluid">
 <h1> La Place Bellecour </h1>
 
 
@@ -108,7 +108,7 @@
 
 <br>
 <br>
-   <center><strong><h1>Odonymie:</h1></strong></center>
+   <center><strong><h1>Noms des voies:</h1></strong></center>
     <center><p>Les noms de lieux avec le mot "Bellecour" sont apparus pour la première fois au XIIe siècle. Les terres agricoles appartenant à l'archevêque s'appellent Bella Curtis ("Le beau jardin"). Au XVIe siècle,<br>
      ce qui n'était encore qu'un ranch s'appelait Pré de Belle Court. En 1715, elle devient place publique et prend le nom de Place Royale, puis Place Louis Legrand, en hommage à Louis XIV.<br>
     <br>
