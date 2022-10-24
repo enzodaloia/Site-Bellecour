@@ -55,7 +55,7 @@
 	<div class="row row-cols-1 row-cols-md-3 g-4">
   <div class="col">
     <div class="card h-100">
-      <img src="Images/dessins bus.jpg" class="card-img-bot" alt="..." width="447" height="300"></img>
+      <img src="Images/dessins.jpg" class="card-img-bot" alt="..." width="447" height="300"></img>
       <div class="card-body">
         <h4 class="card-title">Visite Bus</h4>
         <p class="card-texte">Bellecour : visite en bus à arrêts multiples</p>
@@ -88,7 +88,7 @@
   </div>
   <div class="col">
     <div class="card h-100">
-      <img src="segway dessin" class="card-img-bot" alt="..." width="447" height="300">
+      <img src="Images/segway dessin.jpg" class="card-img-bot" alt="..." width="447" height="300">
       <div class="card-body">
         <h4 class="card-title">Visite Segway</h4>
         <p class="card-texte">Bellecour : visite du quartier en Segway avec un guild local</p>
@@ -99,7 +99,7 @@
   </div>
   <div class="col">
     <div class="card h-100">
-      <img src="Images/cours d'orientation" class="card-img-bot" alt="..." width="447" height="300">
+      <img src="Images/cours d'orientation.jpg" class="card-img-bot" alt="..." width="447" height="300">
       <div class="card-body">
         <h4 class="card-title">Courses d'orientation</h4>
         <p class="card-texte">Bellecour : Courses d'orientation suite à la disparition de Arnaud</p>
@@ -119,6 +119,12 @@
       </div>
     </div>
   </div>
+  <div id="FormTransport">
+<center>
+  <p>Pour tout autre information, merci de nous contacter au : 04 84 25 01 28</p>
+  <p>Ou alors </p>
+  <button type="button" class="btn btn-secondary"><a href="http://projetg4bellecour.cf/contactfr.php" style="font-family: 'Trebuchet MS'; color: #FFFFFF ;"target="_blank">Redirection vers notre page de contact</a></button>
+</center>
   
     <script src="js/bootstrap.bundle.min.js"></script>
     </body>
