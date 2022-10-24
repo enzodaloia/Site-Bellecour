@@ -102,8 +102,8 @@
 </div>
 <br>
 
-<div id="">
-<img src="Images/where.jgp" class="card-img-top">
+<div id="where">
+<img src="Images/where.jpg" class="card-img-top">
 </div>
 
 <br>
