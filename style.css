@@ -506,3 +506,11 @@ button:hover{
 	box-shadow: inset 200px 0 0 0 #000;
 	color: rgba(0,0,0,0.8);
 }
+
+
+#photoloc {
+	box-shadow: 0 0 5px black;
+	position: absolute;
+	left: 650px;
+	top: 2500px;
+}
