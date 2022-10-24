@@ -77,7 +77,7 @@
 
 
 <div id="Localisation" class="container-fluid">
-    <center><strong><h1> Localisation et accès </h1></strong></center>
+    <center><strong><h1> Localisation and access </h1></strong></center>
     <article>
 
     <center><p id="texte">This square is now located in the second arrondissement of the city on the peninsula, between the Saône and the Rhône.<br>
@@ -106,7 +106,7 @@
 </div>
 <br>
 <br>
-    <center><strong><h1>Odonymy</h1></strong></center>
+    <center><strong><h1>lane names</h1></strong></center>
     <center><p>
     In Gallo-Roman times, Bellecour was an island or peninsula formed by alluvial land.<br>
     The district knows at the time a Roman activity, military and commercial: one finds there Cannabe,<br>
