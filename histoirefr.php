@@ -55,7 +55,7 @@
 
 <!--* texte + titre-->
 <div id="titre1" class="container-fluid">
-<h1> La Place Bellecour </h1>
+<center><u><h1> La Place Bellecour </h1></u></center>
 
 
 <article>
@@ -85,12 +85,10 @@
     De la place Bellecour partent les trois axes routiers principaux de la Presqu'île de Lyon, le quartier des Terreaux au nord et le quartier Perrache au sud dont deux rues piétonnes :<br>
 </p>
 <ul>
-    <li>la rue de la République, qui débouche sur la place de la Comédie entre la Mairie et l'Opéra
-    <li>puis sur la place Louis-Pradel par la rue du Puits-Gaillot côté nord
-    <li>la rue Victor-Hugo, menant à Perrache côté sud.</ul>
-    </li>
-</li>
-</li>
+    <i>la rue de la République, qui débouche sur la place de la Comédie entre la Mairie et l'Opéra</i>
+    <i>puis sur la place Louis-Pradel par la rue du Puits-Gaillot côté nord</i>
+    <i>la rue Victor-Hugo, menant à Perrache côté sud.</i>
+</ul>
 <p>
 Côté nord, la rue du Président Édouard Herriot, où passent les voitures et où se concentrent les marques de luxe, débouche sur la place des Terreaux.<br>
 <br>
@@ -111,7 +109,7 @@ Le quartier du Vieux Lyon et la cathédrale Saint-Jean sont à l'ouest, de l'aut
 <div id="Losalisationvj">
 <div id="ruevj" class="container-fluid">
 </div>
-<center><strong><h1>Noms des voies:</h1></strong></center>
+<center><strong><h1>Nom de voie:</h1></strong></center>
 <center><p>Les noms de lieux avec le mot "Bellecour" sont apparus pour la première fois au XIIe siècle. Les terres agricoles appartenant à l'archevêque s'appellent Bella Curtis ("Le beau jardin"). Au XVIe siècle,<br>
     ce qui n'était encore qu'un ranch s'appelait Pré de Belle Court. En 1715, elle devient place publique et prend le nom de Place Royale, puis Place Louis Legrand, en hommage à Louis XIV.<br>
 <br>
