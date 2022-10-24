@@ -35,7 +35,7 @@
 		<div id="FormActivité">
     <body id="body">
     <h1>Activities</h1>
-    <p>For any purchase on our site, please contact us at : </p>
+    <p>For any other information, please contact us at : </p>
 	<p>04 84 25 01 28</p>
 	<p>Or go to our <a href="http://projetg4bellecour.cf/contacten.php">contact</a> page </p>
 <div class="container-fluid">
@@ -52,51 +52,51 @@
 	<div class="row row-cols-1 row-cols-md-3 g-4">
   <div class="col">
     <div class="card h-100">
-      <img src="..." class="card-img-bot" alt="...">
+      <img src="Images/dessins bus.jpg" class="card-img-bot" alt="...">
       <div class="card-body">
         <h4 class="card-title">Bus visit</h4>
         <p class="card-texte">Bellecour : multiple stop bus tour</p>
         <p class="card-texte">1 day · Audioguide in option</p>
-        <p class="card-texte">From 22€ per person</p>
+        <p class="card-texte">Participation: 22€ per person</p>
       </div>
     </div>
   </div>
   <div class="col">
     <div class="card h-100">
-      <img src="" class="card-img-bot" alt="...">
+      <img src="Images/dessins vélo.jpg" class="card-img-bot" alt="...">
       <div class="card-body">
         <h4 class="card-title">Bike visit</h4>
         <p class="card-texte">Bellecour : 2 hour electric bike tour with local guide</p>
         <p class="card-texte">2 hours · Small group</p>
-        <p class="card-texte">From 30€ per person</p>
+        <p class="card-texte">Participation: 30€ per person</p>
       </div>
     </div>
   </div>
   <div class="col">
     <div class="card h-100">
-      <img src="" class="card-img-bot" alt="...">
+      <img src="Images/dessins vélo.jpg" class="card-img-bot" alt="...">
       <div class="card-body">
         <h4 class="card-title">Bike</h4>
         <p class="card-texte">Bellecour : 3 hours electric bike with tasting break</p>
         <p class="card-texte">3 hours · Small group</p>
-        <p class="card-texte">From 50€ per person</p> 
+        <p class="card-texte">Participation: 50€ per person</p> 
       </div>
     </div>
   </div>
   <div class="col">
     <div class="card h-100">
-      <img src="" class="card-img-bot" alt="...">
+      <img src="Images/segway dessin.jpg" class="card-img-bot" alt="...">
       <div class="card-body">
         <h4 class="card-title">Segway Visit</h4>
         <p class="card-texte">Bellecour : Segway tour of the neighborhood with a local guild</p>
         <p class="card-texte">2 hours · Small group</p>
-        <p class="card-texte">From 52€ per person</p>
+        <p class="card-texte">Participation: 52€ per person</p>
       </div>
     </div>
   </div>
   <div class="col">
     <div class="card h-100">
-      <img src="" class="card-img-bot" alt="...">
+      <img src="Images/cours d'orientation.jpg" class="card-img-bot" alt="...">
       <div class="card-body">
         <h4 class="card-title">Orienteering</h4>
         <p class="card-texte">Bellecour : Orienteering on the tracks of Arnaud </p>
@@ -107,12 +107,12 @@
   </div>
   <div class="col">
     <div class="card h-100">
-      <img src="" class="card-img-bot" alt="...">
+      <img src="dessins histoire.jpg" class="card-img-bot" alt="...">
       <div class="card-body">
         <h4 class="card-title">History</h4>
         <p class="card-texte">Bellecour : Explanation of the history of the Bellecour district and others</p>
         <p class="card-texte">2 hours · Small group</p>
-        <p class="card-texte">For 5€ per person</p>
+        <p class="card-texte">Participation: 5€ per person</p>
       </div>
     </div>
   </div>
