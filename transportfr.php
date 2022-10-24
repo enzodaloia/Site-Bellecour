@@ -49,28 +49,30 @@
         <center>
 
 <h1>Transport</h1>
-<h4>Tout les transport en commun dans Bellecour</h4>
+<h4>Tous les transports en commun dans Bellecour</h4>
 <div id="FormTransport">
 <h1>TCL</h1>
 <p>Transport, Tramway et bus</p>
-<img id="..." src="Images/Transport bus.jpg" width="500" height="500">
+<img id="..." src="img/Transport bus.jpg" width="500" height="500">
 <div id="FormTransport">
-<p>Pour tout autre information sur les autres direction des transports en commun, cliquer sur le bouton ci-dessous.</p>
-<button type="button" class="btn btn-secondary"><a href="https://www.tcl.fr/sites/default/files/2022-09/Plan_Lyon-Villeurbanne_ao%C3%BBt22_0.pdf" target="_blank" style="font-family: 'Trebuchet MS'; color: #FFFFFF ;">Lien vers le PDF</a></button>
+<p>Pour tout autre information sur les autres directions des transports en commun, cliquer sur le bouton ci-dessous.</p>
+<button type="button" class="btn btn-secondary"><a href="https://www.tcl.fr/sites/default/files/2022-09/Plan_Lyon-Villeurbanne_ao%C3%BBt22_0.pdf" style="font-family: 'Trebuchet MS'; color: #FFFFFF ;">Lien vers le PDF</a></button>
 
 <div id="FormTransport">
 <h1>Vélo'V</h1>
 <p>Localisation de tous les postes de vélo</p>
-<img id="..." src="Images/Vélo'V.jpg" width="500" height="700">
+<img id="..." src="img/Vélo'V.jpg" width="500" height="700">
 <p>Pour tout achat de carte ou autres, veuillez cliquer sur le bouton juste ci-dessous</p>
-<button type="button" class="btn btn-secondary"><a href="https://velov.grandlyon.com/fr/home" target="_blank" style="font-family: 'Trebuchet MS'; color: #FFFFFF ;">Lien vers le PDF</a></button>
+<button type="button" class="btn btn-secondary"><a href="https://velov.grandlyon.com/fr/home" style="font-family: 'Trebuchet MS'; color: #FFFFFF ;">Lien vers le PDF</a></button>
 
-<div id="FormTransport">
-<h1>Trotinette Libre-Service</h1>
-<p>Les trottinettes libre-service sont disposées un peux partout dans Lyon, il vous suffit juste d'avoir le logiciel <a href="https://ridedott.com/fr" target="_blank">Dott</a> et <a href="https://www.tier.app/fr/" target="_blank">Tier</a> pour les localiser</p>
+<h1>Trottinette Libre-Service</h1>
+<p>Les trottinettes libre-service sont disposées un peu partout dans Lyon, il vous suffit juste d'avoir le logiciel <a href="https://ridedott.com/fr" target="_blank">Dott</a> où <a href="https://www.tier.app/fr/" target="_blank">Tier</a> pour les localiser</p>
 </div>
-
+<img border="0" src="img/test.gif">
 </center>
+
+
+
     <script src="js/bootstrap.bundle.min.js"></script>
     </body>
 </html>
