@@ -55,7 +55,7 @@
 	<div class="row row-cols-1 row-cols-md-3 g-4">
   <div class="col">
     <div class="card h-100">
-      <img src="Images/BellecourBus.jpg" class="card-img-bot" alt="..." width="447" height="300"></img>
+      <img src="Images/dessins bus.jpg" class="card-img-bot" alt="..." width="447" height="300"></img>
       <div class="card-body">
         <h4 class="card-title">Visite Bus</h4>
         <p class="card-texte">Bellecour : visite en bus à arrêts multiples</p>
@@ -66,7 +66,7 @@
   </div>
   <div class="col">
     <div class="card h-100">
-      <img src="Images/ImageVélo.jpg" class="card-img-bot" alt="..." width="447" height="300"></img>
+      <img src="Images/dessins vélo.jpg" class="card-img-bot" alt="..." width="447" height="300"></img>
       <div class="card-body">
         <h4 class="card-title">Visite vélo</h4>
         <p class="card-texte">Bellecour : Visite de 2h à vélo électrique avec guide local</p>
@@ -77,7 +77,7 @@
   </div>
   <div class="col">
     <div class="card h-100">
-      <img src="Images/ImageVélo.jpg" class="card-img-bot" alt="..." width="447" height="300"></img>
+      <img src="Images/dessins vélo.jpg" class="card-img-bot" alt="..." width="447" height="300"></img>
       <div class="card-body">
         <h4 class="card-title">Vélo</h4>
         <p class="card-texte">Bellecour : 3h en vélo électrique avec pause dégustation</p>
@@ -88,7 +88,7 @@
   </div>
   <div class="col">
     <div class="card h-100">
-      <img src="" class="card-img-bot" alt="..." width="447" height="300">
+      <img src="segway dessin" class="card-img-bot" alt="..." width="447" height="300">
       <div class="card-body">
         <h4 class="card-title">Visite Segway</h4>
         <p class="card-texte">Bellecour : visite du quartier en Segway avec un guild local</p>
@@ -99,7 +99,7 @@
   </div>
   <div class="col">
     <div class="card h-100">
-      <img src="" class="card-img-bot" alt="..." width="447" height="300">
+      <img src="Images/cours d'orientation" class="card-img-bot" alt="..." width="447" height="300">
       <div class="card-body">
         <h4 class="card-title">Courses d'orientation</h4>
         <p class="card-texte">Bellecour : Courses d'orientation suite à la disparition de Arnaud</p>
@@ -110,7 +110,7 @@
   </div>
   <div class="col">
     <div class="card h-100">
-      <img src="Images/bellecour histoire.jpg" class="card-img-bot" alt="..."width="447" height="300" >
+      <img src="Images/dessins histoire.jpg" class="card-img-bot" alt="..."width="447" height="300" >
       <div class="card-body">
         <h4 class="card-title">Histoire</h4>
         <p class="card-texte">Bellecour : Explication de l'histoire du quartier de Bellecour et autres</p>
