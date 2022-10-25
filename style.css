@@ -168,20 +168,6 @@ header div ul li:hover ul li{
 	left:1440px;
 }
 
-#france{
-	position: absolute;
-	top:168px ;
-	left:1380px;
-}
-#imgfr{width: 30px;}
-
-#angleterre{
-	position: absolute;
-	top:168px ;
-	left:1480px;
-}
-#imgen{width: 35px;}
-
 #card1 {
 	box-shadow: 0 0 5px black;
 	position: absolute;
@@ -433,27 +419,7 @@ header div ul li:hover ul li{
 
 /* FOOTER FARES */
 
-#footer{
-	width:100%;
-	height:60px;
-	background:#919191;
-	border-top:5px solid #919191; 
-	text-align: center;
-}
 
-#textemilieu {
-	float: bottom;
-}
-
-#image_gauche {
-	float:left;
-}
-
-#image_droite {
-   float:right;
-   justify-content: space-around;
-   margin: 0 30px 0 0;
-}
 
 /* FOOTER FARES */
 
@@ -477,26 +443,49 @@ header div ul li:hover ul li{
 	margin: 20px 50px 20px 50px;
 }
 
-button{
-	width: 200px;
-	height: 50px;
-	margin: 10px;
-	border: none;
-	outline: none;
-	border-radius: 5px;
-	background: #606060;
-	color: #fff;
-	font-size: 1.3rem;
-	cursor: pointer;
-	box-shadow: inset 0 0 0 0 #000;
-	transition: ease-in-out 0.6;
+#actualiteaccueil {
+	margin: 0 40px 0 40px;
 }
 
-button:hover{
-	box-shadow: inset 200px 0 0 0 #000;
-	color: rgba(0,0,0,0.8);
+/* CSS PAGE D'ACCUEIL */
+
+/* NAVBAR FARES */
+
+.navbar {
+	margin-top: 46px;
+	margin-right: 150px;
 }
 
+#banniere1{
+	text-align:center;
+	padding-top:0px;
+	display: flex;
+	justify-content:center;
+	align-items: center;
+	background-color: grey;
+	height: 152px;
+	width:100%;
+	background-image: url(banniere1.jpg);
+}
+
+#france{
+	position: absolute;
+	top:105px ;
+	left:1380px;
+}
+
+#imgfr{width: 30px;}
+
+#angleterre{
+	position: absolute;
+	top: 105px;
+	left:1480px;
+}
+
+
+#imgen{width: 35px;}
+
+/* NAVBAR FARES */
 
 #photoloc {
 	box-shadow: 0 0 5px black;
