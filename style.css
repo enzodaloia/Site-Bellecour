@@ -477,6 +477,7 @@ header div ul li:hover ul li{
 	margin: 20px 50px 20px 50px;
 }
 
+<<<<<<< HEAD
 button{
 	width: 200px;
 	height: 65px;
@@ -498,6 +499,8 @@ button:hover{
 }
 
 
+=======
+>>>>>>> a869981f553b6f9965d2b41e52abbe6dd450e1a2
 #photoloc {
 	box-shadow: 0 0 5px black;
 	position: absolute;
