@@ -457,7 +457,6 @@ header div ul li:hover ul li{
 	margin-right: 150px;
 }
 
-
 #bannière1 {
 	text-align: center;
 	padding-top: 0px;
@@ -480,20 +479,6 @@ header div ul li:hover ul li{
 	header div ul{
 		left: 15%;
 	}
-
-#banniere1{
-	text-align: center;
-    padding-top: 0px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background-color: grey;
-    height: 152px;
-    width: 100%;
-    background-image: url(./Images/banniere1.png);
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
 }
 
 @media screen and (max-width:576px){
@@ -505,8 +490,6 @@ header div ul li:hover ul li{
 	}
 
 }
-
-
 
 
 #france{
@@ -613,7 +596,6 @@ margin-left: 30px;
 	margin-left: 650px;
 	margin-right: 55px;
 }
-
 
 body {
 	background: #000 url(texture.png) repeat center center;
