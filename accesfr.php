@@ -12,7 +12,7 @@
 </head>
 <header>
 <div id="bannière1">
-    <img id="bannière1" src="Images/banniere1.jpg" class="img-top">
+    <img id="bannière1" src="Images/banniere1.png" class="img-top">
    </div>
 
 			<div id="ecrit">

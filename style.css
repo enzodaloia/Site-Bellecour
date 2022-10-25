@@ -437,6 +437,7 @@ header div ul li:hover ul li{
 
 #carouselExampleFade {
 	margin: 20px 50px 20px 50px;
+	width: 100%;
 }
 
 /* CSS PAGE D'ACCUEIL */
