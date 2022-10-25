@@ -10,6 +10,8 @@
     <link rel="stylesheet" type="text/css" href="screen.css" media="screen">
 <link rel="stylesheet" href="impression.css" type="text/css" media="print">
 </head>
+
+
 <header>
 <div id="bannière1">
     <img id="bannière1" src="Images/banniere1.jpg" class="img-top">
@@ -37,6 +39,8 @@
 		<div id="bannière2">  
 	    </div>
 	</header>
+
+
     <body id="body">
 	<div id="test">
 		<p>/</p>
