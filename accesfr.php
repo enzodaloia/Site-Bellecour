@@ -11,9 +11,10 @@
 <link rel="stylesheet" href="impression.css" type="text/css" media="print">
 </head>
 <header>
-<div id="bannière1">
-    <img id="bannière1" src="Images/banniere1.png" class="img-top">
+<div id="banniere1">
    </div>
+
+   
 
 			<div id="ecrit">
 				<ul>

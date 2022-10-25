@@ -13,9 +13,9 @@
 
 
 <header>
-<div id="bannière1">
-    <img id="bannière1" src="Images/banniere1.jpg" class="img-top">
+<div id="banniere1">
    </div>
+
 		<!-- <p><img src="Images/LogoBellecourOfficiel.png"></p> -->
 		</div>
     <div id="ecrit">

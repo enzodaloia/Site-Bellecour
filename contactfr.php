@@ -13,8 +13,9 @@
 </head>
 
 <header>
-    <div id="ban1">
-    </div>
+<div id="banniere1">
+   </div>
+
         <div>
             <ul>
                 <li><a href="accueilfr.php">Accueil</a></li>
