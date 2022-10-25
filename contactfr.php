@@ -85,7 +85,6 @@
     ?>
     </div>
     </center>
-    <div style="float:right;"><img src="Images/captcha petit.jpg" class="imageflottante" alt="..."></div>
 
         
     <footer class="bg-light text-center text-white">

@@ -16,7 +16,7 @@
 
 		<div id="bannière1">
 		</div>
-    <div id="ecrit">
+    <div>
 				<ul>
 					<li><a href="accueilen.php">Home</a></li>
 					<li><a href="activitesen.php">Activities</a>
@@ -30,7 +30,7 @@
 					</ul>
 					</li>
 				</ul>
-			</div>
+		</div>
 			
 		<div id="bannière2">
 	    </div>
