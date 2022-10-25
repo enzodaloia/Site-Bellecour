@@ -183,7 +183,7 @@
 
 	<div id="image_gauche_footer">
 		<p>
-			<a href="https://mairie2.lyon.fr" target="_blank"><img src="logovilledelyon.png" height="40px"></a>
+			<a href="https://mairie2.lyon.fr" target="_blank"><img src="Images/logovilledelyon.png" height="40px"></a>
 		</p>
 	</div>
 
