@@ -14,10 +14,6 @@
 
 <img src="Images/banniere1.jpg" class="img-fluid" alt="...">
 
-   </div>
-   <div id="bannière1">
-    <img id="bannière1" src="Images/banniere1.jpg" class="img-top">
-   </div>
 
 		<div id=box1accueil>
 		<!-- <p><img src="Images/LogoBellecourOfficiel.png"></p> -->
@@ -41,7 +37,7 @@
 		<div id="bannière2" class="container">  
 	    </div>
 	</header>
-    <body id="body">
+    <body id="bodyvj">
 	<div id="test">
 		<p>/</p>
 	</div>

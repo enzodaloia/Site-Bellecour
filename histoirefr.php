@@ -75,7 +75,7 @@
 
 <!--* Image photo statue -->
 
-<img id="imgvj" src="Images/couleur.jpg">
+<img id="imgvj" src="Images/couleur.jpg" class="">
 
 
 
@@ -155,7 +155,7 @@ La place de la Charité a ensuite été agrandie pour devenir l'actuelle place A
 </div>
 
 
-<img src="Images/bc.png" class="card-img-top">
+<img id="bcvj" src="Images/bc.png" class="">
 
 
 </p></center>
