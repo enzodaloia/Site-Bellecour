@@ -16,9 +16,7 @@
 						<!-- Navbar -->
 
 <header>
-<div id="banniere1">
-   </div>
-
+<div id="bannière1"></div>
 			<div>
 				<ul>
 					<li><a href="accueilfr.php">Accueil</a></li>
@@ -80,7 +78,7 @@
 
 			<div class="content-2">
 				<br>
-				<img src="Images/imageaccueil1.jpg" alt="" width="500" height="500">
+				<img src="Images/imageaccueil1.jpg" alt="" width="150" height="150">
 			</div>
 		</div>
 
@@ -88,82 +86,6 @@
 						<!-- Présentation du quartier -->
 
 						<!-- Carrousel Activités -->
-
-	<center>
-		<div class="titre">
-			<h1>Activités</h1>
-		</div>
-	</center>
-
-		<div id="carouselExampleFade" class="carousel slide carousel-fade" data-bs-ride="carousel">
-			<div class="carousel-inner">
-			  <div class="carousel-item active">
-				<a href="http://projetg4bellecour.cf/activitesfr.php"><img src="logoinstagram.webp" class="d-block w-100" alt="..." width="500" height="380"></a>
-			  </div>
-			  <div class="carousel-item">
-				<a href="http://projetg4bellecour.cf/activitesfr.php"><img src="logofacebook.png" class="d-block w-100" alt="..." width="500" height="380"></a>
-			  </div>
-			  <div class="carousel-item">
-				<a href="http://projetg4bellecour.cf/activitesfr.php"><img src="imageaccueil1.jpg" class="d-block w-100" alt="..." width="500" height="380"></a>
-			  </div>
-			</div>
-			<button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="prev">
-			  <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-			  <span class="visually-hidden">Previous</span>
-			</button>
-			<button class="carousel-control-next" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="next">
-			  <span class="carousel-control-next-icon" aria-hidden="true"></span>
-			  <span class="visually-hidden">Next</span>
-			</button>
-		  </div>
-
-		  				<!-- Carrousel Activités -->
-
-		  				<!-- Carrousel Actualités -->
-
-						  <div class="titre">
-							<center><h1>Actualités</h1></center><br>
-						</div>
-						  <div class="row row-cols-1 row-cols-md-1 g-4">
-							<div class="col">
-							  <div class="card">
-								<img src="..." class="card-img-top" alt="...">
-								<div class="card-body">
-								  <h5 class="card-title">Pourquoi vous risquez de croiser Monica Bellucci à Lyon cette semaine ?</h5>
-								  <p class="card-text">L'actrice Monica Bellucci sera présente à Lyon à l'occasion de la 14e édition du Festival Lumière. Elle rencontrera les Lyonnais vendredi 21 et samedi 22 octobre.</p>
-								</div>
-							  </div>
-							</div>
-							<div class="col">
-							  <div class="card">
-								<img src="..." class="card-img-top" alt="...">
-								<div class="card-body">
-								  <h5 class="card-title">Lyon. La statue de Louis XIV sur la place Bellecour bientôt en travaux : ce qui va changer</h5>
-								  <p class="card-text">Elle est l'un des plus importants symboles de la ville de Lyon. La statue de Louis XIV, qui trône en plein centre de la place Bellecour, va bientôt subir des travaux.</p>
-								</div>
-							  </div>
-							</div>
-							<div class="col">
-							  <div class="card">
-								<img src="..." class="card-img-top" alt="...">
-								<div class="card-body">
-								  <h5 class="card-title">Lyon. C'est quoi ces chapiteaux installés sur la place Bellecour ?</h5>
-								  <p class="card-text">La place Bellecour de Lyon est en plein "chantier" ce mardi 27 septembre. De grands chapiteaux ont commencé à se dresser au centre de la ville.</p>
-								</div>
-							  </div>
-							</div>
-							<div class="col">
-							  <div class="card">
-								<img src="..." class="card-img-top" alt="...">
-								<div class="card-body">
-								  <h5 class="card-title">C'est quoi cette grande girafe qui vient d'être installée dans les rues de Lyon ?</h5>
-								  <p class="card-text">Depuis le 1er octobre, une girafe de plus de sept mètres de haut trône en pleine rue, dans le 7e arrondissement de Lyon. On vous explique.</p>
-								</div>
-							  </div>
-							</div>
-						  </div><br>
-
-						<!-- Carrousel Actualités -->
 
 						<!-- Localisation -->
 

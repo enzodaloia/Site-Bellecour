@@ -59,7 +59,7 @@ header{
 	font-family: Arial;
 	min-width: 500px;
 	width:100%;
-	height:180px;
+	height:150px;
 	position:relative;
 	background-color: bisque ;
 }
@@ -439,6 +439,15 @@ header div ul li:hover ul li{
 	margin: 20px 50px 20px 50px;
 }
 
+#actualiteaccueil {
+	margin: 0 200px 0 200px;
+}
+
+#FormTransportaccueil{
+	padding-top: 50px;
+	padding-left: 80px;
+}
+
 /* CSS PAGE D'ACCUEIL */
 
 /* NAVBAR FARES */
@@ -449,20 +458,37 @@ header div ul li:hover ul li{
 }
 
 #banniere1{
-	text-align: center;
-    padding-top: 0px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background-color: grey;
-    height: 152px;
-    width: 100%;
-    background-image: url(./Images/banniere1.png);
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
+	text-align:center;
+	padding-top:0px;
+	display: flex;
+	justify-content:center;
+	align-items: center;
+	background-color: grey;
+	height: 152px;
+	width:100%;
+	background-image: url(banniere1.jpg);
+	background-repeat: no-repeat;
 }
+
+@media screen and (max-width:1280px){
+	#bannière1{
+		height: 90px;
+	}
+	header div ul{
+		left: 15%;
+	}
 }
+
+@media screen and (max-width:576px){
+	#bannière1{
+		height: 59px;
+	}
+	header div ul{
+		left: 10%;
+	}
+
+}
+
 
 #france{
 	position: absolute;
@@ -569,4 +595,13 @@ margin-left: 30px;
 	margin-right: 55px;
 }
 
+body {
+	background: #000 url(texture.png) repeat center center;
+}
+#Wrapper {
+	background: url(Images/banniere1.png) no-repeat center top;
+}
 
+.card-container{
+	width: 100%;
+}
