@@ -17,7 +17,7 @@
     <img id="bannière1" src="Images/banniere1.jpg" class="img-top">
    </div>
 
-			<div id="ecrit">
+			<div>
 				<ul>
 					<li><a href="accueilfr.php">Accueil</a></li>
 					<li><a href="activitesfr.php">Activités</a>
@@ -203,7 +203,11 @@
 </div>
 
 						<!-- Footer -->
-	
+	</div>
+	</div>
+	</div>
+	<div style="float:right;"><img src="img/captcha petit.jpg" class="imageflottante" alt="..."></div>
+
 	<script src="js/bootstrap.bundle.min.js"></script>
 	</body>
 </html>
