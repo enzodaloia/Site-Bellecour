@@ -465,9 +465,6 @@ header div ul li:hover ul li{
 	position: right;
 }
 
-.container-fluid {
-	width: 80%;
-}
 
 .container{
 	display: flex;
