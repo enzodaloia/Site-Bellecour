@@ -70,10 +70,14 @@
 
 
 <!--* Image photo statue -->
-
+<br>
 <img id="imgvj" src="Images/couleur.jpg" class="img-fluid">
+<br>
+<br>
 
-
+<pre>
+» ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ «
+</pre>
 
 
 <div id="Localisationvj" class="container-fluid">
@@ -102,7 +106,11 @@ Le quartier du Vieux Lyon et la cathédrale Saint-Jean sont à l'ouest, de l'aut
 
 <img id="where" src="Images/where.jpg" class="img-fluid">
 
-
+<br>
+<br>
+<pre>
+» ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ «
+</pre>
 <br>
 <br>
 <div>
@@ -118,6 +126,8 @@ dont l'anniversaire devient par la suite la Fête Nationale. A partir de 1793, l
 et logiquement plus tard elle devient la place Napoléon.<br>
 <br>
 </p></center>
+<br>
+<br>
 <center><strong><h1>Histoire</h1></strong></center>
 <center><p>
 A l'époque gallo-romaine, Bellecour était une île ou presqu'île formée par des terres alluviales. <br>
@@ -151,7 +161,14 @@ La place de la Charité a ensuite été agrandie pour devenir l'actuelle place A
 </div>
 
 <img id="bcvj" src="Images/bcvj.png" class="img-fluid">
-
+<br>
+<br>
+<br>
+<pre>
+» ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ «
+</pre>
+<br>
+<br>
 <div class="accordion" id="accordion1">
   <div class="accordion-item">
     <h2 class="accordion-header" id="headingOne">
