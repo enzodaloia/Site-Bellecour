@@ -74,12 +74,12 @@
 <img id="imgvj" src="Images/couleur.jpg" class="img-fluid">
 <br>
 <br>
-
-<pre>
+<br>
+<center><pre>
 » ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ «
-</pre>
-
-
+</pre></center>
+<br>
+<br>
 <div id="Localisationvj" class="container-fluid">
 <article>
 <center><strong><h1> Localisation et accès </h1></strong></center>
@@ -105,12 +105,12 @@ Le quartier du Vieux Lyon et la cathédrale Saint-Jean sont à l'ouest, de l'aut
 
 
 <img id="where" src="Images/where.jpg" class="img-fluid">
-
 <br>
 <br>
-<pre>
+<br>
+<center><pre>
 » ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ «
-</pre>
+</pre></center>
 <br>
 <br>
 <div>
@@ -164,9 +164,9 @@ La place de la Charité a ensuite été agrandie pour devenir l'actuelle place A
 <br>
 <br>
 <br>
-<pre>
+<center><pre>
 » ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ «
-</pre>
+</pre></center>
 <br>
 <br>
 <div class="accordion" id="accordion1">
