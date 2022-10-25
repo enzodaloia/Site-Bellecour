@@ -52,6 +52,10 @@
 %20Bellecour!5e0!3m2!1sfr!2sfr!4v1666248701164!5m2!1sfr!2sfr" width="1400" height="250" style="border:0;" allowfullscreen="" 
 loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></iframe></center>
 
+</div>
+</div>
+</div>
+<div style="float:right;"><img src="img/captcha petit.jpg" class="imageflottante" alt="..."></div>
 
     <script src="js/bootstrap.bundle.min.js"></script>
     </body>
