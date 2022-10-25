@@ -13,11 +13,6 @@
 						<!-- Navbar -->
 
 <header>
-<<<<<<< HEAD
-<div id="banniere1">
-	<p>ça marche pas</p>
-   </div>
-=======
 	
 		<div id="banniere1">
 			<div class="navbar">
@@ -28,8 +23,6 @@
 				</button>
 				<div class="collapse navbar-collapse" id="navbarNav">
 					<ul class="navbar-nav">
->>>>>>> d69c8fb98895e07b59c1ccc210757f5e603032e1
-
 					<li class="nav-item">
 						<a class="nav-link active" aria-current="page" href="#">Accueil</a>
 					</li>
