@@ -440,6 +440,15 @@ header div ul li:hover ul li{
 	width: 100%;
 }
 
+#actualiteaccueil {
+	margin: 0 200px 0 200px;
+}
+
+#FormTransportaccueil{
+	padding-top: 50px;
+	padding-left: 80px;
+}
+
 /* CSS PAGE D'ACCUEIL */
 
 /* NAVBAR FARES */
