@@ -45,7 +45,7 @@
 	<div id="france"><a href="actualitesfr.php"><p><img id="imgfr" src="Images/france.jpg"></p></a></div>
 	<div id="angleterre"><a href="actualitesen.php"><p><img id="imgen" src="Images/angleterre.jpg"></p></a></div>
 
-	<div id="titre">
+	<div id="titrevj">
        <center><h1>News</h1></center>
 </div>
 

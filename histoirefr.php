@@ -50,7 +50,7 @@
 <div id="angleterre"><a href="histoireen.php"><p><img id="imgen" src="Images/angleterre.jpg"></p></a></div>
 
 <!--* texte + titre-->
-<div id="titre1" class="container-fluid">
+<div id="titrebellecour" class="container-fluid">
 <center><u><h1> La Place Bellecour </h1></u></center>
 
 
