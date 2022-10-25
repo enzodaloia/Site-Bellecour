@@ -154,13 +154,6 @@ header div ul li:hover ul li{
 	margin-left:10px;
 }
 
-#accueiltexte{
-	background-color: white;
-	border-radius: 10px;
-	margin-top:0;
-	padding-top: 0;
-}
-
 .texte{
 	margin-left: 20px;
 }
@@ -484,6 +477,30 @@ header div ul li:hover ul li{
 	margin: 20px 50px 20px 50px;
 }
 
+<<<<<<< HEAD
+button{
+	width: 200px;
+	height: 65px;
+	margin: 10px;
+	border: none;
+	outline: none;
+	border-radius: 5px;
+	background: #606060;
+	color: #fff;
+	font-size: 1.3rem;
+	cursor: pointer;
+	box-shadow: inset 0 0 0 0 #000;
+	transition: ease-in-out 0.6;
+}
+
+button:hover{
+	box-shadow: inset 200px 0 0 0 #000;
+	color: rgba(0,0,0,0.8);
+}
+
+
+=======
+>>>>>>> a869981f553b6f9965d2b41e52abbe6dd450e1a2
 #photoloc {
 	box-shadow: 0 0 5px black;
 	position: absolute;
@@ -508,9 +525,6 @@ margin-left: 30px;
 }
 
 
-#bodyvj{
-	padding-top: 150px;
-}
 
 #where, #imgvj, #bcvj{
     max-width: 100%;
@@ -542,5 +556,27 @@ margin-left: 30px;
 }
 
 #textehistvj{
-	margin-left: 30px;
+	margin-left: 55px;
+	margin-right: 450px;
 }
+
+#titrevjhist{
+	text-align: center;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1px;
+    background-color: rgb(255, 255, 255);
+    border: 2px solid rgb(161, 161, 161);
+    width: 20%;
+    min-width: 10%;
+    border-radius: 5px 5px;
+    font-family: Arial;
+    color: black;
+}
+
+#textehistvjr{
+	margin-left: 650px;
+	margin-right: 55px;
+}
+

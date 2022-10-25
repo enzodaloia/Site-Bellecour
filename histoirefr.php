@@ -80,7 +80,7 @@
 </pre></center>
 <br>
 <br>
-<div id="Localisationvj" class="container-fluid">
+<div id="titrevjhist" class="container-fluid">
 <article>
 <center><strong><h1> Localisation et accès </h1></strong></center>
 </div>
@@ -117,8 +117,10 @@ Le quartier du Vieux Lyon et la cathédrale Saint-Jean sont à l'ouest, de l'aut
 <br>
 
 
-<div id="ruevj" class="container-fluid">
+<div id="titrevjhist" class="container-fluid">
 <center><strong><h1>Nom de voie:</h1></strong></center>
+</div>
+<div id="textehistvj">
 <p>Les noms de lieux avec le mot "Bellecour" sont apparus pour la première fois au XIIe siècle. Les terres agricoles appartenant à l'archevêque s'appellent Bella Curtis ("Le beau jardin"). Au XVIe siècle,<br>
     ce qui n'était encore qu'un ranch s'appelait Pré de Belle Court. En 1715, elle devient place publique et prend le nom de Place Royale, puis Place Louis Legrand, en hommage à Louis XIV.<br>
 <br>
@@ -126,11 +128,18 @@ En 1790, lors de la Révolution, le nom de la monarchie disparaît et la place d
 dont l'anniversaire devient par la suite la Fête Nationale. A partir de 1793, la place des manifestations politiques de la ville est rebaptisée place de l'Égalité <br>
 (en 1794, la place des Jacobins s'appelle place de la Fraternité). L'odonamem continue d'évoluer avec le système politique : en 1800, l'esplanade est la place Bonaparte,<br>
 et logiquement plus tard elle devient la place Napoléon.<br>
+</div>
 <br>
 </p>
 <br>
 <br>
-<div>
+<br>
+<center><pre>
+» ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ «
+</pre></center>
+<br>
+<br>
+<div id="titrevjhist">
 <center><strong><h1>Histoire</h1></strong></center>
 </div>
 <div id="textehistvj">
@@ -143,6 +152,9 @@ En 1562, le baron des Adrets attaque Lyon, installant ses hommes armés sur ce q
 En 1604, Henri IV pousse le conseil municipal à acquérir la prairie pour y aménager une place publique.<br>
 Mais dans un procès sans fin, les héritiers de l'archevêque se sont affrontés.<br>
 <br>
+</p>
+</div>
+<div id="textehistvjr">
 En 1708, Louis XIV prend définitivement possession du site. La place Louis Legrand est ornée de statues en bronze représentant le roi, réalisées par Martin Desjardins.<br>
 La place est entourée de bâtiments dont les façades ont été conçues par le premier architecte du roi Robert de Corte. En 1658, Louis XIV ne visite qu'une seule fois Lyon dans sa jeunesse.<br>
 Depuis son installation à Versailles, le roi est présent en province, notamment à travers ses statues équestres.<br>
@@ -151,6 +163,8 @@ Le 21 juin 1800, Bonaparte passe par Lyon après sa victoire à Marengo et pose 
 Lors de la restauration, la place est ornée d'une nouvelle statue de Louis XIV, inaugurée le 6 novembre 1825, par le sculpteur François-Frédéric Lemot.<br>
 En 1829, Lady Girard établit la célèbre buvette sur la place.<br>
 <br>
+</div>
+<div id="textehistvj">
 Les deux pavillons de la place ont été construits par Tony Desjardins en 1852.<br>
     A l'ouest, près du jardin d'enfants, avant de devenir les bureaux de l'office de tourisme "Le Rectangle",<br>
     se trouve une salle d'exposition appelée Maison de Lyon.<br>
