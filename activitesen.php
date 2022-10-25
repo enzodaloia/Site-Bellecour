@@ -8,7 +8,10 @@
     <title>Activities</title>
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="screen.css" media="screen">
-<link rel="stylesheet" href="impression.css" type="text/css" media="print">
+    <link rel="stylesheet" href="impression.css" type="text/css" media="print">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- font asesome 6 cdn -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.1.0/css/all.css">
 </head>
 <header>
 <div id="banniere1">
@@ -127,8 +130,24 @@
 </div>
 </div>
 </div>
-<div style="float:right;"><img src="Images/captcha petit.jpg" class="imageflottante" alt="..."></div>
+<footer class="bg-light text-center text-white">
+  <!-- Grid container -->
+    <button class="btn btn-primary" type="button">
+      <i class="fa-brands fa-facebook"></i>
+    </button>
+    <button class="btn btn-danger" type="button">
+      <i class="fa-brands fa-instagram"></i>
+    </button>
+  <!-- Grid container -->
 
-    <script src="js/bootstrap.bundle.min.js"></script>
+  <!-- Copyright -->
+  <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2);">
+    © 2022 Copyright
+  </div>
+  <!-- Copyright -->
+</footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js"></script>
+	<script src="js/bootstrap.bundle.min.js"></script>
     </body>
 </html>

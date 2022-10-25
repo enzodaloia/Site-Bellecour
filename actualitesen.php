@@ -12,6 +12,12 @@
 <head>
 <link rel="stylesheet" type="text/css" href="screen.css" media="screen">
 <link rel="stylesheet" href="impression.css" type="text/css" media="print">
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
+<!-- font asesome 6 cdn -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.1.0/css/all.css">
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- font asesome 6 cdn -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.1.0/css/all.css">
 </head>
 
 </head>
@@ -52,7 +58,20 @@
 	<div id="titrevj">
        <center><h1>News</h1></center>
 </div>
-
+<div id="testbranleur">
+  Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ea harum voluptate ab vero vel inventore sed recusandae eum ut, commodi animi fugiat necessitatibus non omnis rem aut? Nemo, praesentium fuga.
+  Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ea harum voluptate ab vero vel inventore sed recusandae eum ut, commodi animi fugiat necessitatibus non omnis rem aut? Nemo, praesentium fuga.
+  Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ea harum voluptate ab vero vel inventore sed recusandae eum ut, commodi animi fugiat necessitatibus non omnis rem aut? Nemo, praesentium fuga.
+  Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ea harum voluptate ab vero vel inventore sed recusandae eum ut, commodi animi fugiat necessitatibus non omnis rem aut? Nemo, praesentium fuga.
+  Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ea harum voluptate ab vero vel inventore sed recusandae eum ut, commodi animi fugiat necessitatibus non omnis rem aut? Nemo, praesentium fuga.
+  Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ea harum voluptate ab vero vel inventore sed recusandae eum ut, commodi animi fugiat necessitatibus non omnis rem aut? Nemo, praesentium fuga.
+  Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ea harum voluptate ab vero vel inventore sed recusandae eum ut, commodi animi fugiat necessitatibus non omnis rem aut? Nemo, praesentium fuga.
+  Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ea harum voluptate ab vero vel inventore sed recusandae eum ut, commodi animi fugiat necessitatibus non omnis rem aut? Nemo, praesentium fuga.
+  Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ea harum voluptate ab vero vel inventore sed recusandae eum ut, commodi animi fugiat necessitatibus non omnis rem aut? Nemo, praesentium fuga.
+  Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ea harum voluptate ab vero vel inventore sed recusandae eum ut, commodi animi fugiat necessitatibus non omnis rem aut? Nemo, praesentium fuga.
+  Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ea harum voluptate ab vero vel inventore sed recusandae eum ut, commodi animi fugiat necessitatibus non omnis rem aut? Nemo, praesentium fuga.
+  Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ea harum voluptate ab vero vel inventore sed recusandae eum ut, commodi animi fugiat necessitatibus non omnis rem aut? Nemo, praesentium fuga.
+</div>
 <!--* Carte actu-->
 <div id="card1en" class="card" style="width: 18rem;">
     <div>
@@ -125,15 +144,24 @@
       <a href="https://actu.fr/auvergne-rhone-alpes/lyon_69123/lyon-comment-le-quartier-de-la-part-dieu-et-ses-tours-sont-desormais-plonges-dans-le-noir_54572954.html"  target="_blank" class="btn btn-Secondary">See more...</a>
     </div>
   </div>
+  <footer id="menu" class="bg-light text-center text-white">
+      <!-- Grid container -->
+        <button class="btn btn-primary" type="button">
+          <i class="fa-brands fa-facebook"></i>
+        </button>
+        <button class="btn btn-danger" type="button">
+          <i class="fa-brands fa-instagram"></i>
+        </button>
+      <!-- Grid container -->
 
+      <!-- Copyright -->
+      <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2);">
+        © 2022 Copyright
+      </div>
+      <!-- Copyright -->
+    </footer>
 
-
-
-
-
-
-
-
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js"></script>
     <script src="js/bootstrap.bundle.min.js"></script>
     </body>
 </html>
