@@ -38,7 +38,6 @@
 		<div id="FormActivité">
     <body id="body">
     <h1>Activities</h1>
-	<p>Or go to our <a href="http://projetg4bellecour.cf/contacten.php">contact</a> page </p>
 <div class="container-fluid">
 
   <div id="test">
