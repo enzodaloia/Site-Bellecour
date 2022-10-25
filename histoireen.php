@@ -126,6 +126,11 @@
      is an exhibition hall called Maison de Lyon.<br>
 </p></center>
 
+
+<div style="float:right;"><img src="img/captcha petit.jpg" class="imageflottante" alt="..."></div>
+</div>
+</div>
+</div>
 <script src="js/bootstrap.bundle.min.js"></script>
 </body>
 </html>

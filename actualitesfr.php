@@ -149,11 +149,10 @@
 
       </div>
 
-
-
-
-
-
+</div>
+</div>
+</div>
+      <div style="float:right;"><img src="img/captcha petit.jpg" class="imageflottante" alt="..."></div>
 
 
     <script src="js/bootstrap.bundle.min.js"></script>
