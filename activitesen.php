@@ -37,7 +37,9 @@
 		</header>
 		<div id="FormActivité">
     <body id="body">
+    <center>
     <h1>Activities</h1>
+    <br>
 <div class="container-fluid">
 
   <div id="test">
@@ -116,16 +118,16 @@
       </div>
     </div>
   </div>
-  <center>
+</div>
   <p>For any other information, please contact us at : 04 84 25 01 28</p>
   <p>or </p>
-  <button type="button" class="btn btn-secondary"><a href="http://projetg4bellecour.cf/contactfr.php" style="font-family: 'Trebuchet MS'; color: #FFFFFF ;"target="_blank">Redirection to our contact page</a></button>
+  <button type="button" class="btn btn-secondary"><a href="http://projetg4bellecour.cf/contacten.php" style="font-family: 'Trebuchet MS'; color: #FFFFFF ;">Orienteering following Arnaud's disappearance</a></button>
 </center>
 
 </div>
 </div>
 </div>
-<div style="float:right;"><img src="img/captcha petit.jpg" class="imageflottante" alt="..."></div>
+<div style="float:right;"><img src="Images/captcha petit.jpg" class="imageflottante" alt="..."></div>
 
     <script src="js/bootstrap.bundle.min.js"></script>
     </body>

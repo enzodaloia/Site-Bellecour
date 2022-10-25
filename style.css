@@ -484,6 +484,7 @@ header div ul li:hover ul li{
 	margin: 20px 50px 20px 50px;
 }
 
+<<<<<<< HEAD
 button{
 	width: 20px;
 	height: 65px;
@@ -504,6 +505,8 @@ button:hover{
 	color: rgba(0,0,0,0.8);
 }
 
+=======
+>>>>>>> 19969b590a3d3ed911837a57eed499f8535f8477
 
 #photoloc {
 	box-shadow: 0 0 5px black;
@@ -548,6 +551,7 @@ margin-left: 30px;
 
 #titrevj {
 	text-align: center;
+	margin-top: 150px;
 }
 
 #headingOne, #headingTwoo {
@@ -559,4 +563,8 @@ margin-left: 30px;
 	box-shadow:8px 8px 10px 0 rgba(0,0,0,0.5);
 
 
+}
+
+#textehistvj{
+	margin-left: 30px;
 }

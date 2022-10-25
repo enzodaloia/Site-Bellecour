@@ -21,15 +21,13 @@
 <div id="bannière1">
     <img id="bannière1" src="Images/banniere1.jpg" class="img-top">
    </div>
-<div id=box1accueil>
 <!-- <p><img src="Images/LogoBellecourOfficiel.png"></p> -->
-</div>
    <div id="ecrit">
 				<ul>
 					<li><a href="accueilfr.php">Home</a></li>
 					<li><a href="activitesfr.php">Activities</a>
 					</li>
-					<li><a href="histoirefr.php">Story</a></li>
+					<li><a href="histoirefr.php">Stoy</a></li>
 					<li><a href="actualitesfr.php">News</a></li>
                     <li><a href="contactfr.php">Contact</a></li>
                     <li><a href="accesfr.php">Access</a>
@@ -126,11 +124,6 @@
      is an exhibition hall called Maison de Lyon.<br>
 </p></center>
 
-
-<div style="float:right;"><img src="img/captcha petit.jpg" class="imageflottante" alt="..."></div>
-</div>
-</div>
-</div>
 <script src="js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
