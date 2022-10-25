@@ -18,7 +18,7 @@
 <!--* En-tete avec baniere -->
 <header>
 
-<div id="bannière1">
+<div>
 <img id="bannière1" src="Images/banniere1.jpg" class="img-top">
 </div>
 
