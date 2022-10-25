@@ -457,18 +457,16 @@ header div ul li:hover ul li{
 	margin-right: 150px;
 }
 
-#bannière1 {
-	text-align: center;
-	padding-top: 0px;
+#banniere1{
+	text-align:center;
+	padding-top:0px;
 	display: flex;
-	justify-content: center;
+	justify-content:center;
 	align-items: center;
 	background-color: grey;
 	height: 152px;
-	width: 100%;
-	background-image: url(./Images/banniere1.png);
-	background-size: cover;
-	background-position: center;
+	width:100%;
+	background-image: url(banniere1.jpg);
 	background-repeat: no-repeat;
 }
 
