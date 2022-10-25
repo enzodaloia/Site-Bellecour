@@ -437,7 +437,6 @@ header div ul li:hover ul li{
 
 #carouselExampleFade {
 	margin: 20px 50px 20px 50px;
-	width: 100%;
 }
 
 /* CSS PAGE D'ACCUEIL */
@@ -450,15 +449,19 @@ header div ul li:hover ul li{
 }
 
 #banniere1{
-	text-align:center;
-	padding-top:0px;
-	display: flex;
-	justify-content:center;
-	align-items: center;
-	background-color: grey;
-	height: 152px;
-	width:100%;
-	background-image: url(banniere1.png);
+	text-align: center;
+    padding-top: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: grey;
+    height: 152px;
+    width: 100%;
+    background-image: url(./Images/banniere1.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
 }
 
 #france{
@@ -520,6 +523,8 @@ margin-left: 30px;
     align-content: center;
     align-items: center;
 	box-shadow:8px 8px 10px 0 rgba(0,0,0,0.5);
+	max-width: 50%;
+	min-width: none;
 
 }
 
@@ -563,11 +568,3 @@ margin-left: 30px;
 	margin-left: 650px;
 	margin-right: 55px;
 }
-
-body {
-	background: #000 url(texture.png) repeat center center;
-  }
-  #Wrapper {
-	background: url(Images/banniere1.png) no-repeat center top;
-  }
-  
