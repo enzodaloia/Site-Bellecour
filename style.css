@@ -153,12 +153,6 @@ header div ul li:hover ul li{
 
 }
 
-#test{
-	position: absolute;
-	top:170px ;
-	left:1440px;
-}
-
 #france{
 	position: absolute;
 	top:168px ;
@@ -463,7 +457,7 @@ header div ul li:hover ul li{
 	background-color: grey;
 	height: 152px;
 	width:100%;
-	background-image: url(banniere1.jpg);
+	background-image: url(banniere1.png);
 }
 
 #france{
@@ -481,6 +475,12 @@ header div ul li:hover ul li{
 }
 
 #imgen{width: 35px;}
+
+#test{
+	position: absolute;
+	top: 107px;
+	left:1435px;
+}
 
 /* NAVBAR FARES */
 
@@ -551,8 +551,8 @@ margin-left: 30px;
     padding: 1px;
     background-color: rgb(255, 255, 255);
     border: 2px solid rgb(161, 161, 161);
-    width: 20%;
-    min-width: 10%;
+    width: 30%;
+    min-width: 30%;
     border-radius: 5px 5px;
     font-family: Arial;
     color: black;
@@ -563,3 +563,10 @@ margin-left: 30px;
 	margin-right: 55px;
 }
 
+body {
+	background: #000 url(texture.png) repeat center center;
+  }
+  #Wrapper {
+	background: url(Images/banniere1.png) no-repeat center top;
+  }
+  
