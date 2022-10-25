@@ -13,7 +13,9 @@
 <header>
 <div id="bannière1">
     <img id="bannière1" src="Images/banniere1.jpg" class="img-top">
-   </div>		<div id=box1accueil>
+   </div>
+		<div id="bannière1">
+		<div id=box1accueil>
 		<!-- <p><img src="Images/LogoBellecourOfficiel.png"></p> -->
 		</div>
 		</div>
@@ -37,8 +39,16 @@
 	</header>
   <div id="FormActivité">
 
+<<<<<<< HEAD
 <body id="body">
 <h1>Activités</h1>
+=======
+    <body id="body">
+    <h1>Activités</h1>
+    <p>Pour tout autre information, merci de nous contacter au : </p>
+    <p>04 84 25 01 28</p>
+    <p>Ou alors dirigez-vous sur notre page de <a href="http://projetg4bellecour.cf/contactfr.php">contact</a></p>
+>>>>>>> 158d65e752852aec0a32b411906ad8f3c8ebee75
 <div class="container-fluid">
 
 <div id="test">
