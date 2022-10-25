@@ -16,9 +16,8 @@
 						<!-- Navbar -->
 
 <header>
-<!-- <div id="ban1">
-    <img id="ban1" src="Images/banniere1.jpg" class="img-top">
-   </div> -->
+<div id="banniere1">
+   </div>
 
 			<div>
 				<ul>
