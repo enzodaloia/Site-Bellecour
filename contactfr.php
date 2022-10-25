@@ -13,36 +13,34 @@
 </head>
 
 <header>
-<div id="bannière1">
+    <div id="bannière1">
     <img id="bannière1" src="Images/banniere1.jpg" class="img-top">
    </div>
-		<div id="bannière1">
+        <div>
+            <ul>
+                <li><a href="accueilfr.php">Accueil</a></li>
+                <li><a href="activitesfr.php">Activités</a>
+                </li>
+                <li><a href="histoirefr.php">Histoire</a></li>
+                <li><a href="actualitesfr.php">Actualités</a></li>
+                <li><a href="contactfr.php">Contact</a></li>
+                <li><a href="accesfr.php">Accès</a>
+                <ul>
+                    <li><a href="transportfr.php">Transport</a></li>
+                </ul>
+                </li>
+            </ul>
+        </div>
 		</div>
-            <div id="ecrit">
-				<ul>
-					<li><a href="accueilfr.php">Accueil</a></li>
-					<li><a href="activitesfr.php">Activités</a>
-					</li>
-					<li><a href="histoirefr.php">Histoire</a></li>
-					<li><a href="actualitesfr.php">Actualités</a></li>
-                    <li><a href="contactfr.php">Contact</a></li>
-                    <li><a href="accesfr.php">Accès</a>
-                    <ul>
-						<li><a href="transportfr.php">Transport</a></li>
-					</ul>
-					</li>
-				</ul>
-			</div>
-			</div>
 		<div id="bannière2">  
 	</div>
 </header>
 <body id="body">
-    <div id="test">
-		<p>/</p>
-	</div>
-	<div id="france"><a href="contactfr.php"><p><img id="imgfr" src="Images/france.jpg"></p></a></div>
-	<div id="angleterre"><a href="contacten.php"><p><img id="imgen" src="Images/angleterre.jpg"></p></a></div>
+        <div id="test">
+            <p>/</p>
+        </div>
+        <div id="france"><a href="contactfr.php"><p><img id="imgfr" src="Images/france.jpg"></p></a></div>
+        <div id="angleterre"><a href="contacten.php"><p><img id="imgen" src="Images/angleterre.jpg"></p></a></div>
     <center>
     <div id="form">
         <form method="POST">

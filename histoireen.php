@@ -24,9 +24,7 @@
 <div id=box1accueil>
 <!-- <p><img src="Images/LogoBellecourOfficiel.png"></p> -->
 </div>
-
-
-            <div id="ecrit">
+   <div id="ecrit">
 				<ul>
 					<li><a href="accueilfr.php">Home</a></li>
 					<li><a href="activitesfr.php">Activities</a>
