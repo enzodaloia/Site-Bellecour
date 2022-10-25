@@ -7,52 +7,36 @@
     <link rel="stylesheet" href="style.css" type="text/css" >
     <title>Accueil</title>
     <link href="css/bootstrap.min.css" rel="stylesheet">
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- font asesome 6 cdn -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.1.0/css/all.css">
 </head>
 
 
 						<!-- Navbar -->
 
 <header>
-	
-		<div id="banniere1">
-			<div class="navbar">
-			<nav class="navbar navbar-expand-lg">
-				<div class="container-fluid-navbar">
-				<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-					<span class="navbar-toggler-icon"></span>
-				</button>
-				<div class="collapse navbar-collapse" id="navbarNav">
-					<ul class="navbar-nav">
-					<li class="nav-item">
-						<a class="nav-link active" aria-current="page" href="#">Accueil</a>
-					</li>
-					<li class="nav-item">
-						<a class="nav-link" href="#">Features</a>
-					</li>
-					<li class="nav-item">
-						<a class="nav-link" href="#">Pricing</a>
-					</li>
-					<li class="nav-item">
-						<a class="nav-link" href="#">Disabled</a>
-						<li class="nav-item">
-						<a class="nav-link"  href="#">Disabled</a>
-					</li>
+<div id="banniere1">
+   </div>
 
-					<li class="nav-item dropdown">
-						<a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-						  Dropdown link
-						</a>
-						<ul class="dropdown-menu">
-						  <li><a class="dropdown-item" href="#">Action</a></li>
-						  
+			<div>
+				<ul>
+					<li><a href="accueilfr.php">Accueil</a></li>
+					<li><a href="activitesfr.php">Activités</a>
+					</li>
+					<li><a href="histoirefr.php">Histoire</a></li>
+					<li><a href="actualitesfr.php">Actualités</a></li>
+                    <li><a href="contactfr.php">Contact</a></li>
+                    <li><a href="accesfr.php">Accès</a>
+                    <ul>
+						<li><a href="transportfr.php">Transport</a></li>
 					</ul>
-				</div>
-				</div>
-			</nav>
+					</li>
+				</ul>
 			</div>
-		</div>
-
-
+			
+		<div id="bannière2">
+    </div>
 </header>
 
 						<!-- Navbar -->
@@ -87,7 +71,7 @@
 	<body id="body">
 		<br><br><br>
 		<div class="container">
-			<div class="content-1">
+			<div id="accueiltexte">
 				<center>
 				<h1 class="titre">Présentation du quartier</h1></center>
 					<br>
@@ -96,7 +80,7 @@
 
 			<div class="content-2">
 				<br>
-				<img id="imageaccueil1" src="imageaccueil1.jpg" alt="" width="500" height="500">
+				<img src="Images/imageaccueil1.jpg" alt="" width="500" height="500">
 			</div>
 		</div>
 
@@ -137,7 +121,6 @@
 
 		  				<!-- Carrousel Actualités -->
 
-					<div id="actualiteaccueil">
 						  <div class="titre">
 							<center><h1>Actualités</h1></center><br>
 						</div>
@@ -179,7 +162,6 @@
 							  </div>
 							</div>
 						  </div><br>
-					</div>
 
 						<!-- Carrousel Actualités -->
 
@@ -199,31 +181,23 @@
 
 						<!-- Footer -->
 
-<div id="footer"> 
+						<footer class="bg-light text-center text-white">
+  <!-- Grid container -->
+    <button class="btn btn-primary" type="button">
+      <i class="fa-brands fa-facebook"></i>
+    </button>
+    <button class="btn btn-danger" type="button">
+      <i class="fa-brands fa-instagram"></i>
+    </button>
+  <!-- Grid container -->
 
-	<div id="image_gauche_footer">
-		<p>
-			<a href="https://mairie2.lyon.fr" target="_blank"><img src="logovilledelyon.png" height="40px"></a>
-		</p>
-	</div>
-
-	<div id="texte_milieu_footer">
-		<a>© (Copyright)</a>
-	</div>
-
-	<div id="image_droite_footer">
-		<a href="https://fr-fr.facebook.com/InstitutG4/" target="_blank"><img src="logofacebook.png" height="30" width="30">
-
-		<a href="https://www.instagram.com/institut_g4/" target="_blank"><img src="logoinstagram.webp" height="30" width="30"></a>
-		
-		<a href="https://www.linkedin.com/school/institut-g4/" target="_blank">
-		<img src="logolinkedin.png" height="30" width="30"></a>
-	</div>
-
-</div>
-
-						<!-- Footer -->
-	
+  <!-- Copyright -->
+  <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2);">
+    © 2022 Copyright
+  </div>
+  <!-- Copyright -->
+</footer>
+	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js"></script>
 	<script src="js/bootstrap.bundle.min.js"></script>
 	</body>
 </html>
