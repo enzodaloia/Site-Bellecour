@@ -528,6 +528,7 @@ margin-left: 30px;
 
 #titrevj {
 	text-align: center;
+	margin-top: 150px;
 }
 
 #headingOne, #headingTwoo {
@@ -539,4 +540,8 @@ margin-left: 30px;
 	box-shadow:8px 8px 10px 0 rgba(0,0,0,0.5);
 
 
+}
+
+#textehistvj{
+	margin-left: 30px;
 }
