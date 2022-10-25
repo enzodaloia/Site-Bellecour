@@ -55,22 +55,13 @@ header div{
 	margin: 0px;
 }
 
-#ban1 {
-	text-align:center;
-	display: flex;
-	justify-content:center;
-	align-items: center;
-	width:100%;
-
-}
-
 header{
 	font-family: Arial;
 	min-width: 500px;
 	width:100%;
 	height:180px;
 	position:relative;
-	background-color: #deb887 ;
+	background-color: bisque ;
 }
 
 header div ul{
@@ -126,7 +117,6 @@ header div ul li:hover ul li{
 	display: block;
 }
 
-
 #bannière2{
 	display: block;
 	background-color:white;
@@ -154,13 +144,6 @@ header div ul li:hover ul li{
 	margin-left:10px;
 }
 
-#accueiltexte{
-	background-color: white;
-	border-radius: 10px;
-	margin-top:0;
-	padding-top: 0;
-}
-
 .texte{
 	margin-left: 20px;
 }
@@ -168,12 +151,6 @@ header div ul li:hover ul li{
 	margin-top: 270px;
 	margin-left: 10px;
 
-}
-
-#test{
-	position: absolute;
-	top:170px ;
-	left:1440px;
 }
 
 #france{
@@ -441,29 +418,7 @@ header div ul li:hover ul li{
 
 /* FOOTER FARES */
 
-#footer{
-	width:100%;
-	height:60px;
-	background:#919191;
-	border-top:5px solid #919191; 
-	text-align: center;
-}
 
-#texte_milieu_footer{
-	float: bottom;
-}
-
-#image_gauche_footer{
-	float:left;
-	justify-content: space-around;
-    margin: 0 30px 0 0;
-}
-
-#image_droite_footer{
-   float:right;
-   justify-content: space-around;
-   margin: 0 30px 0 0;
-}
 
 /* FOOTER FARES */
 
@@ -484,6 +439,54 @@ header div ul li:hover ul li{
 	margin: 20px 50px 20px 50px;
 }
 
+/* CSS PAGE D'ACCUEIL */
+
+/* NAVBAR FARES */
+
+.navbar {
+	margin-top: 46px;
+	margin-right: 150px;
+}
+
+#banniere1{
+	text-align: center;
+    padding-top: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: grey;
+    height: 152px;
+    width: 100%;
+    background-image: url(./Images/banniere1.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+}
+
+#france{
+	position: absolute;
+	top:105px ;
+	left:1380px;
+}
+
+#imgfr{width: 30px;}
+
+#angleterre{
+	position: absolute;
+	top: 105px;
+	left:1480px;
+}
+
+#imgen{width: 35px;}
+
+#test{
+	position: absolute;
+	top: 107px;
+	left:1435px;
+}
+
+/* NAVBAR FARES */
 
 #photoloc {
 	box-shadow: 0 0 5px black;
@@ -509,9 +512,6 @@ margin-left: 30px;
 }
 
 
-#bodyvj{
-	padding-top: 150px;
-}
 
 #where, #imgvj, #bcvj{
     max-width: 100%;
@@ -523,6 +523,8 @@ margin-left: 30px;
     align-content: center;
     align-items: center;
 	box-shadow:8px 8px 10px 0 rgba(0,0,0,0.5);
+	max-width: 50%;
+	min-width: none;
 
 }
 
@@ -543,5 +545,28 @@ margin-left: 30px;
 }
 
 #textehistvj{
-	margin-left: 30px;
+	margin-left: 55px;
+	margin-right: 450px;
 }
+
+#titrevjhist{
+	text-align: center;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1px;
+    background-color: rgb(255, 255, 255);
+    border: 2px solid rgb(161, 161, 161);
+    width: 30%;
+    min-width: 30%;
+    border-radius: 5px 5px;
+    font-family: Arial;
+    color: black;
+}
+
+#textehistvjr{
+	margin-left: 650px;
+	margin-right: 55px;
+}
+
+
