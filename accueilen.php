@@ -15,7 +15,7 @@
     <img id="bannière1" src="Images/banniere1.jpg" class="img-top">
    </div>
 
-		<div id="ecrit">
+		<div>
 				<ul>
 					<li><a href="accueilen.php">Home</a></li>
 					<li><a href="activitesen.php">Activities</a>
