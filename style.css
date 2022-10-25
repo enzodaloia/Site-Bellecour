@@ -442,15 +442,15 @@ header div ul li:hover ul li{
 	text-align: center;
 }
 
-#textemilieu {
+#texte_milieu_footer{
 	float: bottom;
 }
 
-#image_gauche {
+#image_gauche_footer{
 	float:left;
 }
 
-#image_droite {
+#image_droite_footer{
    float:right;
    justify-content: space-around;
    margin: 0 30px 0 0;
