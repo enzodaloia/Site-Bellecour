@@ -150,7 +150,7 @@ La place de la Charité a ensuite été agrandie pour devenir l'actuelle place A
 </center>
 </div>
 
-<img id="bcvj" src="Images/bc.png" class="img-fluid">
+<img id="bcvj" src="Images/bcvj.png" class="img-fluid">
 
 <div class="accordion" id="accordion1">
   <div class="accordion-item">
