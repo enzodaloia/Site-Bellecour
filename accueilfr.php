@@ -17,7 +17,7 @@
     <img id="bannière1" src="Images/banniere1.jpg" class="img-top">
    </div>
 
-			<div id="ecrit">
+			<div>
 				<ul>
 					<li><a href="accueilfr.php">Accueil</a></li>
 					<li><a href="activitesfr.php">Activités</a>
@@ -78,7 +78,7 @@
 
 			<div class="content-2">
 				<br>
-				<img id="imageaccueil1" src="imageaccueil1.jpg" alt="" width="500" height="500">
+				<img src="Images/imageaccueil1.jpg" alt="" width="500" height="500">
 			</div>
 		</div>
 
