@@ -41,7 +41,7 @@
 
 						<!-- Fr/Eng -->
 
-	<!-- <div id="test">
+	<div id="test">
 		<p>/</p>
 	</div>
 		<div id="france">
@@ -56,7 +56,7 @@
 					<img id="imgen" src="Images/angleterre.jpg">
 				</p>
 			</a>
-		</div> -->
+		</div>
 
 						<!-- Fr/Eng -->
 
