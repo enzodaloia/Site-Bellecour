@@ -13,8 +13,7 @@
 </head>
 
 <header>
-    <div id="ban1">
-    </div>
+<div id="bannière1"></div>
         <div>
             <ul>
                 <li><a href="accueilfr.php">Accueil</a></li>

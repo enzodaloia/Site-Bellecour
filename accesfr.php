@@ -7,15 +7,19 @@
     <link rel="stylesheet" href="style.css" type="text/css" >
     <title>Accès</title>
     <link href="css/bootstrap.min.css" rel="stylesheet">
-	<link rel="stylesheet" type="text/css" href="screen.css" media="screen">
-<link rel="stylesheet" href="impression.css" type="text/css" media="print">
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- font asesome 6 cdn -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.1.0/css/all.css">
 </head>
+
+
+						<!-- Navbar -->
+
 <header>
-<div id="bannière1">
-    <img id="bannière1" src="Images/banniere1.png" class="img-top">
+	<div id="bannière">
    </div>
 
-			<div id="ecrit">
+			<div>
 				<ul>
 					<li><a href="accueilfr.php">Accueil</a></li>
 					<li><a href="activitesfr.php">Activités</a>
@@ -32,31 +36,92 @@
 			</div>
 			
 		<div id="bannière2">
-	    </div>
-	</header>
-    <body id="body">
+    </div>
+</header>
 
+						<!-- Navbar -->
+
+						<!-- Fr/Eng -->
+<body id="body">
 	<div id="test">
 		<p>/</p>
 	</div>
-	<div id="france"><a href="accesfr.php"><p><img id="imgfr" src="Images/france.jpg"></p></a></div>
-	<div id="angleterre"><a href="accesen.php"><p><img id="imgen" src="Images/angleterre.jpg"></p></a></div>
+		<div id="france">
+			<a href="accueilfr.php">
+				<p><img id="imgfr" src="Images/france.jpg"></p>
+			</a>
+		</div>
 
-	<div id="FormActivité">
+		<div id="angleterre">
+			<a href="accueilen.php">
+				<p>
+					<img id="imgen" src="Images/angleterre.jpg">
+				</p>
+			</a>
+		</div>
 
-<body id="body">
-<div class="FormActivité">
-<center><h1>Localisation de la place Bellecour</h1>
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2783.666440234341!2d4.8300076155673155!3d45.
-75783267910552!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47f4ea537bdc5ab3%3A0x5d9d9385f58b2047!2sPlace
-%20Bellecour!5e0!3m2!1sfr!2sfr!4v1666248701164!5m2!1sfr!2sfr" width="1400" height="250" style="border:0;" allowfullscreen="" 
-loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></iframe></center>
+		<center>
+    <div id="form">
+        <form method="POST">
+        <h1>Contactez-nous</h1>
+        <p>Pour toute demande, remplissez le formulaire ci-dessous.</p>
+        
+            <label>Nom</label>
+            <input type="text" name="nom" required>            
+            <label>Prénom</label>
+            <input type="text" name="prenom" required>
+            <label>Email</label>
+            <input type="email" name="email" required>
+            <label>Sujet</label>
+            <input type="text" name="sujet" required>
+            <label>Message</label>
+            <textarea name="message" required></textarea>
+            <input type="submit" value="Envoyer le message">
+        
+        </form>
+        <?php
+        if (isset($_POST["message"])) {
+            //on vérifie que le champ mail est correctement rempli
+            if(!empty($_POST['mail'])) {
+            }
+                //on vérifie que l'adresse est correcte
+                if(!preg_match("#^[a-z0-9_-]+((\.[a-z0-9_-]+){1,})?@[a-z0-9_-]+((\.[a-z0-9_-]+){1,})?\.[a-z]{2,}$#i",$_POST['mail'])){
+                    $message= "Ce message vous à été envoyé via la page du site projetg4bellecour.cf
+                    Nom : " . $_POST["nom"] . "
+                    Prénom : " . $_POST["prenom"] . "
+                    Email : " . $_POST["email"] . "
+                    Message : " . $_POST["message"];
+                    $retour= mail("enzo.daloiadignazio@gmail.com", $_POST["sujet"], $message, "From:projetgb@projetg4bellecour.cf" . "\r\n" . "Reply-to:" . $_POST["email"]);
+                    if($retour){
+                        echo "<p> L'email à été envoyé !</p>";
+                    }
+                }else{
+                    echo "<p> L'email est invalide !</p>";
+                }
+        }
+    ?>
+    </div>
+    </center>
 
-</div>
-</div>
-</div>
-<div style="float:right;"><img src="img/captcha petit.jpg" class="imageflottante" alt="..."></div>
+						<!-- Footer -->
 
-    <script src="js/bootstrap.bundle.min.js"></script>
-    </body>
+<footer class="bg-light text-center text-white">
+  <!-- Grid container -->
+    <button class="btn btn-primary" type="button">
+      <i class="fa-brands fa-facebook"></i>
+    </button>
+    <button class="btn btn-danger" type="button">
+      <i class="fa-brands fa-instagram"></i>
+    </button>
+  <!-- Grid container -->
+
+  <!-- Copyright -->
+  <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2);">
+    © 2022 Copyright
+  </div>
+  <!-- Copyright -->
+</footer>
+	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js"></script>
+	<script src="js/bootstrap.bundle.min.js"></script>
+	</body>
 </html>
