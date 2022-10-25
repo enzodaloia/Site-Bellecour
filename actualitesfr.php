@@ -13,32 +13,29 @@
 
 <header>
 
-    <div id="bannière1">
-    <img id="bannière1" src="Images/banniere1.jpg" class="img-top">
-   </div>
-        <div>
-            <ul>
-                <li><a href="accueilfr.php">Accueil</a></li>
-                <li><a href="activitesfr.php">Activités</a>
-                </li>
-                <li><a href="histoirefr.php">Histoire</a></li>
-                <li><a href="actualitesfr.php">Actualités</a></li>
-                <li><a href="contactfr.php">Contact</a></li>
-                <li><a href="accesfr.php">Accès</a>
-                <ul>
-                    <li><a href="transportfr.php">Transport</a></li>
-                </ul>
-                </li>
-            </ul>
-        </div>
+
+<img src="Images/banniere1.jpg" class="img-fluid" alt="...">
+		<div id=box1accueil>
+		<!-- <p><img src="Images/LogoBellecourOfficiel.png"></p> -->
 		</div>
-		<div id="bannière2">  
-	</div>
-</header>
-  <body id="body">
-
-
-
+		</div>
+				<ul>
+					<li><a href="accueilfr.php">Accueil</a></li>
+					<li><a href="activitesfr.php">Activités</a>
+					</li>
+					<li><a href="histoirefr.php">Histoire</a></li>
+					<li><a href="actualitesfr.php">Actualités</a></li>
+                    <li><a href="contactfr.php">Contact</a></li>
+                    <li><a href="accesfr.php">Accès</a>
+                    <ul>
+						<li><a href="transportfr.php">Transport</a></li>
+					</ul>
+					</li>
+				</ul>
+			</div>
+		<div>  
+	    </div>
+	</header>
 
   
     <body id="bodyvj">
