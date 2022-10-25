@@ -9,6 +9,7 @@
 <link href="css/bootstrap.min.css" rel="stylesheet">
 <link rel="stylesheet" type="text/css" href="screen.css" media="screen">
 <link rel="stylesheet" href="impression.css" type="text/css" media="print">
+<<<<<<< HEAD
 <head>
 <link rel="stylesheet" type="text/css" href="screen.css" media="screen">
 <link rel="stylesheet" href="impression.css" type="text/css" media="print">
@@ -17,6 +18,8 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.1.0/css/all.css">
 </head>
 
+=======
+>>>>>>> 5b121a95aa158ed8619181e0acac1e8d7764c8d1
 </head>
 
 <!--* En-tete avec baniere -->
