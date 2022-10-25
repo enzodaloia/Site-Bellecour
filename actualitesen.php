@@ -10,7 +10,6 @@
 <link rel="stylesheet" type="text/css" href="screen.css" media="screen">
 <link rel="stylesheet" href="impression.css" type="text/css" media="print">
 <head>
-<<<<<<< HEAD
 <link rel="stylesheet" type="text/css" href="screen.css" media="screen">
 <link rel="stylesheet" href="impression.css" type="text/css" media="print">
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
@@ -19,9 +18,6 @@
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
     <!-- font asesome 6 cdn -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.1.0/css/all.css">
-=======
-
->>>>>>> 5b121a95aa158ed8619181e0acac1e8d7764c8d1
 </head>
 
 </head>
@@ -56,13 +52,56 @@
 <div id="test">
 		<p>/</p>
 	</div>
-	<div id="france"><a href="histoirefr.php"><p><img id="imgfr" src="Images/france.jpg"></p></a></div>
-	<div id="angleterre"><a href="histoireen.php"><p><img id="imgen" src="Images/angleterre.jpg"></p></a></div>
+	<div id="france"><a href="actualitesfr.php"><p><img id="imgfr" src="Images/france.jpg"></p></a></div>
+	<div id="angleterre"><a href="actualitesen.php"><p><img id="imgen" src="Images/angleterre.jpg"></p></a></div>
 
 	<div id="titrevj">
        <center><h1>News</h1></center>
 </div>
 <div id="testbranleur">
+  Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ea harum voluptate ab vero vel inventore sed recusandae eum ut, commodi animi fugiat necessitatibus non omnis rem aut? Nemo, praesentium fuga.
+  Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ea harum voluptate ab vero vel inventore sed recusandae eum ut, commodi animi fugiat necessitatibus non omnis rem aut? Nemo, praesentium fuga.
+  Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ea harum voluptate ab vero vel inventore sed recusandae eum ut, commodi animi fugiat necessitatibus non omnis rem aut? Nemo, praesentium fuga.
+  Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ea harum voluptate ab vero vel inventore sed recusandae eum ut, commodi animi fugiat necessitatibus non omnis rem aut? Nemo, praesentium fuga.
+  Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ea harum voluptate ab vero vel inventore sed recusandae eum ut, commodi animi fugiat necessitatibus non omnis rem aut? Nemo, praesentium fuga.
+  Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ea harum voluptate ab vero vel inventore sed recusandae eum ut, commodi animi fugiat necessitatibus non omnis rem aut? Nemo, praesentium fuga.
+  Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ea harum voluptate ab vero vel inventore sed recusandae eum ut, commodi animi fugiat necessitatibus non omnis rem aut? Nemo, praesentium fuga.
+  Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ea harum voluptate ab vero vel inventore sed recusandae eum ut, commodi animi fugiat necessitatibus non omnis rem aut? Nemo, praesentium fuga.
+  Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ea harum voluptate ab vero vel inventore sed recusandae eum ut, commodi animi fugiat necessitatibus non omnis rem aut? Nemo, praesentium fuga.
+  Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ea harum voluptate ab vero vel inventore sed recusandae eum ut, commodi animi fugiat necessitatibus non omnis rem aut? Nemo, praesentium fuga.
+  Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ea harum voluptate ab vero vel inventore sed recusandae eum ut, commodi animi fugiat necessitatibus non omnis rem aut? Nemo, praesentium fuga.
+  Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ea harum voluptate ab vero vel inventore sed recusandae eum ut, commodi animi fugiat necessitatibus non omnis rem aut? Nemo, praesentium fuga.
+  Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ea harum voluptate ab vero vel inventore sed recusandae eum ut, commodi animi fugiat necessitatibus non omnis rem aut? Nemo, praesentium fuga.
+  Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ea harum voluptate ab vero vel inventore sed recusandae eum ut, commodi animi fugiat necessitatibus non omnis rem aut? Nemo, praesentium fuga.
+  Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ea harum voluptate ab vero vel inventore sed recusandae eum ut, commodi animi fugiat necessitatibus non omnis rem aut? Nemo, praesentium fuga.
+  Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ea harum voluptate ab vero vel inventore sed recusandae eum ut, commodi animi fugiat necessitatibus non omnis rem aut? Nemo, praesentium fuga.
+  Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ea harum voluptate ab vero vel inventore sed recusandae eum ut, commodi animi fugiat necessitatibus non omnis rem aut? Nemo, praesentium fuga.
+  Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ea harum voluptate ab vero vel inventore sed recusandae eum ut, commodi animi fugiat necessitatibus non omnis rem aut? Nemo, praesentium fuga.
+  Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ea harum voluptate ab vero vel inventore sed recusandae eum ut, commodi animi fugiat necessitatibus non omnis rem aut? Nemo, praesentium fuga.
+  Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ea harum voluptate ab vero vel inventore sed recusandae eum ut, commodi animi fugiat necessitatibus non omnis rem aut? Nemo, praesentium fuga.
+  Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ea harum voluptate ab vero vel inventore sed recusandae eum ut, commodi animi fugiat necessitatibus non omnis rem aut? Nemo, praesentium fuga.
+  Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ea harum voluptate ab vero vel inventore sed recusandae eum ut, commodi animi fugiat necessitatibus non omnis rem aut? Nemo, praesentium fuga.
+  Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ea harum voluptate ab vero vel inventore sed recusandae eum ut, commodi animi fugiat necessitatibus non omnis rem aut? Nemo, praesentium fuga.
+  Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ea harum voluptate ab vero vel inventore sed recusandae eum ut, commodi animi fugiat necessitatibus non omnis rem aut? Nemo, praesentium fuga.
+  Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ea harum voluptate ab vero vel inventore sed recusandae eum ut, commodi animi fugiat necessitatibus non omnis rem aut? Nemo, praesentium fuga.
+  Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ea harum voluptate ab vero vel inventore sed recusandae eum ut, commodi animi fugiat necessitatibus non omnis rem aut? Nemo, praesentium fuga.
+  Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ea harum voluptate ab vero vel inventore sed recusandae eum ut, commodi animi fugiat necessitatibus non omnis rem aut? Nemo, praesentium fuga.
+  Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ea harum voluptate ab vero vel inventore sed recusandae eum ut, commodi animi fugiat necessitatibus non omnis rem aut? Nemo, praesentium fuga.
+  Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ea harum voluptate ab vero vel inventore sed recusandae eum ut, commodi animi fugiat necessitatibus non omnis rem aut? Nemo, praesentium fuga.
+  Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ea harum voluptate ab vero vel inventore sed recusandae eum ut, commodi animi fugiat necessitatibus non omnis rem aut? Nemo, praesentium fuga.
+  Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ea harum voluptate ab vero vel inventore sed recusandae eum ut, commodi animi fugiat necessitatibus non omnis rem aut? Nemo, praesentium fuga.
+  Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ea harum voluptate ab vero vel inventore sed recusandae eum ut, commodi animi fugiat necessitatibus non omnis rem aut? Nemo, praesentium fuga.
+  Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ea harum voluptate ab vero vel inventore sed recusandae eum ut, commodi animi fugiat necessitatibus non omnis rem aut? Nemo, praesentium fuga.
+  Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ea harum voluptate ab vero vel inventore sed recusandae eum ut, commodi animi fugiat necessitatibus non omnis rem aut? Nemo, praesentium fuga.
+  Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ea harum voluptate ab vero vel inventore sed recusandae eum ut, commodi animi fugiat necessitatibus non omnis rem aut? Nemo, praesentium fuga.
+  Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ea harum voluptate ab vero vel inventore sed recusandae eum ut, commodi animi fugiat necessitatibus non omnis rem aut? Nemo, praesentium fuga.
+  Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ea harum voluptate ab vero vel inventore sed recusandae eum ut, commodi animi fugiat necessitatibus non omnis rem aut? Nemo, praesentium fuga.
+  Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ea harum voluptate ab vero vel inventore sed recusandae eum ut, commodi animi fugiat necessitatibus non omnis rem aut? Nemo, praesentium fuga.
+  Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ea harum voluptate ab vero vel inventore sed recusandae eum ut, commodi animi fugiat necessitatibus non omnis rem aut? Nemo, praesentium fuga.
+  Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ea harum voluptate ab vero vel inventore sed recusandae eum ut, commodi animi fugiat necessitatibus non omnis rem aut? Nemo, praesentium fuga.
+  Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ea harum voluptate ab vero vel inventore sed recusandae eum ut, commodi animi fugiat necessitatibus non omnis rem aut? Nemo, praesentium fuga.
+  Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ea harum voluptate ab vero vel inventore sed recusandae eum ut, commodi animi fugiat necessitatibus non omnis rem aut? Nemo, praesentium fuga.
+  Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ea harum voluptate ab vero vel inventore sed recusandae eum ut, commodi animi fugiat necessitatibus non omnis rem aut? Nemo, praesentium fuga.
   Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ea harum voluptate ab vero vel inventore sed recusandae eum ut, commodi animi fugiat necessitatibus non omnis rem aut? Nemo, praesentium fuga.
   Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ea harum voluptate ab vero vel inventore sed recusandae eum ut, commodi animi fugiat necessitatibus non omnis rem aut? Nemo, praesentium fuga.
   Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ea harum voluptate ab vero vel inventore sed recusandae eum ut, commodi animi fugiat necessitatibus non omnis rem aut? Nemo, praesentium fuga.
