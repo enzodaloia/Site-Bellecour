@@ -5,17 +5,22 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css" type="text/css" >
-    <title>Access</title>
+    <title>Accès</title>
     <link href="css/bootstrap.min.css" rel="stylesheet">
-	<link rel="stylesheet" type="text/css" href="screen.css" media="screen">
-<link rel="stylesheet" href="impression.css" type="text/css" media="print">
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- font asesome 6 cdn -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.1.0/css/all.css">
 </head>
-<header>
-<div id="bannière1">
-    <img id="bannière1" src="Images/banniere1.jpg" class="img-top">
-   </div>
 
-			<div id="ecrit">
+
+						<!-- Navbar -->
+
+<header>
+<div id="banniere1"></div>
+
+   
+
+<div>
 				<ul>
 					<li><a href="accueilen.php">Home</a></li>
 					<li><a href="activitesen.php">Activities</a>
@@ -32,28 +37,78 @@
 			</div>
 			
 		<div id="bannière2">
-	    </div>
-	</header>
-    <body id="body">
+    </div>
+</header>
 
+						<!-- Navbar -->
+
+						<!-- Fr/Eng -->
+<body id="body">
 	<div id="test">
 		<p>/</p>
 	</div>
-	<div id="france"><a href="accesfr.php"><p><img id="imgfr" src="Images/france.jpg"></p></a></div>
-	<div id="angleterre"><a href="accesen.php"><p><img id="imgen" src="Images/angleterre.jpg"></p></a></div>
+		<div id="france">
+			<a href="accesfr.php">
+				<p><img id="imgfr" src="Images/france.jpg"></p>
+			</a>
+		</div>
 
-	<div class="FormActivité">
-<center><h1>Location of the Bellecour square</h1>
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2783.666440234341!2d4.8300076155673155!3d45.
-75783267910552!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47f4ea537bdc5ab3%3A0x5d9d9385f58b2047!2sPlace
-%20Bellecour!5e0!3m2!1sfr!2sfr!4v1666248701164!5m2!1sfr!2sfr" width="1400" height="250" style="border:0;" allowfullscreen="" 
-loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></iframe></center>
+		<div id="angleterre">
+			<a href="accesen.php">
+				<p>
+					<img id="imgen" src="Images/angleterre.jpg">
+				</p>
+			</a>
+		</div>
 
-</div>
-</div>
+
+						<!-- Footer -->
+
+            <div id="form">
+        <center>
+
+<h1>Transport</h1>
+<h4>All public transport in Bellecour</h4>
+<div id="FormTransport">
+<h1>TCL</h1>
+<p>Transport, Tramway and Bus</p>
+<img id="..." src="Images/Transport bus.jpg" width="500" height="500">
+<div id="FormTransport">
+<p>For further information on other public transport directions, click on the button below.</p>
+<button type="button" class="btn btn-secondary"><a href="https://www.tcl.fr/sites/default/files/2022-09/Plan_Lyon-Villeurbanne_ao%C3%BBt22_0.pdf" target="_blank" style="font-family: 'Trebuchet MS'; color: #FFFFFF ;">Lien vers le PDF</a></button>
+
+<div id="FormTransport">
+<h1>Vélo'V</h1>
+<p>Location of all bicycle stations</p>
+<img id="..." src="Images/Vélo'V.jpg" width="500" height="700">
+<p>To purchase a card or other, please click on the button below</p>
+<button type="button" class="btn btn-secondary"><a href="https://velov.grandlyon.com/fr/home" target="_blank" style="font-family: 'Trebuchet MS'; color: #FFFFFF ;">Lien vers le PDF</a></button>
+
+<div id="FormTransport">
+<h1>Trotinette Libre-Service</h1>
+<p>Les trottinettes libre-service sont disposées un peux partout dans Lyon, il vous suffit juste d'avoir le logiciel <a href="https://ridedott.com/fr" target="_blank">Dott</a> et <a href="https://www.tier.app/fr/" target="_blank">Tier</a> pour les localiser</p>
 </div>
 <div style="float:right;"><img src="img/captcha petit.jpg" class="imageflottante" alt="..."></div>
 
-    <script src="js/bootstrap.bundle.min.js"></script>
+</center>
+<footer class="bg-light text-center text-white">
+  <!-- Grid container -->
+    <button class="btn btn-primary" type="button">
+      <i class="fa-brands fa-facebook"></i>
+    </button>
+    <button class="btn btn-danger" type="button">
+      <i class="fa-brands fa-instagram"></i>
+    </button>
+  <!-- Grid container -->
+
+  <!-- Copyright -->
+  <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2);">
+    © 2022 Copyright
+  </div>
+  <!-- Copyright -->
+</footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js"></script>
+	<script src="js/bootstrap.bundle.min.js"></script>
     </body>
 </html>

@@ -48,64 +48,49 @@
 		<p>/</p>
 	</div>
 		<div id="france">
-			<a href="accueilfr.php">
+			<a href="accesfr.php">
 				<p><img id="imgfr" src="Images/france.jpg"></p>
 			</a>
 		</div>
 
 		<div id="angleterre">
-			<a href="accueilen.php">
+			<a href="accesen.php">
 				<p>
 					<img id="imgen" src="Images/angleterre.jpg">
 				</p>
 			</a>
 		</div>
 
-		<center>
-    <div id="form">
-        <form method="POST">
-        <h1>Contactez-nous</h1>
-        <p>Pour toute demande, remplissez le formulaire ci-dessous.</p>
-        
-            <label>Nom</label>
-            <input type="text" name="nom" required>            
-            <label>Prénom</label>
-            <input type="text" name="prenom" required>
-            <label>Email</label>
-            <input type="email" name="email" required>
-            <label>Sujet</label>
-            <input type="text" name="sujet" required>
-            <label>Message</label>
-            <textarea name="message" required></textarea>
-            <input type="submit" value="Envoyer le message">
-        
-        </form>
-        <?php
-        if (isset($_POST["message"])) {
-            //on vérifie que le champ mail est correctement rempli
-            if(!empty($_POST['mail'])) {
-            }
-                //on vérifie que l'adresse est correcte
-                if(!preg_match("#^[a-z0-9_-]+((\.[a-z0-9_-]+){1,})?@[a-z0-9_-]+((\.[a-z0-9_-]+){1,})?\.[a-z]{2,}$#i",$_POST['mail'])){
-                    $message= "Ce message vous à été envoyé via la page du site projetg4bellecour.cf
-                    Nom : " . $_POST["nom"] . "
-                    Prénom : " . $_POST["prenom"] . "
-                    Email : " . $_POST["email"] . "
-                    Message : " . $_POST["message"];
-                    $retour= mail("enzo.daloiadignazio@gmail.com", $_POST["sujet"], $message, "From:projetgb@projetg4bellecour.cf" . "\r\n" . "Reply-to:" . $_POST["email"]);
-                    if($retour){
-                        echo "<p> L'email à été envoyé !</p>";
-                    }
-                }else{
-                    echo "<p> L'email est invalide !</p>";
-                }
-        }
-    ?>
-    </div>
-    </center>
 
 						<!-- Footer -->
 
+            <div id="form">
+        <center>
+
+<h1>Transport</h1>
+<h4>All public transport in Bellecour</h4>
+<div id="FormTransport">
+<h1>TCL</h1>
+<p>Transport, Tramway and Bus</p>
+<img id="..." src="Images/Transport bus.jpg" width="500" height="500">
+<div id="FormTransport">
+<p>For further information on other public transport directions, click on the button below.</p>
+<button type="button" class="btn btn-secondary"><a href="https://www.tcl.fr/sites/default/files/2022-09/Plan_Lyon-Villeurbanne_ao%C3%BBt22_0.pdf" target="_blank" style="font-family: 'Trebuchet MS'; color: #FFFFFF ;">Lien vers le PDF</a></button>
+
+<div id="FormTransport">
+<h1>Vélo'V</h1>
+<p>Location of all bicycle stations</p>
+<img id="..." src="Images/Vélo'V.jpg" width="500" height="700">
+<p>To purchase a card or other, please click on the button below</p>
+<button type="button" class="btn btn-secondary"><a href="https://velov.grandlyon.com/fr/home" target="_blank" style="font-family: 'Trebuchet MS'; color: #FFFFFF ;">Lien vers le PDF</a></button>
+
+<div id="FormTransport">
+<h1>Trotinette Libre-Service</h1>
+<p>Les trottinettes libre-service sont disposées un peux partout dans Lyon, il vous suffit juste d'avoir le logiciel <a href="https://ridedott.com/fr" target="_blank">Dott</a> et <a href="https://www.tier.app/fr/" target="_blank">Tier</a> pour les localiser</p>
+</div>
+<div style="float:right;"><img src="img/captcha petit.jpg" class="imageflottante" alt="..."></div>
+
+</center>
 <footer class="bg-light text-center text-white">
   <!-- Grid container -->
     <button class="btn btn-primary" type="button">
@@ -122,7 +107,8 @@
   </div>
   <!-- Copyright -->
 </footer>
-	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js"></script>
 	<script src="js/bootstrap.bundle.min.js"></script>
-	</body>
+    </body>
 </html>
