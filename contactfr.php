@@ -13,9 +13,9 @@
 </head>
 
 <header>
-    <div id="bannière1">
+    <!-- <div id="bannière1">
     <img id="bannière1" src="Images/banniere1.jpg" class="img-top">
-   </div>
+   </div> -->
         <div>
             <ul>
                 <li><a href="accueilfr.php">Accueil</a></li>
