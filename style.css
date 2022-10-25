@@ -153,12 +153,6 @@ header div ul li:hover ul li{
 
 }
 
-#test{
-	position: absolute;
-	top:170px ;
-	left:1440px;
-}
-
 #france{
 	position: absolute;
 	top:168px ;
@@ -481,6 +475,12 @@ header div ul li:hover ul li{
 }
 
 #imgen{width: 35px;}
+
+#test{
+	position: absolute;
+	top: 107px;
+	left:1435px;
+}
 
 /* NAVBAR FARES */
 
