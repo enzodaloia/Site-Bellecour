@@ -543,8 +543,8 @@ margin-left: 30px;
     padding: 1px;
     background-color: rgb(255, 255, 255);
     border: 2px solid rgb(161, 161, 161);
-    width: 20%;
-    min-width: 10%;
+    width: 30%;
+    min-width: 30%;
     border-radius: 5px 5px;
     font-family: Arial;
     color: black;
@@ -555,3 +555,10 @@ margin-left: 30px;
 	margin-right: 55px;
 }
 
+body {
+	background: #000 url(texture.png) repeat center center;
+  }
+  #Wrapper {
+	background: url(Images/banniere1.png) no-repeat center top;
+  }
+  
