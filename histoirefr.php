@@ -54,7 +54,7 @@
 <u><h1> La Place Bellecour </h1></u>
 </div>
 
-<div id="textehistvj">
+<div id="textehistvj" class="container-fluid">
 <article>
 
 <p>La place Bellecour est la plus grande place de Lyon (62 000 m²), la cinquième plus grande <br>
@@ -84,7 +84,7 @@
 <article>
 <center><strong><h1> Localisation et accès </h1></strong></center>
 </div>
-<div id="textehistvj">
+<div id="textehistvj" class="container-fluid">
     <p>
     Cette place est aujourd'hui située dans le deuxième arrondissement de la ville sur la presqu'île, entre Saône et Rhône.<br>
     De la place Bellecour partent les trois axes routiers principaux de la Presqu'île de Lyon, le quartier des Terreaux au nord et le quartier Perrache au sud dont deux rues piétonnes :<br>
@@ -120,7 +120,7 @@ Le quartier du Vieux Lyon et la cathédrale Saint-Jean sont à l'ouest, de l'aut
 <div id="titrevjhist" class="container-fluid">
 <center><strong><h1>Nom de voie:</h1></strong></center>
 </div>
-<div id="textehistvj">
+<div id="textehistvj" class="container-fluid">
 <p>Les noms de lieux avec le mot "Bellecour" sont apparus pour la première fois au XIIe siècle. Les terres agricoles appartenant à l'archevêque s'appellent Bella Curtis ("Le beau jardin"). Au XVIe siècle,<br>
     ce qui n'était encore qu'un ranch s'appelait Pré de Belle Court. En 1715, elle devient place publique et prend le nom de Place Royale, puis Place Louis Legrand, en hommage à Louis XIV.<br>
 <br>
@@ -139,10 +139,10 @@ et logiquement plus tard elle devient la place Napoléon.<br>
 </pre></center>
 <br>
 <br>
-<div id="titrevjhist">
+<div id="titrevjhist" class="container-fluid">
 <center><strong><h1>Histoire</h1></strong></center>
 </div>
-<div id="textehistvj">
+<div id="textehistvj" class="container-fluid">
 <p>
 A l'époque gallo-romaine, Bellecour était une île ou presqu'île formée par des terres alluviales. <br>
 Le quartier connaît à l'époque une activité romaine, militaire et commerciale : on y retrouve Cannabe,<br>
@@ -154,7 +154,7 @@ Mais dans un procès sans fin, les héritiers de l'archevêque se sont affronté
 <br>
 </p>
 </div>
-<div id="textehistvjr">
+<div id="textehistvjr" class="container-fluid">
 En 1708, Louis XIV prend définitivement possession du site. La place Louis Legrand est ornée de statues en bronze représentant le roi, réalisées par Martin Desjardins.<br>
 La place est entourée de bâtiments dont les façades ont été conçues par le premier architecte du roi Robert de Corte. En 1658, Louis XIV ne visite qu'une seule fois Lyon dans sa jeunesse.<br>
 Depuis son installation à Versailles, le roi est présent en province, notamment à travers ses statues équestres.<br>
@@ -164,7 +164,7 @@ Lors de la restauration, la place est ornée d'une nouvelle statue de Louis XIV,
 En 1829, Lady Girard établit la célèbre buvette sur la place.<br>
 <br>
 </div>
-<div id="textehistvj">
+<div id="textehistvj" class="container-fluid">
 Les deux pavillons de la place ont été construits par Tony Desjardins en 1852.<br>
     A l'ouest, près du jardin d'enfants, avant de devenir les bureaux de l'office de tourisme "Le Rectangle",<br>
     se trouve une salle d'exposition appelée Maison de Lyon.<br>
