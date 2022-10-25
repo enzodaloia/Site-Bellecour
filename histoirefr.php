@@ -18,8 +18,8 @@
 <!--* En-tete avec baniere -->
 <header>
 
-<div>
-<img id="bannière1" src="Images/banniere1.jpg" class="img-top">
+
+<div id="bannière1">
 </div>
 
         <div id="ecrit" class="container-fluid">
