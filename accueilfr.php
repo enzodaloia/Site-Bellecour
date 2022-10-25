@@ -179,34 +179,75 @@
 
 						<!-- Footer -->
 
-<div id="footer"> 
+<footer class="text-center text-white" style="background-color: #f1f1f1;">
+  <!-- Grid container -->
+  <div class="container pt-4">
+    <!-- Section: Social media -->
+    <section class="mb-4">
+      <!-- Facebook -->
+      <a
+        class="btn btn-link btn-floating btn-lg text-dark m-1"
+        href="#!"
+        role="button"
+        data-mdb-ripple-color="dark"
+        ><i class="fab fa-facebook-f"></i
+      ></a>
 
-	<div id="image_gauche_footer">
-		<p>
-			<a href="https://mairie2.lyon.fr" target="_blank"><img src="logovilledelyon.png" height="40px"></a>
-		</p>
-	</div>
+      <!-- Twitter -->
+      <a
+        class="btn btn-link btn-floating btn-lg text-dark m-1"
+        href="#!"
+        role="button"
+        data-mdb-ripple-color="dark"
+        ><i class="fab fa-twitter"></i
+      ></a>
 
-	<div id="texte_milieu_footer">
-		<a>© (Copyright)</a>
-	</div>
+      <!-- Google -->
+      <a
+        class="btn btn-link btn-floating btn-lg text-dark m-1"
+        href="#!"
+        role="button"
+        data-mdb-ripple-color="dark"
+        ><i class="fab fa-google"></i
+      ></a>
 
-	<div id="image_droite_footer">
-		<a href="https://fr-fr.facebook.com/InstitutG4/" target="_blank"><img src="logofacebook.png" height="30" width="30">
+      <!-- Instagram -->
+      <a
+        class="btn btn-link btn-floating btn-lg text-dark m-1"
+        href="#!"
+        role="button"
+        data-mdb-ripple-color="dark"
+        ><i class="fab fa-instagram"></i
+      ><img src="Images/logoinstagram.webp" alt=""></a>
 
-		<a href="https://www.instagram.com/institut_g4/" target="_blank"><img src="logoinstagram.webp" height="30" width="30"></a>
-		
-		<a href="https://www.linkedin.com/school/institut-g4/" target="_blank">
-		<img src="logolinkedin.png" height="30" width="30"></a>
-	</div>
+      <!-- Linkedin -->
+      <a
+        class="btn btn-link btn-floating btn-lg text-dark m-1"
+        href="#!"
+        role="button"
+        data-mdb-ripple-color="dark"
+        ><i class="fab fa-linkedin"></i
+      ></a>
+      <!-- Github -->
+      <a
+        class="btn btn-link btn-floating btn-lg text-dark m-1"
+        href="#!"
+        role="button"
+        data-mdb-ripple-color="dark"
+        ><i class="fab fa-github"></i
+      ></a>
+    </section>
+    <!-- Section: Social media -->
+  </div>
+  <!-- Grid container -->
 
-</div>
-
-						<!-- Footer -->
-	</div>
-	</div>
-	</div>
-	<div style="float:right;"><img src="img/captcha petit.jpg" class="imageflottante" alt="..."></div>
+  <!-- Copyright -->
+  <div class="text-center text-dark p-3" style="background-color: rgba(0, 0, 0, 0.2);">
+    © 2020 Copyright:
+    <a class="text-dark" href="https://mdbootstrap.com/">MDBootstrap.com</a>
+  </div>
+  <!-- Copyright -->
+</footer>
 
 	<script src="js/bootstrap.bundle.min.js"></script>
 	</body>

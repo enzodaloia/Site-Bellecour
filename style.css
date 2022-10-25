@@ -442,15 +442,17 @@ header div ul li:hover ul li{
 	text-align: center;
 }
 
-#textemilieu {
+#texte_milieu_footer{
 	float: bottom;
 }
 
-#image_gauche {
+#image_gauche_footer{
 	float:left;
+	justify-content: space-around;
+    margin: 0 30px 0 0;
 }
 
-#image_droite {
+#image_droite_footer{
    float:right;
    justify-content: space-around;
    margin: 0 30px 0 0;
@@ -465,9 +467,6 @@ header div ul li:hover ul li{
 	position: right;
 }
 
-.container-fluid {
-	width: 80%;
-}
 
 .container{
 	display: flex;
@@ -480,7 +479,7 @@ header div ul li:hover ul li{
 
 button{
 	width: 200px;
-	height: 50px;
+	height: 65px;
 	margin: 10px;
 	border: none;
 	outline: none;
