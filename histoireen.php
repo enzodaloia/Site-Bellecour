@@ -18,19 +18,19 @@
    </div>
 
 <!-- <p><img src="Images/LogoBellecourOfficiel.png"></p> -->
-   <div id="ecrit">
+            <div>
 				<ul>
-					<li><a href="accueilfr.php">Home</a></li>
-					<li><a href="activitesfr.php">Activities</a>
+					<li><a href="accueilen.php">Home</a></li>
+					<li><a href="activitesen.php">Activities</a>
 					</li>
-					<li><a href="histoirefr.php">Story</a></li>
-					<li><a href="actualitesfr.php">News</a></li>
-                    <li><a href="contactfr.php">Contact</a></li>
-                    <li><a href="accesfr.php">Access</a>
-                        <ul>
-                            <li><a href="transportfr.php">Transport</a></li>
-                        </ul>
-                    </li>        
+					<li><a href="histoireen.php">Story</a></li>
+					<li><a href="actualitesen.php">News</a></li>
+                    <li><a href="contacten.php">Contact</a></li>
+                    <li><a href="accesen.php">Access</a>
+					<ul>
+							<li><a href="transporten.php">Transport</a></li>
+					</ul>
+					</li>
 				</ul>
 			</div>
 <div id="bannière2">    

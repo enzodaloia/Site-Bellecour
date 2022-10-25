@@ -20,7 +20,7 @@
    </div>
 
 
-        <div id="ecrit" class="container-fluid">
+          <div>
             <ul>
                 <li><a href="accueilfr.php">Accueil</a></li>
                 <li><a href="activitesfr.php">Activités</a>
@@ -29,9 +29,9 @@
                 <li><a href="actualitesfr.php">Actualités</a></li>
                 <li><a href="contactfr.php">Contact</a></li>
                 <li><a href="accesfr.php">Accès</a>
-                    <ul>
-                        <li><a href="transportfr.php">Transport</a></li>
-                    </ul>
+                <ul>
+                    <li><a href="transportfr.php">Transport</a></li>
+                </ul>
                 </li>
             </ul>
         </div>

@@ -16,7 +16,7 @@
 
 		<div id="bannière1">
 		</div>
-    <div id="ecrit">
+    <div>
 				<ul>
 					<li><a href="accueilen.php">Home</a></li>
 					<li><a href="activitesen.php">Activities</a>
@@ -30,7 +30,7 @@
 					</ul>
 					</li>
 				</ul>
-			</div>
+		</div>
 			
 		<div id="bannière2">
 	    </div>
@@ -121,7 +121,7 @@
 </div>
   <p>For any other information, please contact us at : 04 84 25 01 28</p>
   <p>or </p>
-  <button type="button" class="btn btn-secondary"><a href="http://projetg4bellecour.cf/contacten.php" style="font-family: 'Trebuchet MS'; color: #FFFFFF ;">Orienteering following Arnaud's disappearance</a></button>
+  <button type="button" class="btn btn-secondary"><a href="http://projetg4bellecour.cf/contacten.php" style="font-family: 'Trebuchet MS'; color: #FFFFFF ;">Redirection to our contact page</a></button>
 </center>
 
 </div>
