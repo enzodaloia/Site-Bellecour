@@ -55,10 +55,6 @@ header div{
 	margin: 0px;
 }
 
-#ban1 {
-	background-image: url(Images/banniere1.png);
-}
-
 header{
 	font-family: Arial;
 	min-width: 500px;
@@ -119,11 +115,6 @@ header div ul li ul li{
 
 header div ul li:hover ul li{
 	display: block;
-}
-
-#banniere1{
-	background-image: url(Images/banniere1.png);	
-	margin: 0px;
 }
 
 #bannière2{
