@@ -13,6 +13,7 @@
 </head>
 
 <header>
+<<<<<<< HEAD
     <div id="bannière1">
     <img id="bannière1" src="Images/banniere1.jpg" class="img-top">
    </div>
@@ -36,6 +37,35 @@
 	</div>
 </header>
   <body id="body">
+=======
+
+<img src="Images/banniere1.jpg" class="img-fluid" alt="...">
+
+
+		<div id=box1accueil>
+		<!-- <p><img src="Images/LogoBellecourOfficiel.png"></p> -->
+		</div>
+		</div>
+    <div id="ecrit">
+				<ul>
+					<li><a href="accueilfr.php">Accueil</a></li>
+					<li><a href="activitesfr.php">Activités</a>
+					</li>
+					<li><a href="histoirefr.php">Histoire</a></li>
+					<li><a href="actualitesfr.php">Actualités</a></li>
+                    <li><a href="contactfr.php">Contact</a></li>
+                    <li><a href="accesfr.php">Accès</a>
+                    <ul>
+						<li><a href="transportfr.php">Transport</a></li>
+					</ul>
+					</li>
+				</ul>
+			</div>
+		<div id="bannière2" class="container">  
+	    </div>
+	</header>
+    <body id="bodyvj">
+>>>>>>> 7894224006fa87e83769eb2af123e02030a0d21e
 	<div id="test">
 		<p>/</p>
 	</div>
