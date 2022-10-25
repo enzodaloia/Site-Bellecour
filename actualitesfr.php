@@ -10,11 +10,10 @@
     <link rel="stylesheet" type="text/css" href="screen.css" media="screen">
 <link rel="stylesheet" href="impression.css" type="text/css" media="print">
 </head>
+
+
 <header>
-
 <img src="Images/banniere1.jpg" class="img-fluid" alt="...">
-
-
 		<div id=box1accueil>
 		<!-- <p><img src="Images/LogoBellecourOfficiel.png"></p> -->
 		</div>
@@ -37,6 +36,8 @@
 		<div id="bannière2" class="container">  
 	    </div>
 	</header>
+
+  
     <body id="bodyvj">
 	<div id="test">
 		<p>/</p>
