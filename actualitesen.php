@@ -16,10 +16,7 @@
 <div id="bannière1">
     <img id="bannière1" src="Images/banniere1.jpg" class="img-top">
    </div>
-
-		<div id=box1accueil>
 		<!-- <p><img src="Images/LogoBellecourOfficiel.png"></p> -->
-		</div>
 		</div>
     <div id="ecrit">
 				<ul>
@@ -35,7 +32,7 @@
 					</ul>
 					</li>
 				</ul>
-			</div>
+			</div
 		<div id="bannière2">  
 	    </div>
 	</header>
@@ -48,7 +45,7 @@
 	<div id="france"><a href="actualitesfr.php"><p><img id="imgfr" src="Images/france.jpg"></p></a></div>
 	<div id="angleterre"><a href="actualitesen.php"><p><img id="imgen" src="Images/angleterre.jpg"></p></a></div>
 
-	<div id="titre">
+	<div id="titrevj">
        <center><h1>News</h1></center>
 </div>
 
@@ -124,9 +121,14 @@
       <a href="https://actu.fr/auvergne-rhone-alpes/lyon_69123/lyon-comment-le-quartier-de-la-part-dieu-et-ses-tours-sont-desormais-plonges-dans-le-noir_54572954.html" class="btn btn-Secondary">See more...</a>
     </div>
   </div>
-  </div>
 
-  <div style="float:right;"><img src="img/captcha petit.jpg" class="imageflottante" alt="..."></div>
+
+
+
+
+
+
+
 
     <script src="js/bootstrap.bundle.min.js"></script>
     </body>
