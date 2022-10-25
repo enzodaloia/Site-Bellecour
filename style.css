@@ -470,7 +470,7 @@ header div ul li:hover ul li{
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
-  }
+}
 
 @media screen and (max-width:1280px){
 	#bannière1{
@@ -599,11 +599,11 @@ margin-left: 30px;
 
 body {
 	background: #000 url(texture.png) repeat center center;
-  }
-  #Wrapper {
+}
+#Wrapper {
 	background: url(Images/banniere1.png) no-repeat center top;
-  }
-  
+}
+
 .card-container{
 	width: 100%;
 }
