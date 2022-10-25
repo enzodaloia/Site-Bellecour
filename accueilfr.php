@@ -78,7 +78,7 @@
 
 			<div class="content-2">
 				<br>
-				<img id="imageaccueil1" src="imageaccueil1.jpg" alt="" width="500" height="500">
+				<img src="Images/imageaccueil1.jpg" alt="" width="500" height="500">
 			</div>
 		</div>
 
