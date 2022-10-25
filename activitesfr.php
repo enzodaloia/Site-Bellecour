@@ -40,7 +40,6 @@
   <div id="FormActivité">
 
 <body id="body">
-<h1>Activités</h1>
     <body id="body">
     <h1>Activités</h1>
 <div class="container-fluid">
@@ -101,7 +100,7 @@
 </div>
 <div class="col">
 <div class="card h-100">
-  <img src="Images/enquête modif.jpg" class="card-img-bot" alt="...">
+  <img src="Images/cours d'orientation.jpg" class="card-img-bot" alt="...">
   <div class="card-body">
     <h4 class="card-title">Courses d'orientation</h4>
     <p class="card-texte">Bellecour : Courses d'orientation suite à la disparition de Arnaud</p>
