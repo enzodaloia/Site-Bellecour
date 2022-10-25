@@ -518,3 +518,7 @@ text-decoration:none;
 position: absolute;
 top: 2300px;
 }
+
+#where, #imgvj, #bcvj {
+	max-width: 650px;
+}
