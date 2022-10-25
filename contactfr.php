@@ -13,26 +13,24 @@
 </head>
 
 <header>
-<div id="bannière1">
+    <div id="bannière1">
     <img id="bannière1" src="Images/banniere1.jpg" class="img-top">
    </div>
-		<div id="bannière1">
-		</div>
-        <nav>
-            <ul class="links">
-                <li><a href="#home">Home</a></li>
-                <li><a href="#about">About</a></li>
-                <li><a href="#work">Work</a></li>
-                <li><a href="#projects">Projects</a></li>
-                <li><a href="#contact">Contact</a></li>
+        <div id="test1">
+            <ul>
+                <li><a href="accueilfr.php">Accueil</a></li>
+                <li><a href="activitesfr.php">Activités</a>
+                </li>
+                <li><a href="histoirefr.php">Histoire</a></li>
+                <li><a href="actualitesfr.php">Actualités</a></li>
+                <li><a href="contactfr.php">Contact</a></li>
+                <li><a href="accesfr.php">Accès</a>
+                <ul>
+                    <li><a href="transportfr.php">Transport</a></li>
+                </ul>
+                </li>
             </ul>
-            <label for="nav-toggle" class="icon-burger">
-                <div class="line"></div>
-                <div class="line"></div>
-                <div class="line"></div>
-            </label>
-        </nav>
-
+        </div>
 		</div>
 		<div id="bannière2">  
 	</div>
@@ -89,7 +87,7 @@
 
     <div id="footer">
 		<p>Bellecour | projet Pédagogique</p>
-	</div>
+	</div>²
     <script src="js/bootstrap.bundle.min.js"></script>
     </body>
 </html>
