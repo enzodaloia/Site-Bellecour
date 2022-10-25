@@ -20,7 +20,8 @@
 
 
 <div id="banniere1">
-</div>
+   </div>
+
 
         <div id="ecrit" class="container-fluid">
             <ul>

@@ -18,16 +18,16 @@
 
 <!--* En-tete avec baniere -->
 <header>
-<div id="bannière1">
-    <img id="bannière1" src="Images/banniere1.jpg" class="img-top">
+<div id="banniere1">
    </div>
+
 <!-- <p><img src="Images/LogoBellecourOfficiel.png"></p> -->
    <div id="ecrit">
 				<ul>
 					<li><a href="accueilfr.php">Home</a></li>
 					<li><a href="activitesfr.php">Activities</a>
 					</li>
-					<li><a href="histoirefr.php">Stoy</a></li>
+					<li><a href="histoirefr.php">Story</a></li>
 					<li><a href="actualitesfr.php">News</a></li>
                     <li><a href="contactfr.php">Contact</a></li>
                     <li><a href="accesfr.php">Access</a>
@@ -50,10 +50,10 @@
 	<div id="angleterre"><a href="histoireen.php"><p><img id="imgen" src="Images/angleterre.jpg"></p></a></div>
 
 <!--* texte + titre-->
-<div id="titre" class="container-fluid">
+<div id="titrevj" class="container-fluid">
 <h1> The Place Bellecour </h1>
 
-
+<div id="textehistvj" class="container-fluid">
 <article>
     <center>
     <p>Place Bellecour is the largest square in Lyon (62,000 m²) and the fifth largest in France.<br>
@@ -65,18 +65,25 @@
     </center>
     </article>
 </p>
-
 </div>
 
 <!--* Image photo statue -->
 
-
-
-<div id="Localisation" class="container-fluid">
+<img id="imgvj" src="Images/couleur.jpg" class="img-fluid">
+<br>
+<br>
+<br>
+<center><pre>
+» ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ «
+</pre></center>
+<br>
+<br>
+<div id="titrevjhist" class="container-fluid">
     <center><strong><h1> Localisation and access </h1></strong></center>
     <article>
-
-    <center><p id="texte">This square is now located in the second arrondissement of the city on the peninsula, between the Saône and the Rhône.<br>
+</div>
+    <div id="textehistvj" class="container-fluid">
+    <center><p>This square is now located in the second arrondissement of the city on the peninsula, between the Saône and the Rhône.<br>
 	From Place Bellecour, the three main roads of the Presqu'île de Lyon, the Terreaux district to the north and the Perrache district to the south start, including two pedestrian streets:</p>
     <ul>
         <li>rue de la République, which leads to the Place de la Comédie between the Town Hall and the Opera House
@@ -97,12 +104,22 @@
 </p></center>
 </article>
 </div>
-<div id="">
+
 <img src="Images/where.jgp" class="card-img-top">
 </div>
 <br>
 <br>
+<br>
+<center><pre>
+» ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ «
+</pre></center>
+<br>
+<br>
+<div id="titrevjhist" class="container-fluid">
     <center><strong><h1>lane names</h1></strong></center>
+</div>
+<div id="textehistvj" class="container-fluid">
+
     <center><p>
     In Gallo-Roman times, Bellecour was an island or peninsula formed by alluvial land.<br>
     The district knows at the time a Roman activity, military and commercial: one finds there Cannabe,<br>
@@ -112,6 +129,10 @@
     In 1562, the Baron des Adrets attacked Lyon, setting up his armed men on what was then "le pré de Belle-court"<br> 
     .In 1604, Henry IV urged the town council to acquire the meadow to create a public square.<br>
      But in a never-ending trial, the archbishop's heirs clashed.<br>
+<br>
+</p>
+</div>
+<div id="textehistvjr" class="container-fluid">
      In 1708, Louis XIV took definitive possession of the site. The Place Louis Legrand is adorned with bronze statues of the king by Martin Desjardins.<br>
     The square is surrounded by buildings whose facades were designed by the king's first architect Robert de Corte. In 1658, Louis XIV visited Lyon only once in his youth.<br>
     Since his installation in Versailles, the king has been present in the provinces, notably through his equestrian statues.<br>
@@ -119,10 +140,22 @@
     On 21 June 1800, Bonaparte passed through Lyon after his victory at Marengo and laid the first stone of the new building.<br>
     During the restoration, the square was adorned with a new statue of Louis XIV, inaugurated on 6 November 1825, by the sculptor François-Frédéric Lemot.<br>
     In 1829, Lady Girard established the famous buvette on the square.<br>
+    <br>
+</div>
+<div id="textehistvj" class="container-fluid">
     The two pavilions on the square were built by Tony Desjardins in 1852.<br>
     To the west, near the kindergarten, before becoming the offices of the tourist office "Le Rectangle",<br>
-     is an exhibition hall called Maison de Lyon.<br>
-</p></center>
+     is an exhibition hall called Maison de Lyon.<br><br>
+</p>
+</div>
+
+<img id="bcvj" src="Images/bcvj.png" class="img-fluid">
+<br>
+<br>
+<br>
+<center><pre>
+» ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ «
+</pre></center>
 
 <script src="js/bootstrap.bundle.min.js"></script>
 </body>

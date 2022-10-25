@@ -59,7 +59,7 @@ header{
 	font-family: Arial;
 	min-width: 500px;
 	width:100%;
-	height:180px;
+	height:150px;
 	position:relative;
 	background-color: bisque ;
 }
@@ -437,7 +437,6 @@ header div ul li:hover ul li{
 
 #carouselExampleFade {
 	margin: 20px 50px 20px 50px;
-	width: 100%;
 }
 
 #actualiteaccueil {
@@ -458,17 +457,59 @@ header div ul li:hover ul li{
 	margin-right: 150px;
 }
 
-#banniere1{
-	text-align:center;
-	padding-top:0px;
+<<<<<<< HEAD
+#bannière1 {
+	text-align: center;
+	padding-top: 0px;
 	display: flex;
-	justify-content:center;
+	justify-content: center;
 	align-items: center;
 	background-color: grey;
 	height: 152px;
-	width:100%;
-	background-image: url(banniere1.png);
+	width: 100%;
+	background-image: url(./Images/banniere1.png);
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+  }
+
+@media screen and (max-width:1280px){
+	#bannière1{
+		height: 90px;
+	}
+	header div ul{
+		left: 15%;
+	}
+=======
+#banniere1{
+	text-align: center;
+    padding-top: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: grey;
+    height: 152px;
+    width: 100%;
+    background-image: url(./Images/banniere1.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
+>>>>>>> c9b88f306e486ec1df9b14cf9cd390f47001e6ae
+}
+
+@media screen and (max-width:576px){
+	#bannière1{
+		height: 59px;
+	}
+	header div ul{
+		left: 10%;
+	}
+
+}
+
+
+
 
 #france{
 	position: absolute;
@@ -529,6 +570,8 @@ margin-left: 30px;
     align-content: center;
     align-items: center;
 	box-shadow:8px 8px 10px 0 rgba(0,0,0,0.5);
+	max-width: 50%;
+	min-width: none;
 
 }
 
@@ -573,6 +616,7 @@ margin-left: 30px;
 	margin-right: 55px;
 }
 
+<<<<<<< HEAD
 body {
 	background: #000 url(texture.png) repeat center center;
   }
@@ -580,3 +624,9 @@ body {
 	background: url(Images/banniere1.png) no-repeat center top;
   }
   
+.card-container{
+	width: 100%;
+}
+=======
+
+>>>>>>> c9b88f306e486ec1df9b14cf9cd390f47001e6ae
