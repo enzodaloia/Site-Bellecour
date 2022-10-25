@@ -149,9 +149,8 @@ header div ul li:hover ul li{
 	margin-right: 10px;
 }
 
-.titre { 
-	margin-top:100px;
-	margin-left:10px;
+#titretest{ 
+	padding-top:300px;
 }
 
 .texte{
@@ -550,3 +549,6 @@ top: 2300px;
 	width: 650px;
 }
 
+#testactu{
+	padding-top: 150px;
+}

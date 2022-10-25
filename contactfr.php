@@ -16,8 +16,7 @@
     <div id="bannière1">
     <img id="bannière1" src="Images/banniere1.jpg" class="img-top">
    </div>
-<<<<<<< HEAD
-        <div id="test1">
+        <div>
             <ul>
                 <li><a href="accueilfr.php">Accueil</a></li>
                 <li><a href="activitesfr.php">Activités</a>
@@ -30,16 +29,6 @@
                     <li><a href="transportfr.php">Transport</a></li>
                 </ul>
                 </li>
-=======
-
-        <nav>
-            <ul class="links">
-                <li><a href="#home">Home</a></li>
-                <li><a href="#about">About</a></li>
-                <li><a href="#work">Work</a></li>
-                <li><a href="#projects">Projects</a></li>
-                <li><a href="#contact">Contact</a></li>
->>>>>>> 677be3173761156348684d44ccd8bf78e19dab30
             </ul>
         </div>
 		</div>
@@ -98,7 +87,7 @@
 
     <div id="footer">
 		<p>Bellecour | projet Pédagogique</p>
-	</div>²
+	</div>
     <script src="js/bootstrap.bundle.min.js"></script>
     </body>
 </html>
