@@ -15,7 +15,7 @@
 </head>
 
 <header>
-<div id="bannière1"></div>
+<div id="banniere1"></div>
 
 
         <div>
