@@ -192,21 +192,15 @@
 	</div>
 
 	<div id="image_droite_footer">
-		<a href="https://fr-fr.facebook.com/InstitutG4/" target="_blank"><img src="logofacebook.png" height="30" width="30">
+		<a href="https://fr-fr.facebook.com/InstitutG4/" target="_blank"><img src="Images/logofacebook.png" height="30" width="30">
 
-		<a href="https://www.instagram.com/institut_g4/" target="_blank"><img src="logoinstagram.webp" height="30" width="30"></a>
+		<a href="https://www.instagram.com/institut_g4/" target="_blank"><img src="Images/logoinstagram.webp" height="30" width="30"></a>
 		
 		<a href="https://www.linkedin.com/school/institut-g4/" target="_blank">
-		<img src="logolinkedin.png" height="30" width="30"></a>
+		<img src="Images/logolinkedin.png" height="30" width="30"></a>
 	</div>
 
 </div>
-
-						<!-- Footer -->
-	</div>
-	</div>
-	</div>
-	<div style="float:right;"><img src="img/captcha petit.jpg" class="imageflottante" alt="..."></div>
 
 	<script src="js/bootstrap.bundle.min.js"></script>
 	</body>
