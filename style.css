@@ -125,8 +125,9 @@ header div ul li:hover ul li{
 	display: block;
 }
 
-#banniere1{
-	background-image: url(Images/banniere1.png)
+#bannière1{
+	background-image: url(Images/banniere1.png);	
+	margin: 0px;
 }
 
 #bannière2{
