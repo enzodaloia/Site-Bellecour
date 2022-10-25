@@ -7,7 +7,9 @@
     <link rel="stylesheet" href="style.css" type="text/css" >
     <title>Accueil</title>
     <link href="css/bootstrap.min.css" rel="stylesheet">
-	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.1.0/css/all.css">
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- font asesome 6 cdn -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.1.0/css/all.css">
 </head>
 
 
@@ -182,32 +184,24 @@
 
 						<footer class="bg-light text-center text-white">
   <!-- Grid container -->
-  <div class="container">
-    <!-- Section: Social media -->
-    <section class="mb-12">
-	<button class="btn bg-danger bg-gradient" type="button">
-      <span><i class="fa-brands fa-youtube text-white"></i></span> <span class="text-white">Youtube</span>
+    <button class="btn btn-danger" type="button">
+      <i class="fa-brands fa-youtube"></i>
     </button>
-    <button class="btn bg-info bg-gradient" type="button">
-      <span><i class="fa-brands fa-twitter text-white"></i></span><span class="text-info text-white">Twitter</span>
+    <button class="btn btn-info" type="button">
+      <i class="fa-brands fa-twitter text-white"></i>
     </button>
-    <button class="btn bg-primary bg-gradient" type="button">
-      <span> <i class="fa-brands fa-facebook text-white"></i></span> <span class="text-white">Facebook</span>
+    <button class="btn btn-primary" type="button">
+      <i class="fa-brands fa-facebook"></i>
     </button>
-    <button class="btn bg-danger bg-gradient" type="button">
-      <span> <i class="fa-brands fa-instagram text-white"></i> </span> <span class="text-white">instagram</span>
+    <button class="btn btn-danger" type="button">
+      <i class="fa-brands fa-instagram"></i>
     </button>
-    <button class="btn bg-success bg-gradient" type="button">
-      <span> <i class="fa-brands fa-whatsapp text-white"></i> </span> <span class="text-white">Whatsapp</span>
+    <button class="btn btn-success" type="button">
+      <i class="fa-brands fa-whatsapp"></i>
     </button>
-    <button class="btn bg-dark bg-gradient" type="button">
-      <span><i class="fa-brands fa-github text-white"></i></span> <span class="text-white">GitHub</span>
+    <button class="btn btn-dark" type="button">
+      <i class="fa-brands fa-github"></i>
     </button>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js"></script>
-
-    </section>
-    <!-- Section: Social media -->
-  </div>
   <!-- Grid container -->
 
   <!-- Copyright -->
@@ -216,7 +210,7 @@
   </div>
   <!-- Copyright -->
 </footer>
-
+	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js"></script>
 	<script src="js/bootstrap.bundle.min.js"></script>
 	</body>
 </html>
