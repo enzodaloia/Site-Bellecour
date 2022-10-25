@@ -17,6 +17,7 @@
 
 <header>
 <div id="banniere1">
+	<p>ça marche pas</p>
    </div>
 
 			<div>

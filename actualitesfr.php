@@ -14,7 +14,7 @@
 <header>
 
 
-<img src="Images/banniere1.jpg" class="img-fluid" alt="...">
+<img id="ban1" src="Images/banniere1.jpg" class="img-fluid" alt="...">
 		<div id=box1accueil>
 		<!-- <p><img src="Images/LogoBellecourOfficiel.png"></p> -->
 		</div>
