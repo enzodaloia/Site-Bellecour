@@ -65,13 +65,12 @@
 
   
     <body id="bodyvj">
->>>>>>> 7894224006fa87e83769eb2af123e02030a0d21e
 	<div id="test">
 		<p>/</p>
 	</div>
 	<div id="france"><a href="actualitesfr.php"><p><img id="imgfr" src="Images/france.jpg"></p></a></div>
 	<div id="angleterre"><a href="actualitesen.php"><p><img id="imgen" src="Images/angleterre.jpg"></p></a></div>
-      <div id="titretest">
+      <div id="titrevj">
           <h1>Actualités</h1>
       </div>
 

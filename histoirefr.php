@@ -152,6 +152,33 @@ La place de la Charité a ensuite été agrandie pour devenir l'actuelle place A
 
 <img id="bcvj" src="Images/bc.png" class="img-fluid">
 
+<div class="accordion" id="accordion1">
+  <div class="accordion-item">
+    <h2 class="accordion-header" id="headingOne">
+      <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+        Statue Équestre de Louis XIV
+      </button>
+    </h2>
+    <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+      <div class="accordion-body">
+        <strong>La Statue Équestre de Louis XIV</strong>Le Monument à Louis XIV est une statue équestre en bronze de Louis XIV réalisée par le sculpteur François-Frédéric Lemot, située place Bellecour à Lyon, construite en 1825. Elle est classée Monument Historique depuis le 25 mars 2016.
+      </div>
+    </div>
+  </div>
+  <div class="accordion-item">
+    <h2 class="accordion-header" id="headingTwo">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+        La Place Bellecour
+      </button>
+    </h2>
+    <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+      <div class="accordion-body">
+        <strong>Plus  d'information sur la place Bellecour ici</strong> <li><a href="https://www.lyon-france.com/je-decouvre-lyon/sites-et-monuments/Sites-et-monuments-remarquables/La-Place-Bellecour">Office du tourisme</a></li>
+      </div>
+    </div>
+  </div>
+</div>
+
 </p></center>
 </ul>
 </article>

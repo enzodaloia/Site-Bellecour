@@ -535,6 +535,8 @@ top: 2300px;
     justify-content: center;
     align-content: center;
     align-items: center;
+	box-shadow:8px 8px 10px 0 rgba(0,0,0,0.5);
+
 }
 
 #titrevj {
