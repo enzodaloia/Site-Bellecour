@@ -448,6 +448,8 @@ header div ul li:hover ul li{
 
 #image_gauche_footer{
 	float:left;
+	justify-content: space-around;
+    margin: 0 30px 0 0;
 }
 
 #image_droite_footer{
@@ -532,8 +534,21 @@ top: 2300px;
     justify-content: center;
     align-content: center;
     align-items: center;
+	box-shadow:8px 8px 10px 0 rgba(0,0,0,0.5);
+
 }
 
 #titrevj {
 	text-align: center;
+}
+
+#headingOne, #headingTwoo {
+	margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+	box-shadow:8px 8px 10px 0 rgba(0,0,0,0.5);
+
+
 }
