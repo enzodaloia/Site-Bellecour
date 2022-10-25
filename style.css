@@ -467,7 +467,6 @@ header div ul li:hover ul li{
 	height: 152px;
 	width:100%;
 	background-image: url(banniere1.jpg);
-	background-repeat: no-repeat;
 }
 
 @media screen and (max-width:1280px){
