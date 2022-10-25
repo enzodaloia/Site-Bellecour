@@ -42,7 +42,6 @@
 <body id="body">
     <center>
     <h1>Activités</h1>
-    <br>
 <div class="container-fluid">
 
 <div id="test">
@@ -125,7 +124,7 @@
 <div id="FormTransport">
 <p>Pour tout autre information, merci de nous contacter au : 04 84 25 01 28</p>
 <p>Ou alors </p>
-<button type="button" class="btn btn-secondary"><a href="http://projetg4bellecour.cf/contactfr.php" style="font-family: 'Trebuchet MS'; color: #FFFFFF ;">Redirection vers notre page de contact</a></button>
+<button type="button" class="btn btn-secondary" a href="http://projetg4bellecour.cf/contactfr.php" style="font-family: 'Trebuchet MS'; color: #FFFFFF ;">Redirection vers notre page de contact</a></button>
 </center>
 </div>
 </div>
