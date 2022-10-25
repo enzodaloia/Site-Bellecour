@@ -11,8 +11,9 @@
 <link rel="stylesheet" href="impression.css" type="text/css" media="print">
 </head>
 <header>
-<div id="bannière1">
+<div id="banniere1">
    </div>
+
 
 		<div>
 				<ul>

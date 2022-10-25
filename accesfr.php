@@ -16,10 +16,19 @@
 						<!-- Navbar -->
 
 <header>
+<<<<<<< HEAD
 	<div id="bannière">
    </div>
 
 			<div>
+=======
+<div id="banniere1">
+   </div>
+
+   
+
+			<div id="ecrit">
+>>>>>>> c9b88f306e486ec1df9b14cf9cd390f47001e6ae
 				<ul>
 					<li><a href="accueilfr.php">Accueil</a></li>
 					<li><a href="activitesfr.php">Activités</a>

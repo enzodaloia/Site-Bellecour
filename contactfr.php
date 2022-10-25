@@ -13,7 +13,13 @@
 </head>
 
 <header>
+<<<<<<< HEAD
 <div id="bannière1"></div>
+=======
+<div id="banniere1">
+   </div>
+
+>>>>>>> c9b88f306e486ec1df9b14cf9cd390f47001e6ae
         <div>
             <ul>
                 <li><a href="accueilfr.php">Accueil</a></li>

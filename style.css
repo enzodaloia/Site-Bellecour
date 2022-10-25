@@ -437,7 +437,6 @@ header div ul li:hover ul li{
 
 #carouselExampleFade {
 	margin: 20px 50px 20px 50px;
-	width: 100%;
 }
 
 /* CSS PAGE D'ACCUEIL */
@@ -449,6 +448,7 @@ header div ul li:hover ul li{
 	margin-right: 150px;
 }
 
+<<<<<<< HEAD
 #bannière1 {
 	text-align: center;
 	padding-top: 0px;
@@ -471,6 +471,22 @@ header div ul li:hover ul li{
 	header div ul{
 		left: 15%;
 	}
+=======
+#banniere1{
+	text-align: center;
+    padding-top: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: grey;
+    height: 152px;
+    width: 100%;
+    background-image: url(./Images/banniere1.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+>>>>>>> c9b88f306e486ec1df9b14cf9cd390f47001e6ae
 }
 
 @media screen and (max-width:576px){
@@ -545,6 +561,8 @@ margin-left: 30px;
     align-content: center;
     align-items: center;
 	box-shadow:8px 8px 10px 0 rgba(0,0,0,0.5);
+	max-width: 50%;
+	min-width: none;
 
 }
 
@@ -589,6 +607,7 @@ margin-left: 30px;
 	margin-right: 55px;
 }
 
+<<<<<<< HEAD
 body {
 	background: #000 url(texture.png) repeat center center;
   }
@@ -599,3 +618,6 @@ body {
 .card-container{
 	width: 100%;
 }
+=======
+
+>>>>>>> c9b88f306e486ec1df9b14cf9cd390f47001e6ae
