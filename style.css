@@ -121,9 +121,15 @@ header div ul li:hover ul li{
 	display: block;
 }
 
+<<<<<<< HEAD
 #banniere1{
 	background-image: url("Images/banniere1.png");
 	width: 1524px;
+=======
+#bannière1{
+	background-image: url(Images/banniere1.png);	
+	margin: 0px;
+>>>>>>> d69c8fb98895e07b59c1ccc210757f5e603032e1
 }
 
 #bannière2{
@@ -167,20 +173,6 @@ header div ul li:hover ul li{
 	top:170px ;
 	left:1440px;
 }
-
-#france{
-	position: absolute;
-	top:168px ;
-	left:1380px;
-}
-#imgfr{width: 30px;}
-
-#angleterre{
-	position: absolute;
-	top:168px ;
-	left:1480px;
-}
-#imgen{width: 35px;}
 
 #card1 {
 	box-shadow: 0 0 5px black;
@@ -431,35 +423,6 @@ header div ul li:hover ul li{
 	padding-bottom: 100px;
 }
 
-/* FOOTER FARES */
-
-#footer{
-	width:100%;
-	height:60px;
-	background:#919191;
-	border-top:5px solid #919191; 
-	text-align: center;
-}
-
-#texte_milieu_footer{
-	float: bottom;
-}
-
-#image_gauche_footer{
-	float:left;
-	justify-content: space-around;
-    margin: 0 30px 0 0;
-}
-
-#image_droite_footer{
-   float:right;
-   justify-content: space-around;
-   margin: 0 30px 0 0;
-}
-
-/* FOOTER FARES */
-
-
 /* CSS PAGE D'ACCUEIL */
 
 #imageaccueil1 {
@@ -475,6 +438,50 @@ header div ul li:hover ul li{
 #carouselExampleFade {
 	margin: 20px 50px 20px 50px;
 }
+
+#actualiteaccueil {
+	margin: 0 40px 0 40px;
+}
+
+/* CSS PAGE D'ACCUEIL */
+
+/* NAVBAR FARES */
+
+.navbar {
+	margin-top: 46px;
+	margin-right: 150px;
+}
+
+#banniere1{
+	text-align:center;
+	padding-top:0px;
+	display: flex;
+	justify-content:center;
+	align-items: center;
+	background-color: grey;
+	height: 152px;
+	width:100%;
+	background-image: url(banniere1.jpg);
+}
+
+#france{
+	position: absolute;
+	top:105px ;
+	left:1380px;
+}
+
+#imgfr{width: 30px;}
+
+#angleterre{
+	position: absolute;
+	top: 105px;
+	left:1480px;
+}
+
+
+#imgen{width: 35px;}
+
+/* NAVBAR FARES */
 
 #photoloc {
 	box-shadow: 0 0 5px black;
