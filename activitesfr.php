@@ -39,16 +39,10 @@
 	</header>
   <div id="FormActivité">
 
-<<<<<<< HEAD
 <body id="body">
-<h1>Activités</h1>
-=======
-    <body id="body">
+    <center>
     <h1>Activités</h1>
-    <p>Pour tout autre information, merci de nous contacter au : </p>
-    <p>04 84 25 01 28</p>
-    <p>Ou alors dirigez-vous sur notre page de <a href="http://projetg4bellecour.cf/contactfr.php">contact</a></p>
->>>>>>> 158d65e752852aec0a32b411906ad8f3c8ebee75
+    <br>
 <div class="container-fluid">
 
 <div id="test">
@@ -63,7 +57,7 @@
 <div class="row row-cols-1 row-cols-md-3 g-4">
 <div class="col" width="447" height="300">
 <div class="card h-100">
-  <img src="img/dessins bus.jpg" class="card-img-bot" alt="..."></img>
+  <img src="Images/dessins bus.jpg" class="card-img-bot" alt="..."></img>
   <div class="card-body">
     <h4 class="card-title">Visite Bus</h4>
     <p class="card-texte">Bellecour : visite en bus à arrêts multiples</p>
@@ -74,7 +68,7 @@
 </div>
 <div class="col">
 <div class="card h-100">
-  <img src="img/dessins vélo.jpg" class="card-img-bot" alt="..."></img>
+  <img src="Images/dessins vélo.jpg" class="card-img-bot" alt="..."></img>
   <div class="card-body">
     <h4 class="card-title">Visite vélo</h4>
     <p class="card-texte">Bellecour : Visite de 2h à vélo électrique avec guide local</p>
@@ -85,7 +79,7 @@
 </div>
 <div class="col">
 <div class="card h-100">
-  <img src="img/dessins vélo.jpg" class="card-img-bot" alt="..."></img>
+  <img src="Images/dessins vélo.jpg" class="card-img-bot" alt="..."></img>
   <div class="card-body">
     <h4 class="card-title">Vélo</h4>
     <p class="card-texte">Bellecour : 3h en vélo électrique avec pause dégustation</p>
@@ -96,7 +90,7 @@
 </div>
 <div class="col">
 <div class="card h-100">
-  <img src="img/segway dessin.jpg" class="card-img-bot" alt="...">
+  <img src="Images/segway dessin.jpg" class="card-img-bot" alt="...">
   <div class="card-body">
     <h4 class="card-title">Visite Segway</h4>
     <p class="card-texte">Bellecour : visite du quartier en Segway avec un guild local</p>
@@ -107,7 +101,7 @@
 </div>
 <div class="col">
 <div class="card h-100">
-  <img src="img/enquête modif.jpg" class="card-img-bot" alt="...">
+  <img src="Images/cours d'orientation.jpg" class="card-img-bot" alt="...">
   <div class="card-body">
     <h4 class="card-title">Courses d'orientation</h4>
     <p class="card-texte">Bellecour : Courses d'orientation suite à la disparition de Arnaud</p>
@@ -118,7 +112,7 @@
 </div>
 <div class="col">
 <div class="card h-100">
-  <img src="img/dessins histoire.jpg" class="card-img-bot" alt="...">
+  <img src="Images/dessins histoire.jpg" class="card-img-bot" alt="...">
   <div class="card-body">
     <h4 class="card-title">Histoire</h4>
     <p class="card-texte">Bellecour : Explication de l'histoire du quartier de Bellecour et autres</p>
@@ -129,17 +123,16 @@
 </div>
 </div>
 <div id="FormTransport">
-<center>
 <p>Pour tout autre information, merci de nous contacter au : 04 84 25 01 28</p>
 <p>Ou alors </p>
-<button type="button" class="btn btn-secondary"><a href="http://projetg4bellecour.cf/contactfr.php" style="font-family: 'Trebuchet MS'; color: #FFFFFF ;"target="_blank">Redirection vers notre page de contact</a></button>
+<button type="button" class="btn btn-secondary"><a href="http://projetg4bellecour.cf/contactfr.php" style="font-family: 'Trebuchet MS'; color: #FFFFFF ;">Redirection vers notre page de contact</a></button>
 </center>
 </div>
 </div>
 </div>
 </div>
 <div id="FormEspace">
-<div style="float:right;"><img src="img/captcha petit.jpg" class="imageflottante" alt="..."></div>
+<div style="float:right;"><img src="Images/captcha petit.jpg" class="imageflottante" alt="..."></div>
 <script src="js/bootstrap.bundle.min.js"></script>
 </body>
 </html>

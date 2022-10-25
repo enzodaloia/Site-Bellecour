@@ -35,6 +35,7 @@
     <body id="body">
 
 	<div id="test">
+	<div id="bouton">
 		<p>/</p>
 	</div>
 	<div id="france"><a href="transportfr.php"><p><img id="imgfr" src="img/france.jpg"></p></a></div>
@@ -70,7 +71,7 @@
 <img border="0" src="img/test.gif">
 </center>
 <div style="float:right;"><img src="img/captcha petit.jpg" class="imageflottante" alt="..."></div>
-
+</div>
     <script src="js/bootstrap.bundle.min.js"></script>
     </body>
 </html>
