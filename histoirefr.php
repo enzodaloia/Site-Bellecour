@@ -74,9 +74,10 @@
 
 
 <!--* Image photo statue -->
-<div id="stastuvj">
-    <img id="imgvj" src="Images/couleur.jpg" class="img-fluid">
-</div>
+
+<img id="imgvj" src="Images/couleur.jpg">
+
+
 
 
 <div id="Localisationvj" class="container-fluid">
@@ -102,13 +103,13 @@ Le quartier du Vieux Lyon et la cathédrale Saint-Jean sont à l'ouest, de l'aut
 </div>
 <br>
 
-<div id="Losalisationvj">
-<img id="where" src="Images/where.jpg" class="card-img-top">
-</div>
+
+<img id="where" src="Images/where.jpg" class="">
+
 
 <br>
 <br>
-<div id="Losalisationvj">
+<div>
 <div id="ruevj" class="container-fluid">
 </div>
 <center><strong><h1>Nom de voie:</h1></strong></center>
@@ -153,9 +154,9 @@ La place de la Charité a ensuite été agrandie pour devenir l'actuelle place A
 </center>
 </div>
 
-<div id="bcvj">
+
 <img src="Images/bc.png" class="card-img-top">
-</div>
+
 
 </p></center>
 </ul>
