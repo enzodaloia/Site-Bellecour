@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="style.css" type="text/css" >
     <title>Accueil</title>
     <link href="css/bootstrap.min.css" rel="stylesheet">
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.1.0/css/all.css">
 </head>
 
 
@@ -69,7 +70,7 @@
 	<body id="body">
 		<br><br><br>
 		<div class="container">
-			<div class="content-1">
+			<div id="accueiltexte">
 				<center>
 				<h1 class="titre">Présentation du quartier</h1></center>
 					<br>
@@ -184,23 +185,26 @@
   <div class="container">
     <!-- Section: Social media -->
     <section class="mb-12">
-      <!-- Facebook -->
-      <a
-        class="btn text-white btn-floating m-1"
-        style="background-color: #3b5998;"
-        href="#!"
-        role="button"
-        ><i class="fab fa-facebook-f"></i
-      ></a>
+	<button class="btn bg-danger bg-gradient" type="button">
+      <span><i class="fa-brands fa-youtube text-white"></i></span> <span class="text-white">Youtube</span>
+    </button>
+    <button class="btn bg-info bg-gradient" type="button">
+      <span><i class="fa-brands fa-twitter text-white"></i></span><span class="text-info text-white">Twitter</span>
+    </button>
+    <button class="btn bg-primary bg-gradient" type="button">
+      <span> <i class="fa-brands fa-facebook text-white"></i></span> <span class="text-white">Facebook</span>
+    </button>
+    <button class="btn bg-danger bg-gradient" type="button">
+      <span> <i class="fa-brands fa-instagram text-white"></i> </span> <span class="text-white">instagram</span>
+    </button>
+    <button class="btn bg-success bg-gradient" type="button">
+      <span> <i class="fa-brands fa-whatsapp text-white"></i> </span> <span class="text-white">Whatsapp</span>
+    </button>
+    <button class="btn bg-dark bg-gradient" type="button">
+      <span><i class="fa-brands fa-github text-white"></i></span> <span class="text-white">GitHub</span>
+    </button>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js"></script>
 
-      <!-- Instagram -->
-      <a
-        class="btn text-white btn-floating m-1"
-        style="background-color: #ac2bac;"
-        href="#!"
-        role="button"
-        ><i class="fab fa-instagram"></i
-      ></a>
     </section>
     <!-- Section: Social media -->
   </div>
@@ -208,8 +212,7 @@
 
   <!-- Copyright -->
   <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2);">
-    © 2020 Copyright:
-    <a class="text-white" href="https://mdbootstrap.com/">MDBootstrap.com</a>
+    © 2022 Copyright
   </div>
   <!-- Copyright -->
 </footer>
