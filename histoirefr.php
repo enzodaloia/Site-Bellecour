@@ -10,9 +10,6 @@
 <link rel="stylesheet" type="text/css" href="screen.css" media="screen">
 <link rel="stylesheet" href="impression.css" type="text/css" media="print">
 <head>
-
-</head>
-
 </head>
 
 <!--* En-tete avec baniere -->

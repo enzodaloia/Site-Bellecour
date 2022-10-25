@@ -9,10 +9,6 @@
 <link href="css/bootstrap.min.css" rel="stylesheet">
 <link rel="stylesheet" type="text/css" href="screen.css" media="screen">
 <link rel="stylesheet" href="impression.css" type="text/css" media="print">
-<head>
-<link rel="stylesheet" type="text/css" href="screen.css" media="screen">
-<link rel="stylesheet" href="impression.css" type="text/css" media="print">
-</head>
 
 </head>
 
@@ -83,29 +79,26 @@
     <article>
 </div>
     <div id="textehistvj" class="container-fluid">
-    <center><p>This square is now located in the second arrondissement of the city on the peninsula, between the Saône and the Rhône.<br>
-	From Place Bellecour, the three main roads of the Presqu'île de Lyon, the Terreaux district to the north and the Perrache district to the south start, including two pedestrian streets:</p>
+   <p>This square is now located in the second arrondissement of the city on the peninsula, between the Saône and the Rhône.<br>
+	From Place Bellecour, the three main roads of the Presqu'île de Lyon, the Terreaux district to the north and the Perrache district to the south start, including two pedestrian streets:<br>
+</p>
     <ul>
-        <li>rue de la République, which leads to the Place de la Comédie between the Town Hall and the Opera House
-        <li>then onto Place Louis-Pradel via Rue du Puits-Gaillot on the north side
-        <li>rue Victor-Hugo, leading to Perrache on the south side</a>.</center>
-        </li>
-    </li>
-    </li>
-    </ul>
+        <i>rue de la République, which leads to the Place de la Comédie between the Town Hall and the Opera House</i>
+        <i>then onto Place Louis-Pradel via Rue du Puits-Gaillot on the north side</i>
+        <i>rue Victor-Hugo, leading to Perrache on the south side</i>
 
-    <center><p>On the north side, the rue du Président Édouard Herriot, where the cars pass and where the luxury brands are concentrated, leads to the Place des Terreaux.<br>
+<p>On the north side, the rue du Président Édouard Herriot, where the cars pass and where the luxury brands are concentrated, leads to the Place des Terreaux.<br>
     <br>
     The square is also located on the east-west axis linking the right bank of the Rhône and the right bank of the Saône.<br>
     The Vieux Lyon district and Saint-Jean cathedral are to the west, on the other side of the Bonaparte bridge over the Saône, which can be reached via Rue du Colonel-Chambonnet.
     The Vieux Lyon district and Saint-Jean cathedral are to the west, on the other side of the Bonaparte bridge over the Saône, which can be reached via Rue du Colonel-Chambonnet.
     <br> Two smaller squares are connected to the Place Bellecour:<br>
     <br>
-</p></center>
+</p>
 </article>
 </div>
 
-<img src="Images/where.jgp" class="card-img-top">
+<img id="imgvj" src="Images/where.jgp" class="card-img-top">
 </div>
 <br>
 <br>
@@ -119,8 +112,7 @@
     <center><strong><h1>lane names</h1></strong></center>
 </div>
 <div id="textehistvj" class="container-fluid">
-
-    <center><p>
+<p>
     In Gallo-Roman times, Bellecour was an island or peninsula formed by alluvial land.<br>
     The district knows at the time a Roman activity, military and commercial: one finds there Cannabe,<br>
     barracks 6 serving as warehouses for Gallo-Roman merchants and sailors, the city was then located <br>
@@ -156,6 +148,68 @@
 <center><pre>
 » ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ «
 </pre></center>
+<div id="titrevjhist" class="container-fluid">
+<center><strong><h1>History</h1></strong></center>
+</div>
+<div id="textehistvj" class="container-fluid">
+<p>
+In 1708, Louis XIV finally took possession of the site. The Place Louis Legrand is adorned with bronze statues of the king by Martin Desjardins<br>
+The square is surrounded by buildings whose facades were designed by the king's first architect Robert de Corte. In 1658, Louis XIV visited Lyon only once in his youth.<br>
+Since his installation in Versailles, the king has been present in the provinces, particularly through his equestrian statues.<br>
+During the Revolution, an altar of liberty was erected here on 14 July 1790. A guillotine was installed there in 1792. The royal statue was destroyed in 1793.<br>
+On 21 June 1800, Bonaparte passed through Lyon after his victory at Marengo and laid the first stone of the new building.<br>
+During the restoration, the square was decorated with a new statue of Louis XIV, inaugurated on 6 November 1825 by the sculptor François-Frédéric Lemot.<br>
+In 1829, Lady Girard established the famous buvette on the square.<br>
+<br>
+</div>
+<div id="textehistvj" class="container-fluid">
+The two pavilions in the square were built by Tony Desjardins in 1852.<br>
+To the west, near the kindergarten, before becoming the offices of the tourist office "Le Rectangle",<br>
+There is an exhibition room called Maison de Lyon. <br>
+It started as a café called La gargote du Père Lathuille and later became a dance café-restaurant called La Maison Dorée.   <br>
+The building to the south-east of the square, in which the Tourist Office was set up in 2008, was a military kiosk, which was later transformed.<br>
+into a police station and then in 19247 into a tourist office.<br>
+<br>
+In 1934, the Charity Hospital was destroyed, with the exception of the church tower.<br>
+The Place de la Charité was later enlarged to become the current Place Antonin-Ponce.<br>
+<br>
+</p>
+
+<img id="bcvj" src="Images/bcvj.png" class="img-fluid">
+<br>
+<br>
+<br>
+<center><pre>
+» ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ «
+</pre></center>
+<br>
+<br>
+<div class="accordion" id="accordion1">
+  <div class="accordion-item">
+    <h2 class="accordion-header" id="headingOne">
+      <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+      Equestrian Statue of Louis XIV
+      </button>
+    </h2>
+    <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+      <div class="accordion-body">
+        <strong>The Equestrian Statue of Louis XIV</strong>The Monument to Louis XIV is a bronze equestrian statue of Louis XIV by the sculptor François-Frédéric Lemot, located in Place Bellecour in Lyon, built in 1825. It has been classified as a historical monument since 25 March 2016.
+      </div>
+    </div>
+  </div>
+  <div class="accordion-item">
+    <h2 class="accordion-header" id="headingTwo">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+        The Place Bellecour
+      </button>
+    </h2>
+    <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+      <div class="accordion-body">
+        <strong>More information on the Place Bellecour here</strong> <li><a href="https://www.lyon-france.com/je-decouvre-lyon/sites-et-monuments/Sites-et-monuments-remarquables/La-Place-Bellecour">Tourist office</a></li>
+      </div>
+    </div>
+  </div>
+</div>
 
 <script src="js/bootstrap.bundle.min.js"></script>
 </body>
