@@ -70,6 +70,7 @@
 <h1>Trotinette Libre-Service</h1>
 <p>Les trottinettes libre-service sont disposées un peux partout dans Lyon, il vous suffit juste d'avoir le logiciel <a href="https://ridedott.com/fr" target="_blank">Dott</a> et <a href="https://www.tier.app/fr/" target="_blank">Tier</a> pour les localiser</p>
 </div>
+<div style="float:right;"><img src="img/captcha petit.jpg" class="imageflottante" alt="..."></div>
 
 </center>
     <script src="js/bootstrap.bundle.min.js"></script>

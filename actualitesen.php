@@ -120,14 +120,9 @@
       <a href="https://actu.fr/auvergne-rhone-alpes/lyon_69123/lyon-comment-le-quartier-de-la-part-dieu-et-ses-tours-sont-desormais-plonges-dans-le-noir_54572954.html" class="btn btn-Secondary">See more...</a>
     </div>
   </div>
+  </div>
 
-
-
-
-
-
-
-
+  <div style="float:right;"><img src="img/captcha petit.jpg" class="imageflottante" alt="..."></div>
 
     <script src="js/bootstrap.bundle.min.js"></script>
     </body>
