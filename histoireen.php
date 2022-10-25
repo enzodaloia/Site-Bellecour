@@ -27,7 +27,7 @@
 					<li><a href="accueilfr.php">Home</a></li>
 					<li><a href="activitesfr.php">Activities</a>
 					</li>
-					<li><a href="histoirefr.php">Stoy</a></li>
+					<li><a href="histoirefr.php">Story</a></li>
 					<li><a href="actualitesfr.php">News</a></li>
                     <li><a href="contactfr.php">Contact</a></li>
                     <li><a href="accesfr.php">Access</a>
