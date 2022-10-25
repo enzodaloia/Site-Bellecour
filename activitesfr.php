@@ -53,7 +53,7 @@
 	<div class="row row-cols-1 row-cols-md-3 g-4">
   <div class="col">
     <div class="card h-100">
-      <img src="Images/dessins.jpg" class="card-img-bot" alt="..." width="447" height="300"></img>
+      <img src="Images/dessins bus.jpg" class="card-img-bot" alt="..." width="447" height="300"></img>
       <div class="card-body">
         <h4 class="card-title">Visite Bus</h4>
         <p class="card-texte">Bellecour : visite en bus à arrêts multiples</p>
@@ -123,7 +123,8 @@
   <p>Ou alors </p>
   <button type="button" class="btn btn-secondary"><a href="http://projetg4bellecour.cf/contactfr.php" style="font-family: 'Trebuchet MS'; color: #FFFFFF ;"target="_blank">Redirection vers notre page de contact</a></button>
 </center>
-  
+<left><img src="Images/captcha petit.jpg" class="" alt="..."></left>
+
     <script src="js/bootstrap.bundle.min.js"></script>
     </body>
 </html>
