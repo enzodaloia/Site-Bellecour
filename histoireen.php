@@ -214,21 +214,21 @@ The Place de la Charité was later enlarged to become the current Place Antonin-
 </div>
 
 <footer class="bg-light text-center text-white">
-  <!-- Grid container -->
-    <button class="btn btn-primary" type="button">
-      <i class="fa-brands fa-facebook"></i>
-    </button>
-    <button class="btn btn-danger" type="button">
-      <i class="fa-brands fa-instagram"></i>
-    </button>
-  <!-- Grid container -->
+    <!-- Grid container -->
+        <button class="btn btn-primary" type="button">
+        <i class="fa-brands fa-facebook"></i>
+        </button>
+        <button class="btn btn-danger" type="button">
+        <i class="fa-brands fa-instagram"></i>
+        </button>
+    <!-- Grid container -->
 
-  <!-- Copyright -->
-  <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2);">
-    © 2022 Copyright
-  </div>
-  <!-- Copyright -->
-</footer>
+    <!-- Copyright -->
+    <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2);">
+        © 2022 Copyright
+    </div>
+    <!-- Copyright -->
+    </footer>
 
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js"></script>
 	<script src="js/bootstrap.bundle.min.js"></script>

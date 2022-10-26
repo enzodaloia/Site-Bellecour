@@ -131,21 +131,21 @@
       <a href="https://actu.fr/auvergne-rhone-alpes/lyon_69123/lyon-comment-le-quartier-de-la-part-dieu-et-ses-tours-sont-desormais-plonges-dans-le-noir_54572954.html"  target="_blank" class="btn btn-Secondary">See more...</a>
     </div>
   </div>
-  <footer id="menu" class="bg-light text-center text-white">
-      <!-- Grid container -->
+  <footer class="bg-light text-center text-white">
+    <!-- Grid container -->
         <button class="btn btn-primary" type="button">
-          <i class="fa-brands fa-facebook"></i>
+        <i class="fa-brands fa-facebook"></i>
         </button>
         <button class="btn btn-danger" type="button">
-          <i class="fa-brands fa-instagram"></i>
+        <i class="fa-brands fa-instagram"></i>
         </button>
-      <!-- Grid container -->
+    <!-- Grid container -->
 
-      <!-- Copyright -->
-      <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2);">
+    <!-- Copyright -->
+    <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2);">
         © 2022 Copyright
-      </div>
-      <!-- Copyright -->
+    </div>
+    <!-- Copyright -->
     </footer>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js"></script>
