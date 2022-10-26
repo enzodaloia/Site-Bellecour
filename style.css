@@ -571,8 +571,8 @@ margin-left: 30px;
 }
 
 #textehistvj{
-	margin-left: 55px;
-	margin-right: 450px;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 #titrevjhist{
@@ -591,8 +591,8 @@ margin-left: 30px;
 }
 
 #textehistvjr{
-	margin-left: 650px;
-	margin-right: 55px;
+padding-left: 550px;
+padding-right : 450px;
 }
 
 body {
@@ -605,3 +605,4 @@ body {
 .card-container{
 	width: 100%;
 }
+

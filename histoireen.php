@@ -126,7 +126,7 @@
 <br>
 </p>
 </div>
-<div id="textehistvjr" class="container-fluid">
+<div id="textehistvjr2" class="container-fluid">
      In 1708, Louis XIV took definitive possession of the site. The Place Louis Legrand is adorned with bronze statues of the king by Martin Desjardins.<br>
     The square is surrounded by buildings whose facades were designed by the king's first architect Robert de Corte. In 1658, Louis XIV visited Lyon only once in his youth.<br>
     Since his installation in Versailles, the king has been present in the provinces, notably through his equestrian statues.<br>
