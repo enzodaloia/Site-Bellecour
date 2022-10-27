@@ -28,7 +28,7 @@
    </div>
 
 <!-- <p><img src="Images/LogoBellecourOfficiel.png"></p> -->
-      <div>
+      <div id="print">
 				<ul>
 					<li><a href="accueilen.php">Home</a></li>
 					<li><a href="activitesen.php">Activities</a>
@@ -45,6 +45,8 @@
 			</div>
 <div id="bannière2">    
 </div>
+<div id="france"><a href="actualitesfr.php"><p><img id="imgfr" src="Images/france.jpg"></p></a></div>
+<div id="angleterre"><a href="actualitesen.php"><p><img id="imgen" src="Images/angleterre.jpg"></p></a></div>
 </header>
 
 
@@ -52,9 +54,6 @@
 <div id="test">
 		<p>/</p>
 	</div>
-	<div id="france"><a href="actualitesfr.php"><p><img id="imgfr" src="Images/france.jpg"></p></a></div>
-	<div id="angleterre"><a href="actualitesen.php"><p><img id="imgen" src="Images/angleterre.jpg"></p></a></div>
-
 	<div id="titrevj">
        <center><h1>News</h1></center>
 </div>

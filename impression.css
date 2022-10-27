@@ -2,11 +2,12 @@ body { /* Modifications : la couleur de fond de page - la police - l'unitÃ© ut
 	background: none;
 	color: #fff;
 	font-family:Arial;
-	font-size:15pt;
+	font-size:10pt;
 }
 
 #wrapper {
 	width: 100%;
+	border: none;
 }
 
 header, nav, #banniere1, footer{
@@ -19,7 +20,7 @@ header, nav, #banniere1, footer{
 	@page { margin: 10% }
 }
 
-#bannière1, #box1accueil, #bannière2, #ecrit { /* Les Ã©lÃ©ments qui ne seront pas affichÃ©s  */
+#bannière1, #box1accueil, #print, #bannière2, #ecrit, #where, #card123, #footer, #imgvj, #bcvj { /* Les Ã©lÃ©ments qui ne seront pas affichÃ©s  */
 	display:none;
 }
 
@@ -57,15 +58,16 @@ p { /* Modifications : alignement du texte - marges - unitÃ© des marges, polic
   color:#000;
 }
 
-#contenu { /* Modifications : suppression du float - adaptation de la largeur*/
+#contenu, #pre1, #titrevjhist { /* Modifications : suppression du float - adaptation de la largeur*/
   float:none;
   width:100%;
-  margin: 5px;
+  margin-top: 105px;
   padding: 5px;
   text-align:left;
+ 
 }
 
-#contenu h3 { /* Modifications : marges - unitÃ© des marges, police et taille de la police */
+#contenu, { /* Modifications : marges - unitÃ© des marges, police et taille de la police */
   font-size:15pt;
 	font-weight:bold;
 	margin: 10pt 0 5pt 0;
@@ -89,3 +91,11 @@ img.droite {
 }
 @page { margin: 10% }
 
+#textehistvjr{
+	margin-left: 0;
+	margin-top: 350px;
+}
+
+#textehistvjr2{
+	text-align: left;
+}
