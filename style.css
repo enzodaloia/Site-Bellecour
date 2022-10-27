@@ -450,6 +450,31 @@ header div ul li:hover ul li{
 
 /* CSS PAGE D'ACCUEIL */
 
+/* CSS PAGE D'ACCES */
+
+.textright2{
+	position: absolute;
+	left: 900px;
+	top: 1250px;
+}
+
+.textright{
+	position: absolute;
+	left: 900px;
+	top: 4800px;
+}
+
+.titreacces{
+	margin-top: 130px;
+	margin-bottom: 30px;
+}
+
+.texteacces{
+	margin-bottom: 50px;
+}
+
+/* CSS PAGE D'ACCES */
+
 /* NAVBAR FARES */
 
 .navbar {
