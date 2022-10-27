@@ -71,10 +71,16 @@
 <br>
 <br>
 <br>
-<div id="pre1">
-<center><pre>
-» ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ «
-</pre></center></div>
+<div class="container-fluid">
+	<div class="row">
+		<div class="col-md-12">
+			<p>
+				______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+</small>
+			</p>
+		</div>
+	</div>
+</div>
 <br>
 <br>
 <div id="titrevjhist" class="container-fluid">
@@ -105,96 +111,138 @@
 <br>
 <br>
 <br>
-<div id="pre1">
-<center><pre>
-» ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ «
-</pre></center></div>
+<div class="container-fluid">
+	<div class="row">
+		<div class="col-md-12">
+			<p>
+				______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+</small>
+			</p>
+		</div>
+	</div>
+</div>
 <br>
 <br>
 <div id="titrevjhist" class="container-fluid">
     <center><strong><h1>lane names</h1></strong></center>
 </div>
-<div id="textehistvj" class="container-fluid">
-<p>
-    In Gallo-Roman times, Bellecour was an island or peninsula formed by alluvial land.<br>
-    The district knows at the time a Roman activity, military and commercial: one finds there Cannabe,<br>
-    barracks 6 serving as warehouses for Gallo-Roman merchants and sailors, the city was then located <br>
-    on the Fourvière hill and descended on the Saône river at the third level.<br>
-    At the end of the 12th century, the archbishop of Lyon owned Bella Curtis on the peninsula,<br>
-     which consisted of vineyard land. Abandoned, the place became marshy again.<br> 
-    In 1562, the Baron des Adrets attacked Lyon, setting up his armed men on what was then "le pré de Belle-court"<br> 
-    .In 1604, Henry IV urged the town council to acquire the meadow to create a public square.<br>
-     But in a never-ending trial, the archbishop's heirs clashed.<br>
-</p>
+<div class="container-fluid">
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-md-12">
+        <p>
+      In Gallo-Roman times, Bellecour was an island or peninsula formed by alluvial land. The district knows at the time a Roman activity, military and commercial:<br>
+       one finds there Cannabe, barracks 6 serving as warehouses for Gallo-Roman merchants and sailors, the city was then located <br>
+      on the Fourvière hill and descended on the Saône river at the third level. At the end of the 12th century, the archbishop of Lyon owned Bella Curtis on the peninsula,<br>
+       which consisted of vineyard land. Abandoned, the place became marshy again.<br>
+      In 1562, the Baron des Adrets attacked Lyon, setting up his armed men on what was then "le pré de Belle-court" .In 1604, Henry IV urged the town council to acquire<br>
+       the meadow to create a public square.<br>
+       But in a never-ending trial, the archbishop's heirs clashed.<br>
+  </p>		</div>
+    </div>
+  </div>
 </div>
 <br>
-<div id="textehistvjr2" class="container-fluid">
-     In 1708, Louis XIV took definitive possession of the site. The Place Louis Legrand is adorned <br>
-     with bronze statues of the king by Martin Desjardins.<br>
-    The square is surrounded by buildings whose facades were designed<br>
-    by the king's first architect Robert de Corte. In 1658, Louis XIV <br>
-    visited Lyon only once in his youth.<br>
-    Since his installation in Versailles, the king has been present in the provinces, <br>
-    notably through his equestrian statues. During the Revolution, an altar of liberty<br>
-    was erected there on 14 July 1790. A guillotine was installed there in 1792. <br>
-    The royal statue was destroyed in 1793.<br>
-    On 21 June 1800, Bonaparte passed through Lyon after his victory at Marengo and<br>
-     laid the first stone of the new building.<br>
-    During the restoration, the square was adorned with a new statue of Louis XIV,<br>
-     inaugurated on 6 November 1825, by the sculptor François-Frédéric Lemot.<br>
-    In 1829, Lady Girard established the famous buvette on the square.<br>
+<div class="container-fluid">
+	<div class="row">
+		<div class="col-md-12">
+			<p>
+				 In 1708, Louis XIV finally took possession of the site. The Place Louis Legrand is adorned
+   with bronze statues of the king by Martin Des jardins.<br>
+   The square is surrounded by buildings whose facades were designed by the king's first architect Robert de Corte. In 1658, Louis XIV visited Lyon only once in his youth.<br>
+  Since his installation in Versailles, the king has been present in the provinces, particularly through his equestrian statues. During the Revolution, an altar of liberty <br>
+  was erected here on 14 July 1790. A guillotine was installed there in 1792. The royal statue was destroyed in 1793. On 21 June 1800, Bonaparte passed through Lyon <br>
+  after his victory at Marengo and laid the first stone of the new building. During the restoration, the square was decorated with a new statue of Louis XIV, inaugurated<br>
+   on 6 November 1825 by the sculptor François-Frédéric Lemot. In 1829, Lady Girard established the famous buvette on the square.<br
+  ></small>
+			</p>
+		</div>
+	</div>
 </div>
 <br>
-<div id="textehistvj" class="container-fluid">
-    The two pavilions on the square were built by Tony Desjardins in 1852.<br>
+<div class="container-fluid">
+	<div class="row">
+		<div class="col-md-12">
+			<p>
+        The two pavilions on the square were built by Tony Desjardins in 1852.
     To the west, near the kindergarten, before becoming the offices of the tourist office "Le Rectangle",<br>
-     is an exhibition hall called Maison de Lyon.<br><br>
-</p>
+     is an exhibition hall called Maison de Lyon.</p>		</div>
+	</div>
 </div>
 
-<img id="bcvj" src="Images/bcvj.png" class="img-fluid">
 <br>
 <br>
 <br>
-<div id="pre1"></div>
-<center><pre>
-» ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ «
-</pre></center></div>
+<div class="container-fluid">
+	<div class="row">
+		<div class="col-md-12">
+			<p>
+				______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+</small>
+			</p>
+		</div>
+	</div>
+</div>
 <div id="titrevjhist" class="container-fluid">
 <center><strong><h1>History</h1></strong></center>
 </div>
-<div id="textehistvj" class="container-fluid">
-<p>
-In 1708, Louis XIV finally took possession of the site. The Place Louis Legrand is adorned with bronze statues of the king by Martin Desjardins<br>
-The square is surrounded by buildings whose facades were designed by the king's first architect Robert de Corte. In 1658, Louis XIV visited Lyon only once in his youth.<br>
-Since his installation in Versailles, the king has been present in the provinces, particularly through his equestrian statues.<br>
-During the Revolution, an altar of liberty was erected here on 14 July 1790. A guillotine was installed there in 1792. The royal statue was destroyed in 1793.<br>
-On 21 June 1800, Bonaparte passed through Lyon after his victory at Marengo and laid the first stone of the new building.<br>
-During the restoration, the square was decorated with a new statue of Louis XIV, inaugurated on 6 November 1825 by the sculptor François-Frédéric Lemot.<br>
-In 1829, Lady Girard established the famous buvette on the square.<br>
+    <div class="row">
+      <div class="col-md-6">
+        <img alt="Bootstrap Image Preview" src="Images/bcvj.png" />
+      </div>
+      <div class="col-md-6">
+        <p>
+      
+  In 1708, Louis XIV finally took possession of the site. The Place Louis Legrand is adorned<br>
+   with bronze statues of the king by Martin Desjardins<br>
+  The square is surrounded by buildings whose facades were designed by the king's first <br>
+  architect Robert de Corte. In 1658, Louis XIV visited Lyon only once in his youth.<br>
+  Since his installation in Versailles, the king has been present in the provinces, <br>
+  particularly through his equestrian statues. During the Revolution, an altar of liberty <br>
+  was erected here on 14 July 1790. A guillotine was installed there in 1792.<br>
+   The royal statue was destroyed in 1793. On 21 June 1800, Bonaparte passed through Lyon <br>
+   after his victory at Marengo and laid the first stone of the new building.<br>
+  During the restoration, the square was decorated with a new statue of Louis XIV, inaugurated<br>
+   on 6 November 1825 by the sculptor François-Frédéric Lemot.<br>
+  In 1829, Lady Girard established the famous buvette on the square.<br>
+</div></small>
+        </p>
+      </div>
+  </div>
+<br>
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-md-12">
+        <p>
+          The two pavilions in the square were built by Tony Desjardins in 1852.<br>
+  To the west, near the kindergarten, before becoming the offices of the tourist office <br>
+  "Le Rectangle"<br>
+  There is an exhibition room called Maison de Lyon. It started as a café called <br>
+   La gargote du Père Lathuille and later became a dance café-restaurant called La Maison Dorée.<br>  
+  The building to the south-east of the square, in which the Tourist Office was <br>
+  set up in 2008, was a military kiosk, which was later transformed.<br>
+  into a police station and then in 19247 into a tourist office.<br>
+  
+  In 1934, the Charity Hospital was destroyed, with the exception of the church tower.<br>
+  The Place de la Charité was later enlarged to become the current Place Antonin-Ponce.<br>
+  </small>
+        </p>
+      </div>
+    </div>
+<br>
+<br>
+<br>
+<br>
+<div class="container-fluid">
+	<div class="row">
+		<div class="col-md-12">
+			<p>
+				______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+</small>
+			</p>
+		</div>
+	</div>
 </div>
-<br>
-<div id="textehistvj" class="container-fluid">
-The two pavilions in the square were built by Tony Desjardins in 1852.<br>
-To the west, near the kindergarten, before becoming the offices of the tourist office "Le Rectangle",<br>
-There is an exhibition room called Maison de Lyon. <br>
-It started as a café called La gargote du Père Lathuille and later became a dance café-restaurant called La Maison Dorée.   <br>
-The building to the south-east of the square, in which the Tourist Office was set up in 2008, was a military kiosk, which was later transformed.<br>
-into a police station and then in 19247 into a tourist office.<br>
-<br>
-In 1934, the Charity Hospital was destroyed, with the exception of the church tower.<br>
-The Place de la Charité was later enlarged to become the current Place Antonin-Ponce.<br>
-</p>
-</div>
-<br>
-<img id="bcvj" src="Images/bcvj.png" class="img-fluid">
-<br>
-<br>
-<br>
-<div id="pre1">
-<center><pre>
-» ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ «
-</pre></center></div>
 <br>
 <br>
 <div id="card123">

@@ -76,8 +76,15 @@
 <br>
 <br>
 <br>
-<div id="pre" class="container-fluid">
-<center><pre>» ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ «</pre></center>
+<div class="container-fluid">
+	<div class="row">
+		<div class="col-md-12">
+			<p>
+				______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+</small>
+			</p>
+		</div>
+	</div>
 </div>
 <br>
 <br>
@@ -87,33 +94,51 @@
 <center><strong><h1> Localisation et accès </h1></strong></center>
 </div>
 <div id="textehistvj" class="container-fluid">
-    <p>
-    Cette place est aujourd'hui située dans le deuxième arrondissement de la ville sur la presqu'île, entre Saône et Rhône.<br>
-    De la place Bellecour partent les trois axes routiers principaux de la Presqu'île de Lyon, le quartier des Terreaux au nord et le quartier Perrache au sud dont deux rues piétonnes :<br>
-</p>
-<ul>
-    <i>la rue de la République, qui débouche sur la place de la Comédie entre la Mairie et l'Opéra</i><br>
-    <i>puis sur la place Louis-Pradel par la rue du Puits-Gaillot côté nord</i><br>
-    <i>la rue Victor-Hugo, menant à Perrache côté sud.</i><br>
-</ul>
-<p>
-Côté nord, la rue du Président Édouard Herriot, où passent les voitures et où se concentrent les marques de luxe, débouche sur la place des Terreaux.<br>
-<br>
-La place est également située sur l'axe est-ouest reliant la rive droite du Rhône et la rive droite de la Saône. <br>
-Le quartier du Vieux Lyon et la cathédrale Saint-Jean sont à l'ouest, de l'autre côté du pont Bonaparte sur la Saône, accessible par la rue du Colonel-Chambonnet.<br>
-    Le quartier de la Guillotière est à l'est, de l'autre côté du pont de la Guillotière, accessible par la rue de la Barre.<br>
-<br> Deux places plus petites sont reliées à la Place Bellecour :<br>
-</p>
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-md-12">
+        <p>
+           Cette place est aujourd'hui située dans le deuxième arrondissement <br>
+           de la ville sur la presqu'île, entre Saône et Rhône.
+      De la place Bellecour partent les trois axes routiers principaux de la Presqu'île de Lyon, le quartier des <br>
+      Terreaux au nord et le quartier Perrache au sud dont deux rues piétonnes :<br>
+  </p>
+  <ul>
+      <i>la rue de la République, qui débouche sur la place de la Comédie entre la Mairie et l'Opéra</i><br>
+      <i>puis sur la place Louis-Pradel par la rue du Puits-Gaillot côté nord</i><br>
+      <i>la rue Victor-Hugo, menant à Perrache côté sud.</i><br>
+  </ul>
+  <p>
+  Côté nord, la rue du Président Édouard Herriot, où passent les voitures et où se concentrent les marques de luxe, <br>
+  débouche sur la place des Terreaux.<br>
+  La place est également située sur l'axe est-ouest reliant la rive droite du Rhône et la rive droite de la Saône.<br>
+  Le quartier du Vieux Lyon et la cathédrale Saint-Jean sont à l'ouest, de l'autre côté du pont Bonaparte sur la Saône,<br>
+   accessible par la rue du Colonel-Chambonnet.<br>
+      Le quartier de la Guillotière est à l'est, de l'autre côté du pont de la Guillotière, accessible par la rue de la Barre.<br>
+   Deux places plus petites sont reliées à la Place Bellecour :<br>
+  </small>
+        </p>
+      </div>
+      <div id="imghistoirevj"
+      <div class="col-md-6">
+        <img alt="Bootstrap Image Preview" src="Images//where.jpg" />
+      </div>
+    </div>
+  </div>
 </div>
 <br>
-
-
-<img id="where" src="Images/where.jpg" class="img-fluid">
 <br>
 <br>
 <br>
-<div id="pre" class="container-fluid">
-<center><pre>» ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ «</pre></center>
+<div class="container-fluid">
+	<div class="row">
+		<div class="col-md-12">
+			<p>
+				______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+</small>
+			</p>
+		</div>
+	</div>
 </div>
 <br>
 <br>
@@ -124,29 +149,45 @@ Le quartier du Vieux Lyon et la cathédrale Saint-Jean sont à l'ouest, de l'aut
 </div>
 </center>
 <div id="textehistvj" class="container-fluid">
-<p>Les noms de lieux avec le mot "Bellecour" sont apparus pour la première fois au XIIe siècle. Les terres agricoles appartenant à l'archevêque<br>
-   s'appellent Bella Curtis ("Le beau jardin"). Au XVIe siècle,<br>
-    ce qui n'était encore qu'un ranch s'appelait Pré de Belle Court. En 1715, elle devient place publique et prend le nom de Place Royale, puis <br>
-    Place Louis Legrand, en hommage à Louis XIV.<br>
-<br>
-En 1790, lors de la Révolution, le nom de la monarchie disparaît et la place devient la place de la Fédération pour perpétuer le souvenir de la Fête de la Fédération,<br>
-dont l'anniversaire devient par la suite la Fête Nationale. A partir de 1793, la place des manifestations politiques de la ville est rebaptisée place de l'Égalité <br>
-(en 1794, la place des Jacobins s'appelle place de la Fraternité). L'odonamem continue d'évoluer avec le système politique : en 1800, l'esplanade est la place Bonaparte,<br>
-et logiquement plus tard elle devient la place Napoléon.<br>
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-md-12">
+        <p>
+          Les noms de lieux avec le mot "Bellecour" sont apparus pour la première fois au XIIe siècle. Les terres agricoles appartenant à l'archevêque
+     s'appellent Bella Curtis ("Le beau jardin").<br>
+      Au XVIe siècle, ce qui n'était encore qu'un ranch s'appelait Pré de Belle Court. En 1715, elle devient place publique et <br>
+      prend le nom de Place Royale, puis Place Louis Legrand, en hommage à Louis XIV.<br>
+  En 1790, lors de la Révolution, le nom de la monarchie disparaît et la place devient la place de la Fédération pour perpétuer<br>
+   le souvenir de la Fête de la Fédération, dont l'anniversaire devient par la suite la Fête Nationale. <br>
+  A partir de 1793, la place des manifestations politiques de la ville est rebaptisée place de l'Égalité <br>
+  (en 1794, la place des Jacobins s'appelle place de la Fraternité). L'odonamem continue d'évoluer avec le système politique : <br>
+  en 1800, l'esplanade est la place Bonaparte,<br>
+  et logiquement plus tard elle devient la place Napoléon.</small>
+        </p>
+      </div>
+    </div>
+  </div>
 </div>
 <br>
-</p>
 <br>
 <br>
 <br>
 <div class="container-fluid">
-<center><pre>» ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ «</pre></center>
+	<div class="row">
+		<div class="col-md-12">
+			<p>
+				______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+</small>
+			</p>
+		</div>
+	</div>
 </div>
 <br>
 <br>
 <div id="titrevjhist" class="container-fluid">
 <center><strong><h1>Histoire</h1></strong></center>
 </div>
+<div id="texte">
 <div class="container-fluid">
 	<div class="row">
 		<div class="col-md-6">
@@ -167,10 +208,12 @@ Mais dans un procès sans fin, les héritiers de l'archevêque se sont affronté
 		</div>
 	</div>
 </div>
+</div>
+<div id="imgmjhist">
 <div class="container-fluid">
 	<div class="row">
 		<div class="col-md-6">
-			<img alt="Bootstrap Image Preview" src="Images/bellecour histoire.jpg" />
+			<img alt="Bootstrap Image Preview" src="Images/bcvj.jpg" />
 		</div>
 		<div class="col-md-6">
 			<p>
@@ -192,25 +235,39 @@ En 1829, Lady Girard établit la célèbre buvette sur la place.
 	</div>
 </div>
 <div id="textehistvj" class="container-fluid">
-Les deux pavillons de la place ont été construits par Tony Desjardins en 1852.<br>
-    A l'ouest, près du jardin d'enfants, avant de devenir les bureaux de l'office de tourisme "Le Rectangle",<br>
-    se trouve une salle d'exposition appelée Maison de Lyon.<br>
-    Il a commencé comme un café appelé La gargote du Père Lathuille et est devenu plus tard un café-restaurant de danse appelé La Maison Dorée.<br>
-    Le bâtiment au sud-est de la place, dans lequel s'est installé l'Office de Tourisme en 2008, était un kiosque militaire, transformé plus tard<br>
-        en commissariat puis en 19247 en Syndicat d'Initiative.<br>
-<br>
-En 1934, l'Hôpital de la Charité est détruit, à l'exception du clocher de l'église. <br>
-La place de la Charité a ensuite été agrandie pour devenir l'actuelle place Antonin-Ponce.<br>
-<br>
-</p>
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-md-12">
+        <p>
+  Les deux pavillons de la place ont été construits par Tony Desjardins en 1852.<br>
+      A l'ouest, près du jardin d'enfants, avant de devenir les bureaux de l'office de tourisme "Le Rectangle",<br>
+      se trouve une salle d'exposition appelée Maison de Lyon.<br>
+      Il a commencé comme un café appelé La gargote du Père Lathuille et est devenu plus tard un <br>
+      café-restaurant de danse appelé La Maison Dorée.<br>
+      Le bâtiment au sud-est de la place, dans lequel s'est installé l'Office de Tourisme en 2008,<br>
+       était un kiosque militaire, transformé plus tard<br>
+          en commissariat puis en 19247 en Syndicat d'Initiative.<br>
+  En 1934, l'Hôpital de la Charité est détruit, à l'exception du clocher de l'église. <br>
+  La place de la Charité a ensuite été agrandie pour devenir l'actuelle place Antonin-Ponce.<br>
+  </small>
+        </p>
+      </div>
+    </div>
+  </div>
 </div>
-
-<img id="bcvj" src="Images/bcvj.png" class="img-fluid">
 <br>
 <br>
 <br>
-<div id="pre1" class="container-fluid">
-<center><p>» ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ «</p></center>
+<br>
+<div class="container-fluid">
+	<div class="row">
+		<div class="col-md-12">
+			<p>
+				______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+</small>
+			</p>
+		</div>
+	</div>
 </div>
 <br>
 <br>
