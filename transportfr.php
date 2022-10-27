@@ -38,6 +38,7 @@
 	    </div>
 	</header>
     <body id="body">
+    <div id="FormActivité">
     <div id="test">
 		<p>/</p>
 	</div>
@@ -56,7 +57,7 @@
 					</div>
 					<div class="carousel-inner">
 					  <div class="carousel-item active" data-bs-interval="12000">
-						<img src="Images/Train.jpg" class="d-block w-100" alt="...">
+						<img src="Images/Transport bus.jpg" class="d-block w-100" alt="...">
 						<div class="carousel-caption d-none d-md-block">
 							<h1>Transport, Tramway et bus</h1>
 						  <p><b>Pour tout autre information sur les autres directions des transports en commun, cliquer sur le bouton ci-dessous.</b></p>
@@ -104,7 +105,7 @@
 		</div>
 		<div class="carousel-inner">
 		  <div class="carousel-item active" data-bs-interval="10000">
-			<img src="Images/Endroit vélo.jpg" class="d-block w-100" alt="...">
+			<img src="Images/Vélo'V.jpg" class="d-block w-100" alt="...">
 			<div class="carousel-caption d-none d-md-block">
 				<h1>Vélo'V</h1>
 			  <p><b>Pour tout achat de carte ou autres, veuillez cliquer sur le bouton juste ci-dessous.</b></p>
@@ -180,6 +181,7 @@
 	</center>
 	</div>
 
+<<<<<<< HEAD
 	<footer class="bg-light text-center text-white">
   <!-- Grid container -->
     <button class="btn btn-primary" type="button">
@@ -201,3 +203,9 @@
 	<script src="js/bootstrap.bundle.min.js"></script>
 	</body>
 </html>
+=======
+  <div id="FormEspace">
+		<script src="js/bootstrap.bundle.min.js"></script>
+				</body>
+			</html>
+>>>>>>> 735c912873049f5a7116026a209472aa49376040

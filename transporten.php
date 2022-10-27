@@ -65,7 +65,7 @@
 					</div>
 					<div class="carousel-inner">
 					  <div class="carousel-item active" data-bs-interval="12000">
-						<img src="Images/Train.jpg" class="d-block w-100" alt="...">
+						<img src="Images/Transport bus.jpg" class="d-block w-100" alt="...">
 						<div class="carousel-caption d-none d-md-block">
 							<h1>Transport, Tramway et bus</h1>
 						  <p><b>For further information on other public transport directions, click on the button below.</b></p>
@@ -113,7 +113,7 @@
 		</div>
 		<div class="carousel-inner">
 		  <div class="carousel-item active" data-bs-interval="10000">
-			<img src="Images/Endroit vélo.jpg" class="d-block w-100" alt="...">
+			<img src="Images/Vélo'v.jpg" class="d-block w-100" alt="...">
 			<div class="carousel-caption d-none d-md-block">
 				<h1>Vélo'V</h1>
 			  <p><b>To purchase a card or other, please click on the button below.</b></p>
