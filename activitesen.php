@@ -19,7 +19,7 @@
 
 		<div id="bannière1">
 		</div>
-    <div>
+    <div id="print">
 				<ul>
 					<li><a href="accueilen.php">Home</a></li>
 					<li><a href="activitesen.php">Activities</a>

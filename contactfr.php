@@ -18,7 +18,7 @@
 <div id="banniere1"></div>
 
 
-        <div>
+        <div id="print">
             <ul>
                 <li><a href="accueilfr.php">Accueil</a></li>
                 <li><a href="activitesfr.php">Activités</a>
