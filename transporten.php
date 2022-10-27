@@ -65,21 +65,21 @@
 					</div>
 					<div class="carousel-inner">
 					  <div class="carousel-item active" data-bs-interval="12000">
-						<img src="img/Train.jpg" class="d-block w-100" alt="...">
+						<img src="Images/Train.jpg" class="d-block w-100" alt="...">
 						<div class="carousel-caption d-none d-md-block">
 							<h1>Transport, Tramway et bus</h1>
 						  <p><b>For further information on other public transport directions, click on the button below.</b></p>
 						</div>
 					  </div>
 					  <div class="carousel-item" data-bs-interval="12000">
-						<img src="img/tramay dessin.jpg" class="d-block w-100" alt="...">
+						<img src="Images/tramay dessin.jpg" class="d-block w-100" alt="...">
 						<div class="carousel-caption d-none d-md-block">
 						  <h1>Transport, Tramway et bus</h1>
 						  <p><b>For further information on other public transport directions, click on the button below.</b></p>
 						</div>
 					  </div>
 					  <div class="carousel-item" data-bs-interval="12000">
-						<img src="img/dessin bus.jpg" class="d-block w-100" alt="...">
+						<img src="Images/dessin bus.jpg" class="d-block w-100" alt="...">
 						<div class="carousel-caption d-none d-md-block">
 						  <h1>Transport, Tramway et bus</h1>
 						  <p>For further information on other public transport directions, click on the button below.</p>
@@ -113,21 +113,21 @@
 		</div>
 		<div class="carousel-inner">
 		  <div class="carousel-item active" data-bs-interval="10000">
-			<img src="img/Endroit vélo.jpg" class="d-block w-100" alt="...">
+			<img src="Images/Endroit vélo.jpg" class="d-block w-100" alt="...">
 			<div class="carousel-caption d-none d-md-block">
 				<h1>Vélo'V</h1>
 			  <p><b>To purchase a card or other, please click on the button below.</b></p>
 			</div>
 		  </div>
 		  <div class="carousel-item" data-bs-interval="10000">
-			<img src="img/vélo'v dessin bel.jpg" class="d-block w-100" alt="...">
+			<img src="Images/vélo'v dessin bel.jpg" class="d-block w-100" alt="...">
 			<div class="carousel-caption d-none d-md-block">
 			  <h1>Vélo'V</h1>
 			  <p><b>To purchase a card or other, please click on the button below.</b></p>
 			</div>
 		  </div>
 		  <div class="carousel-item" data-bs-interval="10000">
-			<img src="img/vélo'v arrêt dessin.jpg" class="d-block w-100" alt="...">
+			<img src="Images/vélo'v arrêt dessin.jpg" class="d-block w-100" alt="...">
 			<div class="carousel-caption d-none d-md-block">
 			  <h1>Vélo'V</h1>
 			  <p>To purchase a card or other, please click on the button below.</p>
@@ -157,14 +157,14 @@
 						</div>
 						<div class="carousel-inner">
 						  <div class="carousel-item active" data-bs-interval="8000">
-							<img src="img/vélo'v dessin.jpg" class="d-block w-100" alt="...">
+							<img src="Images/vélo'v dessin.jpg" class="d-block w-100" alt="...">
 							<div class="carousel-caption d-none d-md-block">
 								<h1>Electric scooter</h1>
 							  <p><b>Scooters can be found everywhere in Lyon, you just need the Dott or Tier software.</b></p>
 							</div>
 						  </div>
 						  <div class="carousel-item" data-bs-interval="8000">
-							<img src="img/dott dessin.jpg" class="d-block w-100" alt="...">
+							<img src="Images/dott dessin.jpg" class="d-block w-100" alt="...">
 							<div class="carousel-caption d-none d-md-block">
 							  <h1>Electric scooter</h1>
 							  <p><b>Scooters can be found everywhere in Lyon, you just need the Dott or Tier software.</b></p>
