@@ -38,6 +38,7 @@
 	    </div>
 	</header>
     <body id="body">
+    <div id="FormActivité">
     <div id="test">
 		<p>/</p>
 	</div>
