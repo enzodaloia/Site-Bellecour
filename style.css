@@ -72,7 +72,6 @@ header div ul{
 	position:relative;
 	padding-top:0px;
 	margin-left: -35px;
-	border: 3px solid grey;
 }
 
 header div ul li{
@@ -80,6 +79,7 @@ header div ul li{
 	padding: 0;
 	float: left;
 	list-style: none;
+
 	width: 140px;
 	height: 60px;
 	background-color: rgba(0,0,0,0.8);
@@ -97,6 +97,7 @@ header div ul li a{
 	width:140px;
 	color: black;
 	text-decoration: none;
+	
 }
 
 header ul li a{
@@ -118,7 +119,7 @@ header div ul li:hover ul li{
 
 #bannière2{
 	display: block;
-	background-color:grey;
+	background-color:white;
 	height: 60px;
 	width:100%;
 	margin-left: auto;
@@ -139,15 +140,13 @@ header div ul li:hover ul li{
 }
 
 .titre { 
-	margin-top:20px;
+	margin-top:100px;
 	margin-left:10px;
-	margin-bottom: 75px;
 }
 
 .texte{
 	margin-left: 20px;
 }
-
 #Localisation {
 	margin-top: 270px;
 	margin-left: 10px;
@@ -426,18 +425,10 @@ header div ul li:hover ul li{
 
 /* CSS PAGE D'ACCUEIL */
 
-.titrefm{
-	padding-top: 10px;
-	padding-bottom: 10px;
-}
-
 #imageaccueil1 {
 	position: right;
 }
 
-.content-1 {
-	margin-right: 20px;
-}
 
 .container{
 	display: flex;
@@ -445,42 +436,25 @@ header div ul li:hover ul li{
 }
 
 #carouselExampleFade {
-	margin: 20px 50px 100px 50px;
+	margin: 20px 50px 20px 50px;
 }
 
 #actualiteaccueil {
 	margin: 0 200px 0 200px;
 }
 
-.container-loc{
-	position: relative;
-	text-align: left;
-}
-
-.textright{
-	position: absolute;
-	right: 100px;
-	max-width: 10%;
-	bottom: 350px;
-	right: 30px;
-}
-
-.titrefm2{
-
-}
-
 #FormTransportaccueil{
 	padding-top: 50px;
 	padding-left: 80px;
-	padding-bottom: 50px;
 }
 
 /* CSS PAGE D'ACCUEIL */
 
 /* NAVBAR FARES */
 
-.navbar{
-	bottom: 75px;
+.navbar {
+	margin-top: 46px;
+	margin-right: 150px;
 }
 
 #banniere1{
@@ -493,8 +467,8 @@ header div ul li:hover ul li{
 	height: 152px;
 	width:100%;
 	background-image: url(Images/banniere1.png);
-	background-repeat: no-repeat;
 	background-size: cover;
+	background-repeat: no-repeat;
 }
 
 @media screen and (max-width:1280px){
@@ -518,25 +492,25 @@ header div ul li:hover ul li{
 
 
 #france{
-    position: absolute;
-    top:105px ;
-    left:1380px;
+	position: absolute;
+	top:167px ;
+	left:1380px;
 }
 
 #imgfr{width: 30px;}
 
 #angleterre{
-    position: absolute;
-    top: 105px;
-    left:1465px;
+	position: absolute;
+	top: 167px;
+	left:1480px;
 }
 
 #imgen{width: 35px;}
 
 #test{
-    position: absolute;
-    top: 107px;
-    left:1435px;
+	position: absolute;
+	top: 167px;
+	left:1435px;
 }
 
 /* NAVBAR FARES */
