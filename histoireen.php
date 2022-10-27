@@ -85,14 +85,13 @@
 	From Place Bellecour, the three main roads of the Presqu'île de Lyon, the Terreaux district to the north and the Perrache district to the south start, including two pedestrian streets:<br>
 </p>
     <ul>
-        <i>rue de la République, which leads to the Place de la Comédie between the Town Hall and the Opera House</i>
-        <i>then onto Place Louis-Pradel via Rue du Puits-Gaillot on the north side</i>
-        <i>rue Victor-Hugo, leading to Perrache on the south side</i>
+        <i>rue de la République, which leads to the Place de la Comédie between the Town Hall and the Opera House</i><br>
+        <i>then onto Place Louis-Pradel via Rue du Puits-Gaillot on the north side</i><br>
+        <i>rue Victor-Hugo, leading to Perrache on the south side</i><br>
 
 <p>On the north side, the rue du Président Édouard Herriot, where the cars pass and where the luxury brands are concentrated, leads to the Place des Terreaux.<br>
     <br>
     The square is also located on the east-west axis linking the right bank of the Rhône and the right bank of the Saône.<br>
-    The Vieux Lyon district and Saint-Jean cathedral are to the west, on the other side of the Bonaparte bridge over the Saône, which can be reached via Rue du Colonel-Chambonnet.
     The Vieux Lyon district and Saint-Jean cathedral are to the west, on the other side of the Bonaparte bridge over the Saône, which can be reached via Rue du Colonel-Chambonnet.
     <br> Two smaller squares are connected to the Place Bellecour:<br>
     <br>
@@ -119,7 +118,8 @@
     The district knows at the time a Roman activity, military and commercial: one finds there Cannabe,<br>
     barracks 6 serving as warehouses for Gallo-Roman merchants and sailors, the city was then located <br>
     on the Fourvière hill and descended on the Saône river at the third level.<br>
-    At the end of the 12th century, the archbishop of Lyon owned Bella Curtis on the peninsula, which consisted of vineyard land. Abandoned, the place became marshy again.<br> 
+    At the end of the 12th century, the archbishop of Lyon owned Bella Curtis on the peninsula,<br>
+     which consisted of vineyard land. Abandoned, the place became marshy again.<br> 
     In 1562, the Baron des Adrets attacked Lyon, setting up his armed men on what was then "le pré de Belle-court"<br> 
     .In 1604, Henry IV urged the town council to acquire the meadow to create a public square.<br>
      But in a never-ending trial, the archbishop's heirs clashed.<br>
@@ -127,12 +127,19 @@
 </p>
 </div>
 <div id="textehistvjr2" class="container-fluid">
-     In 1708, Louis XIV took definitive possession of the site. The Place Louis Legrand is adorned with bronze statues of the king by Martin Desjardins.<br>
-    The square is surrounded by buildings whose facades were designed by the king's first architect Robert de Corte. In 1658, Louis XIV visited Lyon only once in his youth.<br>
-    Since his installation in Versailles, the king has been present in the provinces, notably through his equestrian statues.<br>
-    During the Revolution, an altar of liberty was erected there on 14 July 1790. A guillotine was installed there in 1792. The royal statue was destroyed in 1793.<br>
-    On 21 June 1800, Bonaparte passed through Lyon after his victory at Marengo and laid the first stone of the new building.<br>
-    During the restoration, the square was adorned with a new statue of Louis XIV, inaugurated on 6 November 1825, by the sculptor François-Frédéric Lemot.<br>
+     In 1708, Louis XIV took definitive possession of the site. The Place Louis Legrand is adorned <br>
+     with bronze statues of the king by Martin Desjardins.<br>
+    The square is surrounded by buildings whose facades were designed<br>
+    by the king's first architect Robert de Corte. In 1658, Louis XIV <br>
+    visited Lyon only once in his youth.<br>
+    Since his installation in Versailles, the king has been present in the provinces, <br>
+    notably through his equestrian statues. During the Revolution, an altar of liberty<br>
+    was erected there on 14 July 1790. A guillotine was installed there in 1792. <br>
+    The royal statue was destroyed in 1793.<br>
+    On 21 June 1800, Bonaparte passed through Lyon after his victory at Marengo and<br>
+     laid the first stone of the new building.<br>
+    During the restoration, the square was adorned with a new statue of Louis XIV,<br>
+     inaugurated on 6 November 1825, by the sculptor François-Frédéric Lemot.<br>
     In 1829, Lady Girard established the famous buvette on the square.<br>
     <br>
 </div>

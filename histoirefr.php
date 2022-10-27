@@ -91,9 +91,9 @@
     De la place Bellecour partent les trois axes routiers principaux de la Presqu'île de Lyon, le quartier des Terreaux au nord et le quartier Perrache au sud dont deux rues piétonnes :<br>
 </p>
 <ul>
-    <i>la rue de la République, qui débouche sur la place de la Comédie entre la Mairie et l'Opéra</i>
-    <i>puis sur la place Louis-Pradel par la rue du Puits-Gaillot côté nord</i>
-    <i>la rue Victor-Hugo, menant à Perrache côté sud.</i>
+    <i>la rue de la République, qui débouche sur la place de la Comédie entre la Mairie et l'Opéra</i><br>
+    <i>puis sur la place Louis-Pradel par la rue du Puits-Gaillot côté nord</i><br>
+    <i>la rue Victor-Hugo, menant à Perrache côté sud.</i><br>
 </ul>
 <p>
 Côté nord, la rue du Président Édouard Herriot, où passent les voitures et où se concentrent les marques de luxe, débouche sur la place des Terreaux.<br>
@@ -156,12 +156,17 @@ Mais dans un procès sans fin, les héritiers de l'archevêque se sont affronté
 </p>
 </div>
 <div id="textehistvjr" class="container-fluid">
-En 1708, Louis XIV prend définitivement possession du site. La place Louis Legrand est ornée de statues en bronze représentant le roi, réalisées par Martin Desjardins.<br>
-La place est entourée de bâtiments dont les façades ont été conçues par le premier architecte du roi Robert de Corte. En 1658, Louis XIV ne visite qu'une seule fois Lyon dans sa jeunesse.<br>
-Depuis son installation à Versailles, le roi est présent en province, notamment à travers ses statues équestres.<br>
-A la Révolution, un autel de la liberté y est érigé le 14 juillet 1790. Une guillotine y fut installée en 1792. La statue royale a été détruite en 1793.<br>
-Le 21 juin 1800, Bonaparte passe par Lyon après sa victoire à Marengo et pose la première pierre du nouvel édifice.<br>
-Lors de la restauration, la place est ornée d'une nouvelle statue de Louis XIV, inaugurée le 6 novembre 1825, par le sculpteur François-Frédéric Lemot.<br>
+En 1708, Louis XIV prend définitivement possession du site. La place Louis Legrand <br>
+est ornée de statues en bronze représentant le roi, réalisées par Martin Desjardins.<br>
+La place est entourée de bâtiments dont les façades ont été conçues par le premier <br>
+architecte du roi Robert de Corte. En 1658, Louis XIV ne visite qu'une seule fois <br>Lyon dans <br>
+sa jeunesse.Depuis son installation à Versailles, le roi est présent en province, notamment à travers ses<br> 
+statues équestres.A la Révolution, un autel de la liberté y est érigé le 14 juillet 1790. Une guillotine y fut<br> 
+installée en 1792. La statue royale a été détruite en 1793.<br>
+Le 21 juin 1800, Bonaparte passe par Lyon après sa victoire à Marengo et pose la première <br>
+pierre du nouvel édifice.
+Lors de la restauration, la place est ornée d'une nouvelle statue de Louis XIV,<br>
+ inaugurée le 6 novembre 1825, par le sculpteur François-Frédéric Lemot.<br>
 En 1829, Lady Girard établit la célèbre buvette sur la place.<br>
 <br>
 </div>
@@ -223,7 +228,7 @@ La place de la Charité a ensuite été agrandie pour devenir l'actuelle place A
 </div>
 </div>
 <div style="float:right;"><img src="img/captcha petit.jpg" class="imageflottante" alt="..."></div>
-
+<div id="footer">
 <footer class="bg-light text-center text-white">
     <!-- Grid container -->
         <button class="btn btn-primary" type="button">
@@ -240,7 +245,7 @@ La place de la Charité a ensuite été agrandie pour devenir l'actuelle place A
     </div>
     <!-- Copyright -->
     </footer>
-
+        </div>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js"></script>
 <script src="js/bootstrap.bundle.min.js"></script>
 </body>
