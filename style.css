@@ -116,7 +116,7 @@ header div ul li:hover ul li{
 	display: block;
 }
 
-bannière2{
+#bannière2{
 	display: block;
 	background-color:grey;
 	height: 60px;
@@ -460,7 +460,6 @@ bannière2{
 .textright{
 	position: absolute;
 	right: 100px;
-	top
 	max-width: 10%;
 	bottom: 350px;
 	right: 30px;
