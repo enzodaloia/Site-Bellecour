@@ -128,7 +128,6 @@
 </div>
 </div>
 </div>
-      <div style="float:right;"><img src="img/captcha petit.jpg" class="imageflottante" alt="..."></div>
 
       <div id="footer">
       <footer class="bg-light text-center text-white">

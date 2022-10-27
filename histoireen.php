@@ -219,7 +219,8 @@ The Place de la Charité was later enlarged to become the current Place Antonin-
     </h2>
     <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
       <div class="accordion-body">
-        <strong>More information on the Place Bellecour here</strong> <li><a href="https://www.lyon-france.com/je-decouvre-lyon/sites-et-monuments/Sites-et-monuments-remarquables/La-Place-Bellecour">Tourist office</a></li>
+        <strong>More information on the Place Bellecour here</strong>
+         <li><a href="https://www.lyon-france.com/je-decouvre-lyon/sites-et-monuments/Sites-et-monuments-remarquables/La-Place-Bellecour">Tourist office</a></li>
       </div>
     </div>
   </div>
