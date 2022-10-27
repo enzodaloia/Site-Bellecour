@@ -76,7 +76,7 @@
 %20Bellecour!5e0!3m2!1sfr!2sfr!4v1666248701164!5m2!1sfr!2sfr" width="800" height="400" style="border:0;" allowfullscreen="" 
 loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></iframe>							
 
-<div class="textright2" ><p>Enfin, voici la localisation de Mairie de Bellecour via la Google Map (situé en rouge). </p>
+<div class="textright2" ><p>Enfin, voici la localisation de la Place Bellecour via la Google Map (situé en rouge). </p>
 </div>
 </div>
 

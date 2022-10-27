@@ -62,53 +62,62 @@
 		</div>
 
 
-						<!-- Footer -->
+		<center>	
+	<div class="titreacces">
+		<h1>Access map via expressway</h1>
+	</div>
 
-            <div id="form">
-        <center>
+	<div class="texteacces">
+		<p>Here is a map of how to get to Bellecour via the A7 ring road from the South or via Boulevard de Laurent-Bonnevay from the North.</p>
+	</div>
 
-<h1>Transport</h1>
-<h4>All public transport in Bellecour</h4>
-<div id="FormTransport">
-<h1>TCL</h1>
-<p>Transport, Tramway and Bus</p>
-<img id="..." src="Images/Transport bus.jpg" width="500" height="500">
-<div id="FormTransport">
-<p>For further information on other public transport directions, click on the button below.</p>
-<button type="button" class="btn btn-secondary"><a href="https://www.tcl.fr/sites/default/files/2022-09/Plan_Lyon-Villeurbanne_ao%C3%BBt22_0.pdf" target="_blank" style="font-family: 'Trebuchet MS'; color: #FFFFFF ;">Lien vers le PDF</a></button>
-
-<div id="FormTransport">
-<h1>Vélo'V</h1>
-<p>Location of all bicycle stations</p>
-<img id="..." src="Images/Vélo'V.jpg" width="500" height="700">
-<p>To purchase a card or other, please click on the button below</p>
-<button type="button" class="btn btn-secondary"><a href="https://velov.grandlyon.com/fr/home" target="_blank" style="font-family: 'Trebuchet MS'; color: #FFFFFF ;">Lien vers le PDF</a></button>
-
-<div id="FormTransport">
-<h1>Trotinette Libre-Service</h1>
-<p>Les trottinettes libre-service sont disposées un peux partout dans Lyon, il vous suffit juste d'avoir le logiciel <a href="https://ridedott.com/fr" target="_blank">Dott</a> et <a href="https://www.tier.app/fr/" target="_blank">Tier</a> pour les localiser</p>
-</div>
-<div style="float:right;"><img src="img/captcha petit.jpg" class="imageflottante" alt="..."></div>
-
+		<img src="Images/localisationplacebellecour.jpg" alt="" height="500" width="500">
 </center>
-<footer class="bg-light text-center text-white">
-  <!-- Grid container -->
-    <button class="btn btn-primary" type="button">
-      <i class="fa-brands fa-facebook"></i>
-    </button>
-    <button class="btn btn-danger" type="button">
-      <i class="fa-brands fa-instagram"></i>
-    </button>
-  <!-- Grid container -->
 
-  <!-- Copyright -->
-  <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2);">
-    © 2022 Copyright
-  </div>
-  <!-- Copyright -->
-</footer>
+	
+	
+	
+	
+	
+	
+	<div id="FormActivité">
 
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js"></script>
-	<script src="js/bootstrap.bundle.min.js"></script>
-    </body>
-</html>
+
+<center><h1>Location of the Bellecour Place</h1></center><br>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2783.666440234341!2d4.8300076155673155!3d45.
+75783267910552!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47f4ea537bdc5ab3%3A0x5d9d9385f58b2047!2sPlace
+%20Bellecour!5e0!3m2!1sfr!2sfr!4v1666248701164!5m2!1sfr!2sfr" width="800" height="400" style="border:0;" allowfullscreen="" 
+loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></iframe>							
+
+<div class="textright2" ><p>Finally, here is the location of the Bellecour Place on Google Map (located in red).</p>
+</div>
+</div>
+
+
+								<!-- Localisation  -->
+
+
+
+
+				<!-- Footer -->
+
+				<footer class="bg-light text-center text-white">
+					<!-- Grid container -->
+						<button class="btn btn-primary" type="button">
+						<i class="fa-brands fa-facebook"></i>
+						</button>
+						<button class="btn btn-danger" type="button">
+						<i class="fa-brands fa-instagram"></i>
+						</button>
+					<!-- Grid container -->
+					
+					<!-- Copyright -->
+					<div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2);">
+						© 2022 Copyright
+					</div>
+					<!-- Copyright -->
+					</footer>
+						<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js"></script>
+						<script src="js/bootstrap.bundle.min.js"></script>
+						</body>
+					</html>

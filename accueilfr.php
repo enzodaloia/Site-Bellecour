@@ -73,7 +73,7 @@
 				<center>
 				<h1 class="titre">Présentation du quartier</h1></center>
 					<br>
-				<p class="texte">Sur une presqu'île au bord du fleuve, le quartier Bellecour-Hôtel Dieu entoure l'élégante place Bellecour, dominée par la statue équestre en bronze de Louis XIV, entourée d'hôtels particuliers napoléoniens. Des pièces classiques et modernes sont présentées au Théâtre des Célestins de Lyon. Le boulevard chic du XIXe siècle est parsemé de chocolateries haut de gamme et de boutiques de luxe, ainsi que de bistrots traditionnels et de bars à vin branchés appelés "bouchons".</p>
+				<p class="texte">Bellecour est un quartier du 2ᵉ arrondissement de la ville de Lyon, au cœur de la Presqu'île. Il s'étend entre la place Bellecour et la place Jacobin, avec le quartier des Cordeliers au nord et le quartier d'Ainay au sud.</p>
 			</div>
 
 			<div class="content-2">
