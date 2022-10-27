@@ -20,7 +20,7 @@
    </div>
 
 <!-- <p><img src="Images/LogoBellecourOfficiel.png"></p> -->
-            <div>
+            <div id="print">
 				<ul>
 					<li><a href="accueilen.php">Home</a></li>
 					<li><a href="activitesen.php">Activities</a>
