@@ -23,7 +23,7 @@
    </div>
 
 
-          <div>
+          <div id="print">
             <ul>
                 <li><a href="accueilfr.php">Accueil</a></li>
                 <li><a href="activitesfr.php">Activités</a>
@@ -55,7 +55,7 @@
 <u><h1> La Place Bellecour </h1></u>
 </div>
 
-<div id="textehistvj" class="container-fluid">
+<div id="texte1histvj" class="container-fluid">
 <article>
 
 <p>La place Bellecour est la plus grande place de Lyon (62 000 m²), la cinquième plus grande <br>
@@ -76,13 +76,14 @@
 <br>
 <br>
 <br>
-<center><pre>
-» ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ «
-</pre></center>
+<div id="pre" class="container-fluid">
+<center><p>» ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ «</p></center>
+</div>
 <br>
 <br>
 <div id="titrevjhist" class="container-fluid">
 <article>
+  
 <center><strong><h1> Localisation et accès </h1></strong></center>
 </div>
 <div id="textehistvj" class="container-fluid">
@@ -91,9 +92,9 @@
     De la place Bellecour partent les trois axes routiers principaux de la Presqu'île de Lyon, le quartier des Terreaux au nord et le quartier Perrache au sud dont deux rues piétonnes :<br>
 </p>
 <ul>
-    <i>la rue de la République, qui débouche sur la place de la Comédie entre la Mairie et l'Opéra</i>
-    <i>puis sur la place Louis-Pradel par la rue du Puits-Gaillot côté nord</i>
-    <i>la rue Victor-Hugo, menant à Perrache côté sud.</i>
+    <i>la rue de la République, qui débouche sur la place de la Comédie entre la Mairie et l'Opéra</i><br>
+    <i>puis sur la place Louis-Pradel par la rue du Puits-Gaillot côté nord</i><br>
+    <i>la rue Victor-Hugo, menant à Perrache côté sud.</i><br>
 </ul>
 <p>
 Côté nord, la rue du Président Édouard Herriot, où passent les voitures et où se concentrent les marques de luxe, débouche sur la place des Terreaux.<br>
@@ -111,9 +112,9 @@ Le quartier du Vieux Lyon et la cathédrale Saint-Jean sont à l'ouest, de l'aut
 <br>
 <br>
 <br>
-<center><pre>
-» ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ «
-</pre></center>
+<div id="pre" class="container-fluid">
+<center><p>» ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ «</p></center>
+</div>
 <br>
 <br>
 
@@ -122,8 +123,10 @@ Le quartier du Vieux Lyon et la cathédrale Saint-Jean sont à l'ouest, de l'aut
 <center><strong><h1>Nom de voie:</h1></strong></center>
 </div>
 <div id="textehistvj" class="container-fluid">
-<p>Les noms de lieux avec le mot "Bellecour" sont apparus pour la première fois au XIIe siècle. Les terres agricoles appartenant à l'archevêque s'appellent Bella Curtis ("Le beau jardin"). Au XVIe siècle,<br>
-    ce qui n'était encore qu'un ranch s'appelait Pré de Belle Court. En 1715, elle devient place publique et prend le nom de Place Royale, puis Place Louis Legrand, en hommage à Louis XIV.<br>
+<p>Les noms de lieux avec le mot "Bellecour" sont apparus pour la première fois au XIIe siècle. Les terres agricoles appartenant à l'archevêque<br>
+   s'appellent Bella Curtis ("Le beau jardin"). Au XVIe siècle,<br>
+    ce qui n'était encore qu'un ranch s'appelait Pré de Belle Court. En 1715, elle devient place publique et prend le nom de Place Royale, puis <br>
+    Place Louis Legrand, en hommage à Louis XIV.<br>
 <br>
 En 1790, lors de la Révolution, le nom de la monarchie disparaît et la place devient la place de la Fédération pour perpétuer le souvenir de la Fête de la Fédération,<br>
 dont l'anniversaire devient par la suite la Fête Nationale. A partir de 1793, la place des manifestations politiques de la ville est rebaptisée place de l'Égalité <br>
@@ -135,9 +138,9 @@ et logiquement plus tard elle devient la place Napoléon.<br>
 <br>
 <br>
 <br>
-<center><pre>
-» ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ «
-</pre></center>
+<div class="container-fluid">
+<center><p>» ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ «</p></center>
+</div>
 <br>
 <br>
 <div id="titrevjhist" class="container-fluid">
@@ -147,8 +150,10 @@ et logiquement plus tard elle devient la place Napoléon.<br>
 <p>
 A l'époque gallo-romaine, Bellecour était une île ou presqu'île formée par des terres alluviales. <br>
 Le quartier connaît à l'époque une activité romaine, militaire et commerciale : on y retrouve Cannabe,<br>
-caserne 6 servant d'entrepôts aux marchands et marins gallo-romains, la ville est alors située sur la colline de Fourvière et descend sur la Saône au troisième.<br>
-A la fin du XIIe siècle, l'archevêque de Lyon possédait Bella Curtis sur la presqu'île, constituée de terres à vignes. Abandonné, le lieu redevient marécageux.<br>
+caserne 6 servant d'entrepôts aux marchands et marins gallo-romains, la ville est alors située sur la colline <br>
+de Fourvière et descend sur la Saône au troisième.<br>
+A la fin du XIIe siècle, l'archevêque de Lyon possédait Bella Curtis sur la presqu'île, constituée de terres à vignes. <br>
+Abandonné, le lieu redevient marécageux.<br>
 En 1562, le baron des Adrets attaque Lyon, installant ses hommes armés sur ce qui était alors "le pré de Belle-court".<br>
 En 1604, Henri IV pousse le conseil municipal à acquérir la prairie pour y aménager une place publique.<br>
 Mais dans un procès sans fin, les héritiers de l'archevêque se sont affrontés.<br>
@@ -156,12 +161,17 @@ Mais dans un procès sans fin, les héritiers de l'archevêque se sont affronté
 </p>
 </div>
 <div id="textehistvjr" class="container-fluid">
-En 1708, Louis XIV prend définitivement possession du site. La place Louis Legrand est ornée de statues en bronze représentant le roi, réalisées par Martin Desjardins.<br>
-La place est entourée de bâtiments dont les façades ont été conçues par le premier architecte du roi Robert de Corte. En 1658, Louis XIV ne visite qu'une seule fois Lyon dans sa jeunesse.<br>
-Depuis son installation à Versailles, le roi est présent en province, notamment à travers ses statues équestres.<br>
-A la Révolution, un autel de la liberté y est érigé le 14 juillet 1790. Une guillotine y fut installée en 1792. La statue royale a été détruite en 1793.<br>
-Le 21 juin 1800, Bonaparte passe par Lyon après sa victoire à Marengo et pose la première pierre du nouvel édifice.<br>
-Lors de la restauration, la place est ornée d'une nouvelle statue de Louis XIV, inaugurée le 6 novembre 1825, par le sculpteur François-Frédéric Lemot.<br>
+En 1708, Louis XIV prend définitivement possession du site. La place Louis Legrand <br>
+est ornée de statues en bronze représentant le roi, réalisées par Martin Desjardins.<br>
+La place est entourée de bâtiments dont les façades ont été conçues par le premier <br>
+architecte du roi Robert de Corte. En 1658, Louis XIV ne visite qu'une seule fois <br>Lyon dans <br>
+sa jeunesse.Depuis son installation à Versailles, le roi est présent en province, notamment à travers ses<br> 
+statues équestres.A la Révolution, un autel de la liberté y est érigé le 14 juillet 1790. Une guillotine y fut<br> 
+installée en 1792. La statue royale a été détruite en 1793.<br>
+Le 21 juin 1800, Bonaparte passe par Lyon après sa victoire à Marengo et pose la première <br>
+pierre du nouvel édifice.
+Lors de la restauration, la place est ornée d'une nouvelle statue de Louis XIV,<br>
+ inaugurée le 6 novembre 1825, par le sculpteur François-Frédéric Lemot.<br>
 En 1829, Lady Girard établit la célèbre buvette sur la place.<br>
 <br>
 </div>
@@ -183,11 +193,12 @@ La place de la Charité a ensuite été agrandie pour devenir l'actuelle place A
 <br>
 <br>
 <br>
-<center><pre>
-» ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ «
-</pre></center>
+<div id="pre1" class="container-fluid">
+<center><p>» ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ «</p></center>
+</div>
 <br>
 <br>
+<div id="card123">
 <div class="accordion" id="accordion1">
   <div class="accordion-item">
     <h2 class="accordion-header" id="headingOne">
@@ -214,7 +225,7 @@ La place de la Charité a ensuite été agrandie pour devenir l'actuelle place A
     </div>
   </div>
 </div>
-
+</div>
 </p></center>
 </ul>
 </article>
@@ -222,7 +233,6 @@ La place de la Charité a ensuite été agrandie pour devenir l'actuelle place A
 </div>
 </div>
 </div>
-<div style="float:right;"><img src="img/captcha petit.jpg" class="imageflottante" alt="..."></div>
 
 <footer class="bg-light text-center text-white">
     <!-- Grid container -->
@@ -240,7 +250,7 @@ La place de la Charité a ensuite été agrandie pour devenir l'actuelle place A
     </div>
     <!-- Copyright -->
     </footer>
-
+        
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js"></script>
 <script src="js/bootstrap.bundle.min.js"></script>
 </body>

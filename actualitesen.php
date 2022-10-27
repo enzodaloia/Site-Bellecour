@@ -28,7 +28,7 @@
    </div>
 
 <!-- <p><img src="Images/LogoBellecourOfficiel.png"></p> -->
-      <div>
+      <div id="print">
 				<ul>
 					<li><a href="accueilen.php">Home</a></li>
 					<li><a href="activitesen.php">Activities</a>
@@ -45,6 +45,8 @@
 			</div>
 <div id="bannière2">    
 </div>
+<div id="france"><a href="actualitesfr.php"><p><img id="imgfr" src="Images/france.jpg"></p></a></div>
+<div id="angleterre"><a href="actualitesen.php"><p><img id="imgen" src="Images/angleterre.jpg"></p></a></div>
 </header>
 
 
@@ -52,9 +54,6 @@
 <div id="test">
 		<p>/</p>
 	</div>
-	<div id="france"><a href="actualitesfr.php"><p><img id="imgfr" src="Images/france.jpg"></p></a></div>
-	<div id="angleterre"><a href="actualitesen.php"><p><img id="imgen" src="Images/angleterre.jpg"></p></a></div>
-
 	<div id="titrevj">
        <center><h1>News</h1></center>
 </div>
@@ -131,6 +130,8 @@
       <a href="https://actu.fr/auvergne-rhone-alpes/lyon_69123/lyon-comment-le-quartier-de-la-part-dieu-et-ses-tours-sont-desormais-plonges-dans-le-noir_54572954.html"  target="_blank" class="btn btn-Secondary">See more...</a>
     </div>
   </div>
+  
+  <div id="footer">
   <footer class="bg-light text-center text-white">
     <!-- Grid container -->
         <button class="btn btn-primary" type="button">
@@ -147,7 +148,7 @@
     </div>
     <!-- Copyright -->
     </footer>
-
+</div>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js"></script>
     <script src="js/bootstrap.bundle.min.js"></script>
     </body>
