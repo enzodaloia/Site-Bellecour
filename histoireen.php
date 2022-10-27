@@ -20,7 +20,7 @@
    </div>
 
 <!-- <p><img src="Images/LogoBellecourOfficiel.png"></p> -->
-            <div id="print">
+      <div id="print">
 				<ul>
 					<li><a href="accueilen.php">Home</a></li>
 					<li><a href="activitesen.php">Activities</a>
@@ -71,9 +71,10 @@
 <br>
 <br>
 <br>
+<div id="pre1">
 <center><pre>
 » ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ «
-</pre></center>
+</pre></center></div>
 <br>
 <br>
 <div id="titrevjhist" class="container-fluid">
@@ -98,15 +99,16 @@
 </p>
 </article>
 </div>
-
+<div>
 <img id="imgvj" src="Images/where.jgp" class="card-img-top">
 </div>
 <br>
 <br>
 <br>
+<div id="pre1">
 <center><pre>
 » ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ «
-</pre></center>
+</pre></center></div>
 <br>
 <br>
 <div id="titrevjhist" class="container-fluid">
@@ -123,9 +125,9 @@
     In 1562, the Baron des Adrets attacked Lyon, setting up his armed men on what was then "le pré de Belle-court"<br> 
     .In 1604, Henry IV urged the town council to acquire the meadow to create a public square.<br>
      But in a never-ending trial, the archbishop's heirs clashed.<br>
-<br>
 </p>
 </div>
+<br>
 <div id="textehistvjr2" class="container-fluid">
      In 1708, Louis XIV took definitive possession of the site. The Place Louis Legrand is adorned <br>
      with bronze statues of the king by Martin Desjardins.<br>
@@ -141,8 +143,8 @@
     During the restoration, the square was adorned with a new statue of Louis XIV,<br>
      inaugurated on 6 November 1825, by the sculptor François-Frédéric Lemot.<br>
     In 1829, Lady Girard established the famous buvette on the square.<br>
-    <br>
 </div>
+<br>
 <div id="textehistvj" class="container-fluid">
     The two pavilions on the square were built by Tony Desjardins in 1852.<br>
     To the west, near the kindergarten, before becoming the offices of the tourist office "Le Rectangle",<br>
@@ -154,9 +156,10 @@
 <br>
 <br>
 <br>
+<div id="pre1"></div>
 <center><pre>
 » ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ «
-</pre></center>
+</pre></center></div>
 <div id="titrevjhist" class="container-fluid">
 <center><strong><h1>History</h1></strong></center>
 </div>
@@ -169,8 +172,8 @@ During the Revolution, an altar of liberty was erected here on 14 July 1790. A g
 On 21 June 1800, Bonaparte passed through Lyon after his victory at Marengo and laid the first stone of the new building.<br>
 During the restoration, the square was decorated with a new statue of Louis XIV, inaugurated on 6 November 1825 by the sculptor François-Frédéric Lemot.<br>
 In 1829, Lady Girard established the famous buvette on the square.<br>
-<br>
 </div>
+<br>
 <div id="textehistvj" class="container-fluid">
 The two pavilions in the square were built by Tony Desjardins in 1852.<br>
 To the west, near the kindergarten, before becoming the offices of the tourist office "Le Rectangle",<br>
@@ -181,18 +184,20 @@ into a police station and then in 19247 into a tourist office.<br>
 <br>
 In 1934, the Charity Hospital was destroyed, with the exception of the church tower.<br>
 The Place de la Charité was later enlarged to become the current Place Antonin-Ponce.<br>
-<br>
 </p>
-
+</div>
+<br>
 <img id="bcvj" src="Images/bcvj.png" class="img-fluid">
 <br>
 <br>
 <br>
+<div id="pre1">
 <center><pre>
 » ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ «
-</pre></center>
+</pre></center></div>
 <br>
 <br>
+<div id="card123">
 <div class="accordion" id="accordion1">
   <div class="accordion-item">
     <h2 class="accordion-header" id="headingOne">
@@ -218,6 +223,7 @@ The Place de la Charité was later enlarged to become the current Place Antonin-
       </div>
     </div>
   </div>
+</div>
 </div>
 
 <footer class="bg-light text-center text-white">
