@@ -181,7 +181,6 @@
 	</center>
 	</div>
 
-<<<<<<< HEAD
 	<footer class="bg-light text-center text-white">
   <!-- Grid container -->
     <button class="btn btn-primary" type="button">
@@ -203,9 +202,3 @@
 	<script src="js/bootstrap.bundle.min.js"></script>
 	</body>
 </html>
-=======
-  <div id="FormEspace">
-		<script src="js/bootstrap.bundle.min.js"></script>
-				</body>
-			</html>
->>>>>>> 735c912873049f5a7116026a209472aa49376040
