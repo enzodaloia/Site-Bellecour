@@ -99,9 +99,9 @@
 </p>
 </article>
 </div>
-<div>
+
 <img id="imgvj" src="Images/where.jgp" class="card-img-top">
-</div>
+
 <br>
 <br>
 <br>
