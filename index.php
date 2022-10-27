@@ -69,36 +69,45 @@
 	<body id="body">
 		<br><br><br>
 		<div class="container">
-			<div id="accueiltexte">
+			<div class="content-1">
 				<center>
 				<h1 class="titre">Présentation du quartier</h1></center>
 					<br>
-				<p class="texte">Situé sur la presqu'île, au bord du fleuve, le quartier Bellecour-Hôtel Dieu s'étend autour de l'élégante place Bellecour, dominée par une statue équestre en bronze de Louis XIV et entourée d'hôtels particuliers de l'époque napoléonienne. Des pièces classiques et contemporaines sont jouées aux Célestins, le théâtre de Lyon. Les boulevards chics du XIXe siècle sont parsemés de chocolatiers haut de gamme et de boutiques de luxe, ainsi que de brasseries traditionnelles, appelées "bouchons", et de bars à vin tendance.</p>
+				<p class="texte">Sur une presqu'île au bord du fleuve, le quartier Bellecour-Hôtel Dieu entoure l'élégante place Bellecour, dominée par la statue équestre en bronze de Louis XIV, entourée d'hôtels particuliers napoléoniens. Des pièces classiques et modernes sont présentées au Théâtre des Célestins de Lyon. Le boulevard chic du XIXe siècle est parsemé de chocolateries haut de gamme et de boutiques de luxe, ainsi que de bistrots traditionnels et de bars à vin branchés appelés "bouchons".</p>
 			</div>
 
 			<div class="content-2">
 				<br>
-				<img src="Images/imageaccueil1.jpg" alt="" width="150" height="150">
+				<img id="imageaccueil1" src="Images/placebellecour1800.jpeg" alt="" width="700" height="450">
 			</div>
 		</div>
 
 
-						<!-- Présentation du quartier -->
+				<!-- Présentation du quartier -->
 
-						<!-- Carrousel Activités -->
+				<!-- Carrousel Activités -->
 
 						<!-- Localisation -->
+			
+				<div class="container-loc"
+				<div id="FormTransportaccueil">
+					<center><h1>Localisation de la mairie Bellecour</h1><br></center>
+					<div id="localisationccueil"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2324.1232401906177!2d4.82530626920767!3d45.
+						753311636146165!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47f4ebb2c85e55d7%3A0x3cf56b3e1040e2fe!2sMa
+						irie%20du%202e%20arrondissement%20de%20Lyon!5e0!3m2!1sfr!2sfr!4v1666188749619!5m2!1sfr!2sfr" width="800" height="400" 
+						style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+						<div class="textright" ><p>Enfin, voici la localisation de Mairie de Bellecour via la Google Map (situé en rouge). </p></div>
+					</div>
+				</div><br>
+			<p></p>
+			</div>
+					
+	
+	
+	
+						<!-- Localisation -->			
 
-						<div id="FormTransport">
-							<center><h1>Localisation de la mairie Bellecour</h1><br>
-							<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2324.1232401906177!2d4.82530626920767!3d45.
-							753311636146165!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47f4ebb2c85e55d7%3A0x3cf56b3e1040e2fe!2sMa
-							irie%20du%202e%20arrondissement%20de%20Lyon!5e0!3m2!1sfr!2sfr!4v1666188749619!5m2!1sfr!2sfr" width="800" height="400" 
-							style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></div></center><br>
-
-						<!-- Localisation -->				
-
-						<!-- Corps de texte -->
+				<!-- Corps de texte -->
 
 
 						<!-- Footer -->
