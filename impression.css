@@ -92,7 +92,7 @@ img.droite {
 @page { margin: 10% }
 
 #textehistvjr{
-	margin-left: 0;
+	margin-left: 0px;
 	margin-top: 350px;
 }
 

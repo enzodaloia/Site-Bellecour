@@ -77,7 +77,7 @@
 <br>
 <br>
 <div id="pre" class="container-fluid">
-<center><p>» ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ «</p></center>
+<center><pre>» ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ «</pre></center>
 </div>
 <br>
 <br>
@@ -113,15 +113,16 @@ Le quartier du Vieux Lyon et la cathédrale Saint-Jean sont à l'ouest, de l'aut
 <br>
 <br>
 <div id="pre" class="container-fluid">
-<center><p>» ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ «</p></center>
+<center><pre>» ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ «</pre></center>
 </div>
 <br>
 <br>
 
-
+<center>
 <div id="titrevjhist" class="container-fluid">
-<center><strong><h1>Nom de voie:</h1></strong></center>
+<strong><h1>Nom de voie:</h1></strong>
 </div>
+</center>
 <div id="textehistvj" class="container-fluid">
 <p>Les noms de lieux avec le mot "Bellecour" sont apparus pour la première fois au XIIe siècle. Les terres agricoles appartenant à l'archevêque<br>
    s'appellent Bella Curtis ("Le beau jardin"). Au XVIe siècle,<br>
@@ -139,41 +140,56 @@ et logiquement plus tard elle devient la place Napoléon.<br>
 <br>
 <br>
 <div class="container-fluid">
-<center><p>» ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ «</p></center>
+<center><pre>» ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ «</pre></center>
 </div>
 <br>
 <br>
 <div id="titrevjhist" class="container-fluid">
 <center><strong><h1>Histoire</h1></strong></center>
 </div>
-<div id="textehistvj" class="container-fluid">
-<p>
-A l'époque gallo-romaine, Bellecour était une île ou presqu'île formée par des terres alluviales. <br>
-Le quartier connaît à l'époque une activité romaine, militaire et commerciale : on y retrouve Cannabe,<br>
-caserne 6 servant d'entrepôts aux marchands et marins gallo-romains, la ville est alors située sur la colline <br>
-de Fourvière et descend sur la Saône au troisième.<br>
-A la fin du XIIe siècle, l'archevêque de Lyon possédait Bella Curtis sur la presqu'île, constituée de terres à vignes. <br>
-Abandonné, le lieu redevient marécageux.<br>
-En 1562, le baron des Adrets attaque Lyon, installant ses hommes armés sur ce qui était alors "le pré de Belle-court".<br>
-En 1604, Henri IV pousse le conseil municipal à acquérir la prairie pour y aménager une place publique.<br>
-Mais dans un procès sans fin, les héritiers de l'archevêque se sont affrontés.<br>
-<br>
-</p>
+<div class="container-fluid">
+	<div class="row">
+		<div class="col-md-6">
+			<p>
+				A l'époque gallo-romaine, Bellecour était une île ou presqu'île formée par des terres alluviales.
+Le quartier connaît à l'époque une activité romaine, militaire et commerciale : on y retrouve Cannabe,
+caserne 6 servant d'entrepôts aux marchands et marins gallo-romains, la ville est alors située sur la colline
+de Fourvière et descend sur la Saône au troisième.
+A la fin du XIIe siècle, l'archevêque de Lyon possédait Bella Curtis sur la presqu'île, constituée de terres à vignes.
+Abandonné, le lieu redevient marécageux.
+En 1562, le baron des Adrets attaque Lyon, installant ses hommes armés sur ce qui était alors "le pré de Belle-court".
+En 1604, Henri IV pousse le conseil municipal à acquérir la prairie pour y aménager une place publique.
+Mais dans un procès sans fin, les héritiers de l'archevêque se sont affrontés.
+</small>
+			</p>
+		</div>
+		<div class="col-md-6">
+		</div>
+	</div>
 </div>
-<div id="textehistvjr" class="container-fluid">
-En 1708, Louis XIV prend définitivement possession du site. La place Louis Legrand <br>
-est ornée de statues en bronze représentant le roi, réalisées par Martin Desjardins.<br>
-La place est entourée de bâtiments dont les façades ont été conçues par le premier <br>
-architecte du roi Robert de Corte. En 1658, Louis XIV ne visite qu'une seule fois <br>Lyon dans <br>
-sa jeunesse.Depuis son installation à Versailles, le roi est présent en province, notamment à travers ses<br> 
-statues équestres.A la Révolution, un autel de la liberté y est érigé le 14 juillet 1790. Une guillotine y fut<br> 
-installée en 1792. La statue royale a été détruite en 1793.<br>
-Le 21 juin 1800, Bonaparte passe par Lyon après sa victoire à Marengo et pose la première <br>
+<div class="container-fluid">
+	<div class="row">
+		<div class="col-md-6">
+			<img alt="Bootstrap Image Preview" src="Images/bellecour histoire.jpg" />
+		</div>
+		<div class="col-md-6">
+			<p>
+				En 1708, Louis XIV prend définitivement possession du site. La place Louis Legrand
+est ornée de statues en bronze représentant le roi, réalisées par Martin Desjardins.
+La place est entourée de bâtiments dont les façades ont été conçues par le premier
+architecte du roi Robert de Corte. En 1658, Louis XIV ne visite qu'une seule fois Lyon dans 
+sa jeunesse.Depuis son installation à Versailles, le roi est présent en province, notamment à travers ses
+statues équestres.A la Révolution, un autel de la liberté y est érigé le 14 juillet 1790. Une guillotine y fut
+installée en 1792. La statue royale a été détruite en 1793.
+Le 21 juin 1800, Bonaparte passe par Lyon après sa victoire à Marengo et pose la première 
 pierre du nouvel édifice.
-Lors de la restauration, la place est ornée d'une nouvelle statue de Louis XIV,<br>
- inaugurée le 6 novembre 1825, par le sculpteur François-Frédéric Lemot.<br>
-En 1829, Lady Girard établit la célèbre buvette sur la place.<br>
-<br>
+Lors de la restauration, la place est ornée d'une nouvelle statue de Louis XIV,
+ inaugurée le 6 novembre 1825, par le sculpteur François-Frédéric Lemot.
+En 1829, Lady Girard établit la célèbre buvette sur la place.
+</small>
+			</p>
+		</div>
+	</div>
 </div>
 <div id="textehistvj" class="container-fluid">
 Les deux pavillons de la place ont été construits par Tony Desjardins en 1852.<br>
