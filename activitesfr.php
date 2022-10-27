@@ -52,6 +52,7 @@
 <div class="row"> 
 <div class="container-fluid">
 
+<div id="mbcard"
 <div class="row row-cols-1 row-cols-md-3 g-4">
 <div class="col" width="447" height="300">
 <div class="card h-100">
@@ -70,7 +71,7 @@
   <div class="card-body">
     <h4 class="card-title">Visite vélo</h4>
     <p class="card-texte">Bellecour : Visite de 2h à vélo électrique avec guide local</p>
-    <p class="card-texte">2 heures · Petit Groupe</p>
+    <pmbcard class="card-texte">2 heures · Petit Groupe</pmbcard>
     <p class="card-texte">Participation : 30€ par personne</p>
   </div>
 </div>
@@ -117,6 +118,7 @@
     <p class="card-texte">2 heures · Petit Groupe</p>
     <p class="card-texte">Participation : 5€ par personne</p>
   </div>
+</div>
 </div>
 </div>
 </div>
