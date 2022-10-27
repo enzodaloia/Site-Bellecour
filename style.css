@@ -450,6 +450,31 @@ header div ul li:hover ul li{
 
 /* CSS PAGE D'ACCUEIL */
 
+/* CSS PAGE D'ACCES */
+
+.textright2{
+	position: absolute;
+	left: 900px;
+	top: 1250px;
+}
+
+.textright{
+	position: absolute;
+	left: 900px;
+	top: 900px;
+}
+
+.titreacces{
+	margin-top: 130px;
+	margin-bottom: 30px;
+}
+
+.texteacces{
+	margin-bottom: 50px;
+}
+
+/* CSS PAGE D'ACCES */
+
 /* NAVBAR FARES */
 
 .navbar {
@@ -467,6 +492,7 @@ header div ul li:hover ul li{
 	height: 152px;
 	width:100%;
 	background-image: url(Images/banniere1.png);
+	background-size: cover;
 	background-repeat: no-repeat;
 }
 
@@ -573,6 +599,8 @@ margin-left: 30px;
 #textehistvj{
 	margin-left: 50px;
 	margin-right: auto;
+	margin-left: 55px;
+	margin-right: 450px;
 }
 
 #titrevjhist{
@@ -593,6 +621,9 @@ margin-left: 30px;
 #textehistvjr{
 padding-left: 700px;
 padding-right : 50px;
+
+	margin-left: 650px;
+	margin-right: 55px;
 }
 
 body {
@@ -619,4 +650,5 @@ body {
 
 pre {
 	overflow: hidden;
+
 }
