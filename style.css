@@ -133,6 +133,7 @@ header div ul li:hover ul li{
 
 #body{
     background-color: bisque;
+	overflow-x: hidden;
 }
 
 #article {
