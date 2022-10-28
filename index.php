@@ -45,13 +45,13 @@
 		<p>/</p>
 	</div>
 		<div id="france">
-			<a href="accueilfr.php">
+			<a href="index.php">
 				<p><img id="imgfr" src="Images/france.jpg"></p>
 			</a>
 		</div>
 
 		<div id="angleterre">
-			<a href="accueilen.php">
+			<a href="indexen.php">
 				<p>
 					<img id="imgen" src="Images/angleterre.jpg">
 				</p>
