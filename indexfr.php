@@ -19,7 +19,7 @@
 <div id="banniere1"></div>
 		<div>
             <ul>
-                <li><a href="accueilfr.php">Accueil</a></li>
+                <li><a href="indexfr.php">Accueil</a></li>
                 <li><a href="activitesfr.php">Activités</a>
                 </li>
                 <li><a href="histoirefr.php">Histoire</a></li>

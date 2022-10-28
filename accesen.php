@@ -22,7 +22,7 @@
 
 <div>
 				<ul>
-					<li><a href="accueilen.php">Home</a></li>
+					<li><a href="indexen.php">Home</a></li>
 					<li><a href="activitesen.php">Activities</a>
 					</li>
 					<li><a href="histoireen.php">Story</a></li>
